@@ -76,6 +76,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [ChatGPT for Slack Bot](https://github.com/pedrorito/ChatGPTSlackBot)
 - [ChatGPT for Discord Bot](https://github.com/m1guelpf/chatgpt-discord)
 - [For personal WeChat ChatGPT access](https://github.com/djun/wechatbot)
+- [ChatGPT Q&A assistant](https://github.com/fuzhengwei/chatbot-api)
 
 ## Extend ChatGPT Feature
 - [shareGPT - permenent links to your conversations](https://github.com/domeccleston/sharegpt)
