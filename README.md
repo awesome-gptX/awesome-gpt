@@ -68,6 +68,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 
 ## Chat bots
+- [Use ChatGPT On Wechat via wechaty](https://github.com/fuergaosi233/wechat-chatgpt)
 - [Serverless Telegram bot](https://github.com/franalgaba/chatgpt-telegram-bot-serverless)
 - [WhatsApp bot](https://github.com/danielgross/whatsapp-gpt)
 - [RayCast Extension (unofficial)](https://github.com/abielzulio/chatgpt-raycast)
