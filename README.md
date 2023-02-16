@@ -39,6 +39,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [TLS-based API (Python)](https://github.com/rawandahmad698/PyChatGPT)
 - [Unofficial API in JS/TS](https://github.com/transitive-bullshit/chatgpt-api)
 - [Unofficial API in Dart](https://github.com/MisterJimson/chatgpt_api_dart)
+- [A Java Version ChatGPT SDK](https://github.com/swordintent/chatgpt-web-api)
 
 
 ## Browser Extensions
