@@ -76,6 +76,8 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 ## Extend ChatGPT Feature
 - [shareGPT - permenent links to your conversations](https://github.com/domeccleston/sharegpt)
+- [Generate your business emails in seconds](https://github.com/shengxinjing/email-helper)
+- [Generate your Twitter bio with OpenAI and Vercel Edge Functions](https://github.com/Nutlope/twitterbio)
 
 ## Applications
 - [ChatARKit: Using ChatGPT to Create AR Experiences with Natural Language](https://github.com/trzy/ChatARKit)
