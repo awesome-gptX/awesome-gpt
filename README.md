@@ -6,6 +6,23 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 ---
 
+## Table of Contents
+
+- [Official Resources](#official-resources)
+- [ChatGPT Community](#chatgpt-community)
+- [API tools](#api-tools)
+- [Browser Extensions](#browser-extensions)
+- [Desktop Applications](#desktop-applications)
+- [Editors](#editors)
+- [Chat bots](#chat-bots)
+- [Extend ChatGPT Feature](#extend-chatgpt-feature)
+- [Applications](#applications)
+- [CLI tools](#cli-tools)
+- [Github Actions](#github-actions)
+- [Cybersecurity](#cybersecurity)
+- [Prompts](#prompts)
+- [Reverse Proxy](#reverse-proxy)
+- [Experiments](#experiments)
 
 ## Official Resources
 
@@ -13,7 +30,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [OpenAI API Documentation](https://beta.openai.com/docs)
 - [chatGPT launch blog](https://openai.com/blog/chatgpt/)
 
-## ChatGPT Community / Discussion
+## ChatGPT Community
 - [OpenAI Discord Channel](https://discord.com/invite/openai)
 
 
@@ -49,7 +66,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [Google docs](https://github.com/cesarhuret/docGPT): ChatGPT directly within Google Docs as an Editor Add-on.
 
 
-## Chatbots
+## Chat bots
 - [Serverless Telegram bot](https://github.com/franalgaba/chatgpt-telegram-bot-serverless)
 - [WhatsApp bot](https://github.com/danielgross/whatsapp-gpt)
 - [RayCast Extension (unofficial)](https://github.com/abielzulio/chatgpt-raycast)
@@ -79,7 +96,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [Beelzebub ChatGPT Honeypot](https://github.com/mariocandela/beelzebub)
 - [Penetration Testing Findings Generator](https://github.com/Stratus-Security/FinGen)
 
-## Example prompts
+## Prompts
 - [showGPT](https://showgpt.co/): Website with curated list of best prompts, and you can submit your own easily.
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts): ChatGPT prompts that works well.
 - [awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt): Posts & thoughts about prompting ChatGPT for different usages
