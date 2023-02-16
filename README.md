@@ -1,5 +1,11 @@
 # Awesome-ChatGPT
 
+### Contribution
+
+Your contributions and suggestions are warmly welcomed.
+
+---
+
 #### ChatGPT General Resources
 
 - [ChatGPT Official App](https://chat.openai.com)
@@ -69,11 +75,4 @@
 ... just follow [@goodside](https://twitter.com/goodside)
 
 
-
-
----
-
-### Contribution
-
-Your contributions and suggestions are warmly welcomed.
 
