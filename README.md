@@ -61,7 +61,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 - [ChatGPT VSCode](https://github.com/mpociot/chatgpt-vscode): VSCode extension. ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
 - [A VS code plugin for ChatGPT built by ChatGPT](https://github.com/barnesoir/chatgpt-vscode-plugin)
-- [The extension is pair-programmed with ChatGPT.](https://github.com/gencay/vscode-chatgpt)
+- [The extension is pair-programmed with ChatGPT](https://github.com/gencay/vscode-chatgpt)
 - [Jetbrains IDEs plugin](https://github.com/LiLittleCat/intellij-chatgpt): A ChatGPT plugin for JetBrains IDEs.
 - [chatgpt.vim](https://github.com/terror/chatgpt.nvim): Neovim plugin that lets you query ChatGPT inside a Neovim buffer.
 - [Google docs](https://github.com/cesarhuret/docGPT): ChatGPT directly within Google Docs as an Editor Add-on.
@@ -75,6 +75,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [Twitter Bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) powered by ChatGPT
 - [ChatGPT for Slack Bot](https://github.com/pedrorito/ChatGPTSlackBot)
 - [ChatGPT for Discord Bot](https://github.com/m1guelpf/chatgpt-discord)
+- [For personal WeChat ChatGPT access](https://github.com/djun/wechatbot)
 
 ## Extend ChatGPT Feature
 - [shareGPT - permenent links to your conversations](https://github.com/domeccleston/sharegpt)
