@@ -87,6 +87,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [Integrate ChatGPT into your own discord bot](https://github.com/Zero6992/chatGPT-discord-bot)
 - [This is a very early attempt at having chatGPT work within a telegram bot](https://github.com/altryne/chatGPT-telegram-bot)
 - [A ChatGPT implementation with support for Bing's GPT-4 version of ChatGPT](https://github.com/waylaidwanderer/node-chatgpt-api)
+- [A progressive ChatGPT feishu bot, made for Girlfriend](https://github.com/ulivz/progressive-chatgpt-bot)
 
 ## Extend ChatGPT Feature
 - [shareGPT - permenent links to your conversations](https://github.com/domeccleston/sharegpt)
