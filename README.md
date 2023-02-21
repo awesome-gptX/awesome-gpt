@@ -108,6 +108,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [GPT3 WordPress post generator](https://github.com/nicolaballotta/gtp3-wordpress-post-generator)
 - [Assistant CLI](https://github.com/diciaup/assistant-cli)
 - [API for interacting with ChatGPT using Python and from Shell](https://github.com/mmabrouk/chatgpt-wrapper)
+- [A CLI that writes your git commit messages for you with AI](https://github.com/Nutlope/aicommits)
 
 ## Github Actions
 - [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)
