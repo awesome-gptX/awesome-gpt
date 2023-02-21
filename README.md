@@ -94,13 +94,14 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [shareGPT - permenent links to your conversations](https://github.com/domeccleston/sharegpt)
 - [Generate your business emails in seconds](https://github.com/shengxinjing/email-helper)
 - [Generate your Twitter bio with OpenAI and Vercel Edge Functions](https://github.com/Nutlope/twitterbio)
+- [Utilizing OpenAI's Image Generation api with vue3, vite and pinia(similar to the DALLE app)](https://github.com/Jaykef/OpenAI-ImageGeneration-Vue3)
 
 ## Applications
 - [ChatARKit: Using ChatGPT to Create AR Experiences with Natural Language](https://github.com/trzy/ChatARKit)
 - [GPT3 Blog Post Generator](https://github.com/simplysabir/AI-Writing-Assistant)
 - [Debugger that fixes errors and explains them with GPT-3](https://github.com/shobrook/adrenaline/)
 - [OpenAI ChatGPT SwiftUI app for iOS, iPadOS, macOS](https://github.com/37iOS/iChatGPT)
-- [📱 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose](https://github.com/skydoves/chatgpt-android)
+- [ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose](https://github.com/skydoves/chatgpt-android)
 
 ## CLI tools
 - [Voice-based chatGPT](https://github.com/platelminto/chatgpt-conversation)
