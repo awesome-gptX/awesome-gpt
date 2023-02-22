@@ -95,6 +95,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [Generate your business emails in seconds](https://github.com/shengxinjing/email-helper)
 - [Generate your Twitter bio with OpenAI and Vercel Edge Functions](https://github.com/Nutlope/twitterbio)
 - [Utilizing OpenAI's Image Generation api with vue3, vite and pinia(similar to the DALLE app)](https://github.com/Jaykef/OpenAI-ImageGeneration-Vue3)
+- [A powerful image generation model, can through the study of the evolution of an image to generate a new image](https://github.com/phodal/ai-research-for-practise)
 
 ## Applications
 - [ChatARKit: Using ChatGPT to Create AR Experiences with Natural Language](https://github.com/trzy/ChatARKit)
