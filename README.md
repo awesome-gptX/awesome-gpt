@@ -77,6 +77,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [Use ChatGPT On Wechat via wechaty](https://github.com/fuergaosi233/wechat-chatgpt)
 - [ChatGPT for Wechat](https://github.com/AutumnWhj/ChatGPT-wechat-bot)
 - [Wechat robot based on ChatGPT, which using OpenAI api and itchat library](https://github.com/zhayujie/chatgpt-on-wechat)
+- [chatgpt for chatbot feishu](https://github.com/go-zoox/chatgpt-for-chatbot-feishu)
 - [Serverless Telegram bot](https://github.com/franalgaba/chatgpt-telegram-bot-serverless)
 - [WhatsApp bot](https://github.com/danielgross/whatsapp-gpt)
 - [RayCast Extension (unofficial)](https://github.com/abielzulio/chatgpt-raycast)
@@ -113,6 +114,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [Assistant CLI](https://github.com/diciaup/assistant-cli)
 - [API for interacting with ChatGPT using Python and from Shell](https://github.com/mmabrouk/chatgpt-wrapper)
 - [A CLI that writes your git commit messages for you with AI](https://github.com/Nutlope/aicommits)
+- [Support OpenAI and more engineered, lightweight, customizable, standard output format commitizen adapter and CLI](https://github.com/Zhengqbbb/cz-git)
 
 ## Github Actions
 - [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)
