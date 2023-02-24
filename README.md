@@ -52,6 +52,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [Chrome extension to add input history, copy, and counters to ChatGPT](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc)
 - [ChassistantGPT - embeds ChatGPT as a hands-free voice assistant in the background](https://github.com/idosal/assistant-chat-gpt)
 - [WebChatGPT - augment your prompts to ChatGPT with web search results](https://github.com/qunash/chatgpt-advanced/)
+- [A userscript to display ChatGPT answer alongside Search Engine or Translator](https://github.com/zhengbangbo/chat-gpt-userscript)
 
 ## Desktop Applications
 
