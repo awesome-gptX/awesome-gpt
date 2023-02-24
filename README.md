@@ -42,6 +42,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [A Java Version ChatGPT SDK](https://github.com/swordintent/chatgpt-web-api)
 - [ChatGPT Java SDK. Lightweight package for interacting with ChatGPT's API by OpenAI](https://github.com/PlexPt/chatgpt-java)
 - [This repo is unofficial ChatGPT api](https://github.com/taranjeet/chatgpt-api)
+- [Deploy chatGPT on the server](https://github.com/dataaug/chatGPT-server)
 
 
 ## Browser Extensions
