@@ -118,6 +118,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 ## Github Actions
 - [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)
+- [🐥 A code review bot powered by ChatGPT](https://github.com/anc95/ChatGPT-CodeReview)
 
 ## Cybersecurity
 - [Beelzebub ChatGPT Honeypot](https://github.com/mariocandela/beelzebub)
