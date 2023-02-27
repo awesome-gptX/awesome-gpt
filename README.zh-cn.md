@@ -9,7 +9,7 @@
 ## 目录
 
 - [官方资源](#官方资源)
-- [ChatGPT 社区](#ChatGPT 社区)
+- [ChatGPT 社区](#chatgpt-社区)
 - [API tools](#api-tools)
 - [Browser Extensions](#browser-extensions)
 - [Desktop Applications](#desktop-applications)
