@@ -8,8 +8,8 @@
 
 ## 目录
 
-- [官方资源](#official-resources)
-- [ChatGPT Community](#chatgpt-community)
+- [官方资源](#官方资源)
+- [ChatGPT 社区](#ChatGPT 社区)
 - [API tools](#api-tools)
 - [Browser Extensions](#browser-extensions)
 - [Desktop Applications](#desktop-applications)
@@ -30,7 +30,7 @@
 - [OpenAI API Documentation](https://beta.openai.com/docs)
 - [chatGPT launch blog](https://openai.com/blog/chatgpt/)
 
-## ChatGPT Community
+## ChatGPT 社区
 - [OpenAI Discord Channel](https://discord.com/invite/openai)
 
 
