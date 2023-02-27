@@ -6,9 +6,9 @@
 
 ---
 
-## Table of Contents
+## 目录
 
-- [Official Resources](#official-resources)
+- [官方资源](#official-resources)
 - [ChatGPT Community](#chatgpt-community)
 - [API tools](#api-tools)
 - [Browser Extensions](#browser-extensions)
@@ -24,7 +24,7 @@
 - [Reverse Proxy](#reverse-proxy)
 - [Experiments](#experiments)
 
-## Official Resources
+## 官方资源
 
 - [ChatGPT Official App](https://chat.openai.com)
 - [OpenAI API Documentation](https://beta.openai.com/docs)
