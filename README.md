@@ -55,6 +55,8 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [WebChatGPT - augment your prompts to ChatGPT with web search results](https://github.com/qunash/chatgpt-advanced/)
 - [A userscript to display ChatGPT answer alongside Search Engine or Translator](https://github.com/zhengbangbo/chat-gpt-userscript)
 - [A browser extension that exports your ChatGPT conversations to Markdown format.](https://github.com/0xreeko/gpt2markdown)
+- [A Chrome extension for word translation based on ChatGPT API
+](https://github.com/yetone/openai-translator)
 
 ## Desktop Applications
 
