@@ -56,8 +56,8 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [WebChatGPT - augment your prompts to ChatGPT with web search results](https://github.com/qunash/chatgpt-advanced/)
 - [A userscript to display ChatGPT answer alongside Search Engine or Translator](https://github.com/zhengbangbo/chat-gpt-userscript)
 - [A browser extension that exports your ChatGPT conversations to Markdown format.](https://github.com/0xreeko/gpt2markdown)
-- [A Chrome extension for word translation based on ChatGPT API
-](https://github.com/yetone/openai-translator)
+- [A Chrome extension for word translation based on ChatGPT API](https://github.com/yetone/openai-translator)
+- [Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons](https://github.com/giosilvi/GPT-Prompter)
 
 ## Desktop Applications
 
@@ -134,6 +134,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [showGPT](https://showgpt.co/): Website with curated list of best prompts, and you can submit your own easily.
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts): ChatGPT prompts that works well.
 - [awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt): Posts & thoughts about prompting ChatGPT for different usages
+- [Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons](https://github.com/giosilvi/GPT-Prompter)
 
 ## Reverse Proxy
 
