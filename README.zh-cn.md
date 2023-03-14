@@ -8,8 +8,8 @@
 
 ## 目录
 
-- [官方资源](#官方资源)
-- [ChatGPT 社区](#chatgpt-社区)
+- [Official Resources](#official-resources)
+- [ChatGPT Community](#chatgpt-community)
 - [API tools](#api-tools)
 - [Browser Extensions](#browser-extensions)
 - [Desktop Applications](#desktop-applications)
@@ -34,7 +34,7 @@
 - [OpenAI Discord Channel](https://discord.com/invite/openai)
 
 
-## API tools
+## API 工具
 - [Unoffical API in Python](https://github.com/acheong08/ChatGPT)
 - [TLS-based API (Python)](https://github.com/rawandahmad698/PyChatGPT)
 - [Unofficial API in JS/TS](https://github.com/transitive-bullshit/chatgpt-api)
@@ -42,9 +42,11 @@
 - [A Java Version ChatGPT SDK](https://github.com/swordintent/chatgpt-web-api)
 - [ChatGPT Java SDK. Lightweight package for interacting with ChatGPT's API by OpenAI](https://github.com/PlexPt/chatgpt-java)
 - [This repo is unofficial ChatGPT api](https://github.com/taranjeet/chatgpt-api)
+- [Deploy chatGPT on the server](https://github.com/dataaug/chatGPT-server)
+- [Clone of ChatGPT, uses official model, reverse-engineered UI, with AI model switching, message search, and prompt templates](https://github.com/danny-avila/chatgpt-clone)
 
 
-## Browser Extensions
+## 浏览器扩展
 - [Extension to display ChatGPT response alongside Google Search results](https://github.com/wong2/chat-gpt-google-extension)
 - [Chrome extension to access ChatGPT as a popup on any page](https://github.com/kazuki-sf/ChatGPT_Extension)
 - [A browser extension to display ChatGPT response alongside Bing Search results, supports Chrome/Edge/Firefox](https://github.com/happy-share-forever/chat-gpt-bing-extension)
@@ -52,29 +54,36 @@
 - [Chrome extension to add input history, copy, and counters to ChatGPT](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc)
 - [ChassistantGPT - embeds ChatGPT as a hands-free voice assistant in the background](https://github.com/idosal/assistant-chat-gpt)
 - [WebChatGPT - augment your prompts to ChatGPT with web search results](https://github.com/qunash/chatgpt-advanced/)
+- [A userscript to display ChatGPT answer alongside Search Engine or Translator](https://github.com/zhengbangbo/chat-gpt-userscript)
+- [A browser extension that exports your ChatGPT conversations to Markdown format.](https://github.com/0xreeko/gpt2markdown)
+- [A Chrome extension for word translation based on ChatGPT API](https://github.com/yetone/openai-translator)
+- [Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons](https://github.com/giosilvi/GPT-Prompter)
 
-## Desktop Applications
+## 桌面应用
 
 - [Multi-platform desktop app (Windows, Mac, Linux)](https://github.com/lencx/ChatGPT) powered by ChatGPT & Tauri
 - [ChatGPT Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop): Windows/MacOS desktop menubar app using tauri & rust.
 - [ChatGPT for Mac, living in your menubar](https://github.com/vincelwt/chatgpt-mac)
 
 
-## Editors
+## 编辑器
 
 - [ChatGPT VSCode](https://github.com/mpociot/chatgpt-vscode): VSCode extension. ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
 - [A VS code plugin for ChatGPT built by ChatGPT](https://github.com/barnesoir/chatgpt-vscode-plugin)
 - [The extension is pair-programmed with ChatGPT](https://github.com/gencay/vscode-chatgpt)
-- [Jetbrains IDEs plugin](https://github.com/LiLittleCat/intellij-chatgpt): A ChatGPT plugin for JetBrains IDEs.
+- [Jetbrains IDE plugin](https://github.com/LiLittleCat/intellij-chatgpt): A ChatGPT plugin for JetBrains IDE (webview)
+- [Jetbrains IDE plugin](https://github.com/dromara/ChatGPT): A ChatGPT plugin for JetBrains IDEs (using OpenAI's API)
 - [chatgpt.vim](https://github.com/terror/chatgpt.nvim): Neovim plugin that lets you query ChatGPT inside a Neovim buffer.
 - [Google docs](https://github.com/cesarhuret/docGPT): ChatGPT directly within Google Docs as an Editor Add-on.
 - [This project is a plugin that supports ChatGPT running on JetBrains series IDE](https://github.com/obiscr/ChatGPT)
+- [How to add ChatGPT's Text Completion to Microsoft Word](https://github.com/analyticsinmotion/add-chatgpt-to-microsoft-word)
 
 
-## Chat bots
+## 聊天机器人
 - [Use ChatGPT On Wechat via wechaty](https://github.com/fuergaosi233/wechat-chatgpt)
 - [ChatGPT for Wechat](https://github.com/AutumnWhj/ChatGPT-wechat-bot)
 - [Wechat robot based on ChatGPT, which using OpenAI api and itchat library](https://github.com/zhayujie/chatgpt-on-wechat)
+- [chatgpt for chatbot feishu](https://github.com/go-zoox/chatgpt-for-chatbot-feishu)
 - [Serverless Telegram bot](https://github.com/franalgaba/chatgpt-telegram-bot-serverless)
 - [WhatsApp bot](https://github.com/danielgross/whatsapp-gpt)
 - [RayCast Extension (unofficial)](https://github.com/abielzulio/chatgpt-raycast)
@@ -90,30 +99,33 @@
 - [A progressive ChatGPT feishu bot, made for Girlfriend](https://github.com/ulivz/progressive-chatgpt-bot)
 - [wx-chatgpt](https://github.com/wuomzfx/wx-chatgpt) Wechat Public Account cloud hosting access chatgpt template
 
-## Extend ChatGPT Feature
+## 扩展 ChatGPT 功能
 - [shareGPT - permenent links to your conversations](https://github.com/domeccleston/sharegpt)
 - [Generate your business emails in seconds](https://github.com/shengxinjing/email-helper)
 - [Generate your Twitter bio with OpenAI and Vercel Edge Functions](https://github.com/Nutlope/twitterbio)
 - [Utilizing OpenAI's Image Generation api with vue3, vite and pinia(similar to the DALLE app)](https://github.com/Jaykef/OpenAI-ImageGeneration-Vue3)
 - [A powerful image generation model, can through the study of the evolution of an image to generate a new image](https://github.com/phodal/ai-research-for-practise)
+- [Upload a photo of your room to generate your dream room with AI](https://github.com/Nutlope/roomGPT)
 
-## Applications
+## 应用
 - [ChatARKit: Using ChatGPT to Create AR Experiences with Natural Language](https://github.com/trzy/ChatARKit)
 - [GPT3 Blog Post Generator](https://github.com/simplysabir/AI-Writing-Assistant)
 - [Debugger that fixes errors and explains them with GPT-3](https://github.com/shobrook/adrenaline/)
 - [OpenAI ChatGPT SwiftUI app for iOS, iPadOS, macOS](https://github.com/37iOS/iChatGPT)
 - [ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose](https://github.com/skydoves/chatgpt-android)
 
-## CLI tools
+## 命令行工具
 - [Voice-based chatGPT](https://github.com/platelminto/chatgpt-conversation)
 - [Explain your runtime errors with ChatGPT](https://github.com/shobrook/stackexplain)
 - [GPT3 WordPress post generator](https://github.com/nicolaballotta/gtp3-wordpress-post-generator)
 - [Assistant CLI](https://github.com/diciaup/assistant-cli)
 - [API for interacting with ChatGPT using Python and from Shell](https://github.com/mmabrouk/chatgpt-wrapper)
 - [A CLI that writes your git commit messages for you with AI](https://github.com/Nutlope/aicommits)
+- [Support OpenAI and more engineered, lightweight, customizable, standard output format commitizen adapter and CLI](https://github.com/Zhengqbbb/cz-git)
 
 ## Github Actions
 - [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)
+- [🐥 A code review bot powered by ChatGPT](https://github.com/anc95/ChatGPT-CodeReview)
 
 ## Cybersecurity
 - [Beelzebub ChatGPT Honeypot](https://github.com/mariocandela/beelzebub)
@@ -123,6 +135,7 @@
 - [showGPT](https://showgpt.co/): Website with curated list of best prompts, and you can submit your own easily.
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts): ChatGPT prompts that works well.
 - [awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt): Posts & thoughts about prompting ChatGPT for different usages
+- [Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons](https://github.com/giosilvi/GPT-Prompter)
 
 ## Reverse Proxy
 
