@@ -76,6 +76,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [chatgpt.vim](https://github.com/terror/chatgpt.nvim): Neovim plugin that lets you query ChatGPT inside a Neovim buffer.
 - [Google docs](https://github.com/cesarhuret/docGPT): ChatGPT directly within Google Docs as an Editor Add-on.
 - [This project is a plugin that supports ChatGPT running on JetBrains series IDE](https://github.com/obiscr/ChatGPT)
+- [How to add ChatGPT's Text Completion to Microsoft Word](https://github.com/analyticsinmotion/add-chatgpt-to-microsoft-word)
 
 
 ## Chat bots
