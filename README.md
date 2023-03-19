@@ -10,6 +10,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 - [Official Resources](#official-resources)
 - [ChatGPT Community](#chatgpt-community)
+- [ChatGPT Integrated Projects](#chatgpt-integrated-projects)
 - [API tools](#api-tools)
 - [Browser Extensions](#browser-extensions)
 - [Desktop Applications](#desktop-applications)
@@ -33,6 +34,12 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 ## ChatGPT Community
 - [OpenAI Discord Channel](https://discord.com/invite/openai)
 
+## ChatGPT Integrated Projects 
+
+### Python 
+- [email-automation](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/email-automation) : Automates news briefing / blogging with email automation. 
+- [chatbot](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/chatbot) : ChatGPT Integrated faster and secure chatbot hosted on cloud.
+- [whistep speech-to-text](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/whisper-speech-text) : OpnAI's whisper is a library to convert speech to text. 
 
 ## API tools
 - [Unoffical API in Python](https://github.com/acheong08/ChatGPT)
