@@ -42,6 +42,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [whistep speech-to-text](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/whisper-speech-text) : OpnAI's whisper is a library to convert speech to text. 
 
 ## API tools
+- [Node client to making API calls to ChatGPT](https://github.com/mzbac/chatgpt-plus-api-client)
 - [Unoffical API in Python](https://github.com/acheong08/ChatGPT)
 - [TLS-based API (Python)](https://github.com/rawandahmad698/PyChatGPT)
 - [Unofficial API in JS/TS](https://github.com/transitive-bullshit/chatgpt-api)
