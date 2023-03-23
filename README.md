@@ -119,6 +119,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [Upload a photo of your room to generate your dream room with AI](https://github.com/Nutlope/roomGPT)
 
 ## Web applications
+- [BibiGPT](https://github.com/JimmyLv/BibiGPT) One-click summary for video & audio content: Bilibili | YouTube | Websites丨Podcasts | Meetings | Local files, etc
 - [Epic Music Quiz - A free webapp for creating your own custom Music Video Quiz using youtube videos that can be played solo or multiplayer with friends. Optional AI generation of quiz questions](https://epicmusicquiz.com)
 
 
