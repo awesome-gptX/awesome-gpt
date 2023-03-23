@@ -66,6 +66,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [A browser extension that exports your ChatGPT conversations to Markdown format.](https://github.com/0xreeko/gpt2markdown)
 - [A Chrome extension for word translation based on ChatGPT API](https://github.com/yetone/openai-translator)
 - [Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons](https://github.com/giosilvi/GPT-Prompter)
+- [ChatGPT for Twitter - Chrome extension to generate tweets/replies to tweets in different moods and by optionally giving instructions](https://github.com/wong2/chat-gpt-google-extension)
 
 ## Desktop Applications
 
@@ -115,6 +116,10 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [Utilizing OpenAI's Image Generation api with vue3, vite and pinia(similar to the DALLE app)](https://github.com/Jaykef/OpenAI-ImageGeneration-Vue3)
 - [A powerful image generation model, can through the study of the evolution of an image to generate a new image](https://github.com/phodal/ai-research-for-practise)
 - [Upload a photo of your room to generate your dream room with AI](https://github.com/Nutlope/roomGPT)
+
+## Web applications
+- [Epic Music Quiz - A free webapp for creating your own custom Music Video Quiz using youtube videos that can be played solo or multiplayer with friends. Optional AI generation of quiz questions](https://epicmusicquiz.com)
+
 
 ## Applications
 - [ChatARKit: Using ChatGPT to Create AR Experiences with Natural Language](https://github.com/trzy/ChatARKit)
