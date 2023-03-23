@@ -42,7 +42,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [whistep speech-to-text](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/whisper-speech-text) : OpnAI's whisper is a library to convert speech to text. 
 
 ## API tools
-- [chatgpt-starter](https://github.com/zhangjh/chatgpt-starter)A chatgpt starter based on springboot to provider chatgpt api for java
+- [chatgpt-starter](https://github.com/zhangjh/chatgpt-starter) A chatgpt starter based on springboot to provider chatgpt api for java
 - [Node client to making API calls to ChatGPT](https://github.com/mzbac/chatgpt-plus-api-client)
 - [Unoffical API in Python](https://github.com/acheong08/ChatGPT)
 - [TLS-based API (Python)](https://github.com/rawandahmad698/PyChatGPT)
@@ -78,7 +78,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 ## Editors
 
-- [ChatGPT VSCode](https://github.com/mpociot/chatgpt-vscode): VSCode extension. ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
+- [ChatGPT VSCode](https://github.com/mpociot/chatgpt-vscode): VSCode extension ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
 - [A VS code plugin for ChatGPT built by ChatGPT](https://github.com/barnesoir/chatgpt-vscode-plugin)
 - [The extension is pair-programmed with ChatGPT](https://github.com/gencay/vscode-chatgpt)
 - [Jetbrains IDE plugin](https://github.com/LiLittleCat/intellij-chatgpt): A ChatGPT plugin for JetBrains IDE (webview)
@@ -123,6 +123,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 
 ## Applications
+- [OpenGpt](https://github.com/futantan/OpenGpt) Create your own ChatGPT App in seconds.
 - [ChatARKit: Using ChatGPT to Create AR Experiences with Natural Language](https://github.com/trzy/ChatARKit)
 - [GPT3 Blog Post Generator](https://github.com/simplysabir/AI-Writing-Assistant)
 - [Debugger that fixes errors and explains them with GPT-3](https://github.com/shobrook/adrenaline/)
