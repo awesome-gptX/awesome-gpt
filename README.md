@@ -112,6 +112,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [wx-chatgpt](https://github.com/wuomzfx/wx-chatgpt) Wechat Public Account cloud hosting access chatgpt template
 
 ## Extend ChatGPT Feature
+- [Kubectl OpenAI plugin](https://github.com/sozercan/kubectl-ai) This project is a kubectl plugin to generate and apply Kubernetes manifests using OpenAI GPT
 - [shareGPT - permenent links to your conversations](https://github.com/domeccleston/sharegpt)
 - [Generate your business emails in seconds](https://github.com/shengxinjing/email-helper)
 - [Generate your Twitter bio with OpenAI and Vercel Edge Functions](https://github.com/Nutlope/twitterbio)
