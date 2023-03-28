@@ -57,6 +57,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 
 ## Browser Extensions
+- [codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) Reviews your Pull Requests using ChatGPT so that you can pretend to work.
 - [Extension to display ChatGPT response alongside Google Search results](https://github.com/wong2/chat-gpt-google-extension)
 - [Chrome extension to access ChatGPT as a popup on any page](https://github.com/kazuki-sf/ChatGPT_Extension)
 - [A browser extension to display ChatGPT response alongside Bing Search results, supports Chrome/Edge/Firefox](https://github.com/happy-share-forever/chat-gpt-bing-extension)
@@ -122,6 +123,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [Upload a photo of your room to generate your dream room with AI](https://github.com/Nutlope/roomGPT)
 
 ## Web applications
+- [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) One-Click to deploy your own ChatGPT web UI
 - [BibiGPT](https://github.com/JimmyLv/BibiGPT) One-click summary for video & audio content: Bilibili | YouTube | Websites丨Podcasts | Meetings | Local files, etc
 - [Epic Music Quiz - A free webapp for creating your own custom Music Video Quiz using youtube videos that can be played solo or multiplayer with friends. Optional AI generation of quiz questions](https://epicmusicquiz.com)
 
