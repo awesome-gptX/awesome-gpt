@@ -92,6 +92,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 
 ## Chat bots
+- [chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk) GPT-3.5 Let your work efficiency take off directly
 - [ChatBot-TGLM6B](https://github.com/Lakr233/ChatBot-TGLM6B) ChatGLM-6B Bot for Telegram
 - [GPT4 & LangChain Chatbot for large PDF docs](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)
 - [Use ChatGPT On Wechat via wechaty](https://github.com/fuergaosi233/wechat-chatgpt)
