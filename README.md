@@ -57,6 +57,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 
 ## Browser Extensions
+- [summarize.site](https://github.com/clmnin/summarize.site) Summarize web pages using OpenAI ChatGPT
 - [codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) Reviews your Pull Requests using ChatGPT so that you can pretend to work.
 - [Extension to display ChatGPT response alongside Google Search results](https://github.com/wong2/chat-gpt-google-extension)
 - [Chrome extension to access ChatGPT as a popup on any page](https://github.com/kazuki-sf/ChatGPT_Extension)
