@@ -107,6 +107,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [RayCast Extension (unofficial)](https://github.com/abielzulio/chatgpt-raycast)
 - [Go Telegram bot](https://github.com/m1guelpf/chatgpt-telegram)
 - [Twitter Bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) powered by ChatGPT
+- [myGPTReader](https://github.com/madawei2699/myGPTReader) - Slack bot that can read any webpage, YouTube video, or document and summarize it. Voice output. Chinese support.
 - [ChatGPT for Slack Bot](https://github.com/pedrorito/ChatGPTSlackBot)
 - [ChatGPT for Discord Bot](https://github.com/m1guelpf/chatgpt-discord)
 - [For personal WeChat ChatGPT access](https://github.com/djun/wechatbot)
