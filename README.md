@@ -59,7 +59,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 ## Browser Extensions
 - [codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) Reviews your Pull Requests using ChatGPT so that you can pretend to work.
 - [Extension to display ChatGPT response alongside Google Search results](https://github.com/wong2/chat-gpt-google-extension)
-- [Chrome extension to access ChatGPT as a popup on any page](https://github.com/kazuki-sf/ChatGPT_Extension)
+- [Chrome extension to open a ChatGPT popup](https://github.com/kazuki-sf/ChatGPT_Extension) (basically [a bookmark](https://github.com/kazuki-sf/ChatGPT_Extension/issues/6))
 - [A browser extension to display ChatGPT response alongside Bing Search results, supports Chrome/Edge/Firefox](https://github.com/happy-share-forever/chat-gpt-bing-extension)
 - [Extension to add share abilities to ChatGPT (PDF, PNG or a sharable link](https://github.com/liady/ChatGPT-pdf)
 - [Chrome extension to add input history, copy, and counters to ChatGPT](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc)
