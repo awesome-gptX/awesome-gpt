@@ -116,6 +116,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [A ChatGPT implementation with support for Bing's GPT-4 version of ChatGPT](https://github.com/waylaidwanderer/node-chatgpt-api)
 - [A progressive ChatGPT feishu bot, made for Girlfriend](https://github.com/ulivz/progressive-chatgpt-bot)
 - [wx-chatgpt](https://github.com/wuomzfx/wx-chatgpt) Wechat Public Account cloud hosting access chatgpt template
+- [ChatGPT for WearOS](https://github.com/DevEmperor/ChatGPT-WearOS) A powerful ChatGPT app for all WearOS devices 
 
 ## Extend ChatGPT Feature
 - [Kubectl OpenAI plugin](https://github.com/sozercan/kubectl-ai) This project is a kubectl plugin to generate and apply Kubernetes manifests using OpenAI GPT
@@ -140,6 +141,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [Debugger that fixes errors and explains them with GPT-3](https://github.com/shobrook/adrenaline/)
 - [OpenAI ChatGPT SwiftUI app for iOS, iPadOS, macOS](https://github.com/37iOS/iChatGPT)
 - [ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose](https://github.com/skydoves/chatgpt-android)
+- [ChatGPT for WearOS](https://github.com/DevEmperor/ChatGPT-WearOS) A powerful ChatGPT app for all WearOS devices 
 
 ## CLI tools
 - [gptcommit](https://github.com/zurawiki/gptcommit) A git prepare-commit-msg hook for authoring commit messages with GPT-3
