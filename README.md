@@ -173,6 +173,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts): ChatGPT prompts that works well.
 - [awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt): Posts & thoughts about prompting ChatGPT for different usages
 - [Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons](https://github.com/giosilvi/GPT-Prompter)
+- [ListPrompt.com](https://listprompt.com/): List of awesome GPT prompts from the community.
 
 ## Reverse Proxy
 
