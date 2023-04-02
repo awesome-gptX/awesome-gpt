@@ -73,6 +73,7 @@
 - [A Chrome extension for word translation based on ChatGPT API](https://github.com/yetone/openai-translator)
 - [Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons](https://github.com/giosilvi/GPT-Prompter)
 - [ChatGPT for Twitter - Chrome extension to generate tweets/replies to tweets in different moods and by optionally giving instructions](https://github.com/wong2/chat-gpt-google-extension)
+- [以 `.md` 文件 的形式同步 chatgpt 的对话到 github 仓库中](https://github.com/aircloud/sync-to-github)
 
 
 ## 桌面应用
