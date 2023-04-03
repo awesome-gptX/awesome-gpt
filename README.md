@@ -147,7 +147,8 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [Debugger that fixes errors and explains them with GPT-3](https://github.com/shobrook/adrenaline/)
 - [OpenAI ChatGPT SwiftUI app for iOS, iPadOS, macOS](https://github.com/37iOS/iChatGPT)
 - [ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose](https://github.com/skydoves/chatgpt-android)
-- [ChatGPT for WearOS](https://github.com/DevEmperor/ChatGPT-WearOS) A powerful ChatGPT app for all WearOS devices 
+- [ChatGPT for WearOS](https://github.com/DevEmperor/ChatGPT-WearOS) A powerful ChatGPT app for all WearOS devices
+- [Smalltalk](https://github.com/tinystruct/smalltalk) A funny anonymous chat software which integrated with OpenAI ChatGPT and Stability AI. 
 
 ## CLI tools
 - [gptcommit](https://github.com/zurawiki/gptcommit) A git prepare-commit-msg hook for authoring commit messages with GPT-3
@@ -158,6 +159,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [API for interacting with ChatGPT using Python and from Shell](https://github.com/mmabrouk/chatgpt-wrapper)
 - [A CLI that writes your git commit messages for you with AI](https://github.com/Nutlope/aicommits)
 - [Support OpenAI and more engineered, lightweight, customizable, standard output format commitizen adapter and CLI](https://github.com/Zhengqbbb/cz-git)
+- [Smalltalk](https://github.com/tinystruct/smalltalk) A funny anonymous chat software which support CLI and integrated with ChatGPT / GPT-3. 
 
 ## Github Actions
 - [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)
