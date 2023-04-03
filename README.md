@@ -135,6 +135,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [Upload a photo of your room to generate your dream room with AI](https://github.com/Nutlope/roomGPT)
 
 ## Web applications
+- [chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) Elegant and Powerfull. Powered by OpenAI and Vercel
 - [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) Specialized ChatGPT extension for scientific research work, optimized for enhancing the experience of polishing academic papers
 - [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) An open source ChatGPT UI
 - [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) One-Click to deploy your own ChatGPT web UI
