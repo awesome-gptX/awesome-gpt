@@ -8,22 +8,23 @@
 
 ## 目录
 
-- [Official Resources](#official-resources)
-- [ChatGPT Community](#chatgpt-community)
-- [ChatGPT Integrated Projects](#chatgpt-integrated-projects)
-- [API tools](#api-tools)
-- [Browser Extensions](#browser-extensions)
-- [Desktop Applications](#desktop-applications)
-- [Editors](#editors)
-- [Chat bots](#chat-bots)
-- [Extend ChatGPT Feature](#extend-chatgpt-feature)
-- [Applications](#applications)
-- [CLI tools](#cli-tools)
+- [官方资源](#官方资源)
+- [ChatGPT 社区](#chatgpt-社区)
+- [ChatGPT 集成项目](#chatgpt-集成项目)
+- [API 工具](#api-工具)
+- [浏览器扩展](#浏览器扩展)
+- [桌面应用](#桌面应用)
+- [编辑器](#编辑器)
+- [聊天机器人](#聊天机器人)
+- [扩展 ChatGPT 功能](#扩展-chatgpt-功能)
+- [网页应用](#网页应用)
+- [应用](#应用)
+- [命令行工具](#命令行工具)
 - [Github Actions](#github-actions)
 - [Cybersecurity](#cybersecurity)
-- [Prompts](#prompts)
-- [Reverse Proxy](#reverse-proxy)
-- [Experiments](#experiments)
+- [提示](#提示)
+- [反向代理](#反向代理)
+- [实验](#实验)
 
 ## 官方资源
 
