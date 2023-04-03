@@ -37,6 +37,8 @@
 ## ChatGPT 集成项目
 
 ### Python
+- [ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader) This repository provides a simple interface that utilizes the gpt-3.5-turbo model to read academic papers in PDF format locally
+- [FastChat](https://github.com/lm-sys/FastChat) An open platform for training, serving, and evaluating large language model based chatbots
 - [openai-quickstart-python](https://github.com/openai/openai-quickstart-python) Python example app from the OpenAI API quickstart tutorial
 - [email-automation](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/email-automation) : Automates news briefing / blogging with email automation.
 - [chatbot](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/chatbot) : ChatGPT Integrated faster and secure chatbot hosted on cloud.
@@ -73,7 +75,7 @@
 - [A Chrome extension for word translation based on ChatGPT API](https://github.com/yetone/openai-translator)
 - [Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons](https://github.com/giosilvi/GPT-Prompter)
 - [ChatGPT for Twitter - Chrome extension to generate tweets/replies to tweets in different moods and by optionally giving instructions](https://github.com/wong2/chat-gpt-google-extension)
-- [以 `.md` 文件 的形式同步 chatgpt 的对话到 github 仓库中](https://github.com/aircloud/sync-to-github)
+- [Synchronize chatgpt conversations to the github repository in the form of `.md` file](https://github.com/aircloud/sync-to-github/blob/main/README.en.md) 以 `.md` 文件 的形式同步 chatgpt 的对话到 github 仓库中
 
 
 ## 桌面应用
@@ -133,6 +135,8 @@
 - [Upload a photo of your room to generate your dream room with AI](https://github.com/Nutlope/roomGPT)
 
 ## 网页应用
+- [eslint-gpt](https://github.com/ycjcl868/eslint-gpt) Generate your eslint rule with OpenAI and Vercel Edge Functions
+- [chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) Elegant and Powerfull. Powered by OpenAI and Vercel
 - [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) Specialized ChatGPT extension for scientific research work, optimized for enhancing the experience of polishing academic papers
 - [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) An open source ChatGPT UI
 - [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) One-Click to deploy your own ChatGPT web UI
@@ -148,6 +152,7 @@
 - [OpenAI ChatGPT SwiftUI app for iOS, iPadOS, macOS](https://github.com/37iOS/iChatGPT)
 - [ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose](https://github.com/skydoves/chatgpt-android)
 - [ChatGPT for WearOS](https://github.com/DevEmperor/ChatGPT-WearOS) A powerful ChatGPT app for all WearOS devices
+- [Smalltalk](https://github.com/tinystruct/smalltalk) A funny anonymous chat software which integrated with OpenAI ChatGPT and Stability AI.
 
 ## 命令行工具
 - [gptcommit](https://github.com/zurawiki/gptcommit) A git prepare-commit-msg hook for authoring commit messages with GPT-3
@@ -158,6 +163,7 @@
 - [API for interacting with ChatGPT using Python and from Shell](https://github.com/mmabrouk/chatgpt-wrapper)
 - [A CLI that writes your git commit messages for you with AI](https://github.com/Nutlope/aicommits)
 - [Support OpenAI and more engineered, lightweight, customizable, standard output format commitizen adapter and CLI](https://github.com/Zhengqbbb/cz-git)
+- [Smalltalk](https://github.com/tinystruct/smalltalk) A funny anonymous chat software which support CLI and integrated with ChatGPT / GPT-3.
 
 ## Github Actions
 - [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)
