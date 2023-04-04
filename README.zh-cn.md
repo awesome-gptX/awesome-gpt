@@ -45,7 +45,7 @@
 - [chatbot](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/chatbot) : ChatGPT Integrated faster and secure chatbot hosted on cloud.
 - [whistep speech-to-text](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/whisper-speech-text) : OpnAI's whisper is a library to convert speech to text.
 
-## API tools
+## API 工具
 - [whetstone.chatgpt](https://github.com/johniwasz/whetstone.chatgpt) A simple light-weight library that wraps the GPT-3 API with support for dependency injection
 - [chatgpt-starter](https://github.com/zhangjh/chatgpt-starter) A chatgpt starter based on springboot to provider chatgpt api for java
 - [Node client to making API calls to ChatGPT](https://github.com/mzbac/chatgpt-plus-api-client)
@@ -77,7 +77,7 @@
 - [A Chrome extension for word translation based on ChatGPT API](https://github.com/yetone/openai-translator)
 - [Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons](https://github.com/giosilvi/GPT-Prompter)
 - [ChatGPT for Twitter - Chrome extension to generate tweets/replies to tweets in different moods and by optionally giving instructions](https://github.com/wong2/chat-gpt-google-extension)
-- [Synchronize chatgpt conversations to the github repository in the form of `.md` file](https://github.com/aircloud/sync-to-github/blob/main/README.en.md)
+- [Synchronize chatgpt conversations to the github repository in the form of `.md` file](https://github.com/aircloud/sync-to-github/blob/main/README.en.md) 以 `.md` 文件 的形式同步 chatgpt 的对话到 github 仓库中
 
 
 ## 桌面应用
