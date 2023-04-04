@@ -38,12 +38,12 @@
 ## ChatGPT 集成项目
 
 ### Python
-- [ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader) This repository provides a simple interface that utilizes the gpt-3.5-turbo model to read academic papers in PDF format locally
-- [FastChat](https://github.com/lm-sys/FastChat) An open platform for training, serving, and evaluating large language model based chatbots
-- [openai-quickstart-python](https://github.com/openai/openai-quickstart-python) Python example app from the OpenAI API quickstart tutorial
-- [email-automation](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/email-automation) : Automates news briefing / blogging with email automation.
-- [chatbot](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/chatbot) : ChatGPT Integrated faster and secure chatbot hosted on cloud.
-- [whistep speech-to-text](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/whisper-speech-text) : OpnAI's whisper is a library to convert speech to text.
+- [ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader) 这个资源库提供了一个简单的界面，利用gpt-3.5-turbo模型来阅读PDF格式的学术论文。
+- [FastChat](https://github.com/lm-sys/FastChat) 一个用于训练、服务和评估基于大型语言模型的聊天机器人的开放平台
+- [openai-quickstart-python](https://github.com/openai/openai-quickstart-python) OpenAI API快速入门教程中的Python示例应用程序
+- [email-automation](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/email-automation) 通过电子邮件自动化实现新闻简报/博客的自动化。
+- [chatbot](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/chatbot) ChatGPT 集成了更快、更安全的聊天机器人，并托管在云端。
+- [whistep speech-to-text](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/whisper-speech-text) : OpnAI's whisper 是一个将语音转换成文本的库。
 
 ## API 工具
 - [whetstone.chatgpt](https://github.com/johniwasz/whetstone.chatgpt) A simple light-weight library that wraps the GPT-3 API with support for dependency injection
