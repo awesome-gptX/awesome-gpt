@@ -61,6 +61,7 @@
 
 
 ## 浏览器扩展
+- [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo!
 - [Automate your browser with GPT-4](https://github.com/TaxyAI/browser-extension) uses GPT-4 to control your browser and perform repetitive actions on your behalf
 - [summarize.site](https://github.com/clmnin/summarize.site) Summarize web pages using OpenAI ChatGPT
 - [codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) Reviews your Pull Requests using ChatGPT so that you can pretend to work.
@@ -136,6 +137,7 @@
 - [Upload a photo of your room to generate your dream room with AI](https://github.com/Nutlope/roomGPT)
 
 ## 网页应用
+- [kindle-gpt](https://github.com/mckaywrigley/kindle-gpt) AI search & chat on your Kindle highlights
 - [eslint-gpt](https://github.com/ycjcl868/eslint-gpt) Generate your eslint rule with OpenAI and Vercel Edge Functions
 - [chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) Elegant and Powerfull. Powered by OpenAI and Vercel
 - [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) Specialized ChatGPT extension for scientific research work, optimized for enhancing the experience of polishing academic papers
