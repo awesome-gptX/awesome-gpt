@@ -38,6 +38,7 @@
 ## ChatGPT 集成项目
 
 ### Python
+- [xiaogpt](https://github.com/yihong0618/xiaogpt) 用小米 AI speaker 播放 ChatGPT
 - [ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader) 这个资源库提供了一个简单的界面，利用gpt-3.5-turbo模型来阅读PDF格式的学术论文。
 - [FastChat](https://github.com/lm-sys/FastChat) 一个用于训练、服务和评估基于大型语言模型的聊天机器人的开放平台
 - [openai-quickstart-python](https://github.com/openai/openai-quickstart-python) OpenAI API快速入门教程中的Python示例应用程序
@@ -46,8 +47,8 @@
 - [whistep speech-to-text](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/whisper-speech-text) : OpnAI's whisper 是一个将语音转换成文本的库。
 
 ## API 工具
-- [whetstone.chatgpt](https://github.com/johniwasz/whetstone.chatgpt) A simple light-weight library that wraps the GPT-3 API with support for dependency injection
-- [chatgpt-starter](https://github.com/zhangjh/chatgpt-starter) A chatgpt starter based on springboot to provider chatgpt api for java
+- [whetstone.chatgpt](https://github.com/johniwasz/whetstone.chatgpt) 一个简单的轻量级库，包装GPT-3 API，支持依赖性注入
+- [chatgpt-starter](https://github.com/zhangjh/chatgpt-starter) 基于 spring boot 的 chatGPT 启动器，为java提供 chatGPT api
 - [Node client to making API calls to ChatGPT](https://github.com/mzbac/chatgpt-plus-api-client)
 - [Unoffical API in Python](https://github.com/acheong08/ChatGPT)
 - [TLS-based API (Python)](https://github.com/rawandahmad698/PyChatGPT)
@@ -61,6 +62,7 @@
 
 
 ## 浏览器扩展
+- [chatGPTBox](https://github.com/josStorer/chatGPTBox) Integrating ChatGPT into your browser deeply, everything you need is here
 - [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo!
 - [Automate your browser with GPT-4](https://github.com/TaxyAI/browser-extension) uses GPT-4 to control your browser and perform repetitive actions on your behalf
 - [summarize.site](https://github.com/clmnin/summarize.site) Summarize web pages using OpenAI ChatGPT
@@ -158,6 +160,7 @@
 - [Smalltalk](https://github.com/tinystruct/smalltalk) A funny anonymous chat software which integrated with OpenAI ChatGPT and Stability AI.
 
 ## 命令行工具
+- [Cli for ChatGPT](https://github.com/j178/chatgpt) A TUI for ChatGPT API, powered by GPT-3.5-turbo and GPT-4 models
 - [gptcommit](https://github.com/zurawiki/gptcommit) A git prepare-commit-msg hook for authoring commit messages with GPT-3
 - [Voice-based chatGPT](https://github.com/platelminto/chatgpt-conversation)
 - [Explain your runtime errors with ChatGPT](https://github.com/shobrook/stackexplain)
