@@ -91,6 +91,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 ## Editors
 
+- [vim-chatgpt](https://github.com/CoderCookE/vim-chatgpt) a Vim Plugin For ChatGPT
 - [ChatGPT VSCode](https://github.com/mpociot/chatgpt-vscode): VSCode extension ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
 - [A VS code plugin for ChatGPT built by ChatGPT](https://github.com/barnesoir/chatgpt-vscode-plugin)
 - [The extension is pair-programmed with ChatGPT](https://github.com/gencay/vscode-chatgpt)
