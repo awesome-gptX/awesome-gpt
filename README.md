@@ -79,7 +79,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons](https://github.com/giosilvi/GPT-Prompter)
 - [ChatGPT for Twitter - Chrome extension to generate tweets/replies to tweets in different moods and by optionally giving instructions](https://github.com/wong2/chat-gpt-google-extension)
 - [Synchronize chatgpt conversations to the github repository in the form of `.md` file](https://github.com/aircloud/sync-to-github/blob/main/README.en.md)
-
+- [Another ChatGPT to Markdown extension, it intercepts the API call to retrieve the original markdown. ](https://github.com/jiayao/chatgpt-dl)
 
 ## Desktop Applications
 
