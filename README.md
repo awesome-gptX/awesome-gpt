@@ -1,4 +1,5 @@
 # Awesome-ChatGPT
+<img src="./banner.png"/>
 
 ## Contribution
 
