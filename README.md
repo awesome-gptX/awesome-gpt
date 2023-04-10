@@ -44,6 +44,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [email-automation](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/email-automation) : Automates news briefing / blogging with email automation. 
 - [chatbot](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/chatbot) : ChatGPT Integrated faster and secure chatbot hosted on cloud.
 - [whistep speech-to-text](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/whisper-speech-text) : OpnAI's whisper is a library to convert speech to text. 
+- [knowledge-gpt](https://github.com/geeks-of-data/knowledge-gpt) Extract knowledge from all information sources using gpt and other language models. Index and make Q&A session with information sources
 
 ## API tools
 - [toolkit-ai](https://github.com/hey-pal/toolkit-ai) AI-agents that automatically generate and use Langchain Tools and ChatGPT plugins
