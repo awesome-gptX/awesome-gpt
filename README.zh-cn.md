@@ -47,6 +47,7 @@
 - [whistep speech-to-text](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/whisper-speech-text) : OpnAI's whisper 是一个将语音转换成文本的库。
 
 ## API 工具
+- [toolkit-ai](https://github.com/hey-pal/toolkit-ai) 自动生成和使用 Langchain Tools 和 ChatGPT 插件的 AI-agents
 - [whetstone.chatgpt](https://github.com/johniwasz/whetstone.chatgpt) 一个简单的轻量级库，包装GPT-3 API，支持依赖性注入
 - [chatgpt-starter](https://github.com/zhangjh/chatgpt-starter) 基于 spring boot 的 chatGPT 启动器，为java提供 chatGPT api
 - [Node client to making API calls to ChatGPT](https://github.com/mzbac/chatgpt-plus-api-client)
@@ -80,7 +81,7 @@
 - [Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons](https://github.com/giosilvi/GPT-Prompter)
 - [ChatGPT for Twitter - Chrome extension to generate tweets/replies to tweets in different moods and by optionally giving instructions](https://github.com/wong2/chat-gpt-google-extension)
 - [Synchronize chatgpt conversations to the github repository in the form of `.md` file](https://github.com/aircloud/sync-to-github/blob/main/README.en.md) 以 `.md` 文件 的形式同步 chatgpt 的对话到 github 仓库中
-
+- [Another ChatGPT to Markdown extension, it intercepts the API call to retrieve the original markdown. ](https://github.com/jiayao/chatgpt-dl)
 
 ## 桌面应用
 
@@ -92,6 +93,7 @@
 
 ## 编辑器
 
+- [vim-chatgpt](https://github.com/CoderCookE/vim-chatgpt) a Vim Plugin For ChatGPT
 - [ChatGPT VSCode](https://github.com/mpociot/chatgpt-vscode): VSCode extension ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
 - [A VS code plugin for ChatGPT built by ChatGPT](https://github.com/barnesoir/chatgpt-vscode-plugin)
 - [The extension is pair-programmed with ChatGPT](https://github.com/gencay/vscode-chatgpt)
@@ -174,6 +176,7 @@
 ## Github Actions
 - [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)
 - [🐥 A code review bot powered by ChatGPT](https://github.com/anc95/ChatGPT-CodeReview)
+- [openai-pr-reviewer](https://github.com/fluxninja/openai-pr-reviewer) OpenAI ChatGPT based PR reviewer and summarizer
 
 ## Cybersecurity
 - [Beelzebub ChatGPT Honeypot](https://github.com/mariocandela/beelzebub)
