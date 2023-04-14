@@ -153,6 +153,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) One-Click to deploy your own ChatGPT web UI
 - [BibiGPT](https://github.com/JimmyLv/BibiGPT) One-click summary for video & audio content: Bilibili | YouTube | Websites丨Podcasts | Meetings | Local files, etc
 - [Epic Music Quiz](https://epicmusicquiz.com) A free webapp for creating your own custom Music Video Quiz using youtube videos that can be played solo or multiplayer with friends. Optional AI generation of quiz questions
+- [chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) Translate your locale json files with AI assistance
 
 
 ## Applications
