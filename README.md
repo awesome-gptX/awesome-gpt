@@ -92,6 +92,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [ChatGPT Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop): Windows/MacOS/Linux desktop menubar app using tauri & rust.
 - [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) ChatGPT for Mac, living in your menubar
 - [BingGPT](https://github.com/dice2o/BingGPT): chat with Bing on Windows/MacOS/Linux without installing Microsoft Edge or browser plugins. Export full conversation to Markdown, PNG or PDF.
+- [cheetah](https://github.com/leetcode-mafia/cheetah) Whisper & GPT-based app for passing remote SWE interviews
 
 
 ## Editors
