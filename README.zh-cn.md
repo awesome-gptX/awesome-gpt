@@ -39,16 +39,16 @@
 ## ChatGPT 集成项目
 
 ### Python
-- [xiaogpt](https://github.com/yihong0618/xiaogpt) 用小米 AI speaker 播放 ChatGPT
-- [ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader) 这个资源库提供了一个简单的界面，利用gpt-3.5-turbo模型来阅读PDF格式的学术论文。
-- [FastChat](https://github.com/lm-sys/FastChat) 一个用于训练、服务和评估基于大型语言模型的聊天机器人的开放平台
-- [openai-quickstart-python](https://github.com/openai/openai-quickstart-python) OpenAI API快速入门教程中的Python示例应用程序
+- [xiaogpt](https://github.com/yihong0618/xiaogpt) 用小米 AI speaker 播放 ChatGPT。
+- [ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader) 这个资源库提供了一个简单的界面，利用 gpt-3.5-turbo 模型来阅读PDF格式的学术论文。
+- [FastChat](https://github.com/lm-sys/FastChat) 一个用于训练、服务和评估基于大型语言模型的聊天机器人的开放平台。
+- [openai-quickstart-python](https://github.com/openai/openai-quickstart-python) OpenAI API 快速入门教程中的 Python 示例应用程序。
 - [email-automation](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/email-automation) 通过电子邮件自动化实现新闻简报/博客的自动化。
 - [chatbot](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/chatbot) ChatGPT 集成了更快、更安全的聊天机器人，并托管在云端。
 - [whistep speech-to-text](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/whisper-speech-text) : OpnAI's whisper 是一个将语音转换成文本的库。
-- [knowledge-gpt](https://github.com/geeks-of-data/knowledge-gpt) Extract knowledge from all information sources using gpt and other language models. Index and make Q&A session with information sources
-- [Auto-GPT](https://github.com/Torantulino/Auto-GPT) An experimental open-source attempt to make GPT-4 fully autonomous
-- [GPTCache](https://github.com/zilliztech/GPTCache) GPTCache is a library for creating semantic cache to store responses from LLM queries
+- [knowledge-gpt](https://github.com/geeks-of-data/knowledge-gpt) 使用 ChatGPT 和其他语言模型从所有信息源中提取知识。对信息源进行索引和制作问答环节。
+- [Auto-GPT](https://github.com/Torantulino/Auto-GPT) 使 GPT-4 完全的实验性开源尝试。
+- [GPTCache](https://github.com/zilliztech/GPTCache) GPTCache 是一个创建语义缓存的库，用于存储 LLM 查询的响应。
 
 
 ## API 工具
@@ -94,6 +94,7 @@
 - [ChatGPT Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop): Windows/MacOS/Linux desktop menubar app using tauri & rust.
 - [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) ChatGPT for Mac, living in your menubar
 - [BingGPT](https://github.com/dice2o/BingGPT): chat with Bing on Windows/MacOS/Linux without installing Microsoft Edge or browser plugins. Export full conversation to Markdown, PNG or PDF.
+- [cheetah](https://github.com/leetcode-mafia/cheetah) Whisper & GPT-based app for passing remote SWE interviews
 
 
 ## 编辑器
@@ -155,6 +156,7 @@
 - [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) One-Click to deploy your own ChatGPT web UI
 - [BibiGPT](https://github.com/JimmyLv/BibiGPT) One-click summary for video & audio content: Bilibili | YouTube | Websites丨Podcasts | Meetings | Local files, etc
 - [Epic Music Quiz](https://epicmusicquiz.com) A free webapp for creating your own custom Music Video Quiz using youtube videos that can be played solo or multiplayer with friends. Optional AI generation of quiz questions
+- [chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) Translate your locale json files with AI assistance
 
 
 ## 应用
@@ -166,6 +168,7 @@
 - [chatgpt-android](https://github.com/skydoves/chatgpt-android) ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose
 - [ChatGPT for WearOS](https://github.com/DevEmperor/ChatGPT-WearOS) A powerful ChatGPT app for all WearOS devices
 - [Smalltalk](https://github.com/tinystruct/smalltalk) A funny anonymous chat software which integrated with OpenAI ChatGPT and Stability AI.
+- [CLI-Co-Pilot](https://github.com/AntonOsika/CLI-Co-Pilot) CLI tool that uses Codex to turn natural language commands into their Bash/ZShell/PowerShell equivalents
 
 ## 命令行工具
 - [Cli for ChatGPT](https://github.com/j178/chatgpt) A TUI for ChatGPT API, powered by GPT-3.5-turbo and GPT-4 models
