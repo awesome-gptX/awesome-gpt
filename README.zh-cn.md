@@ -26,6 +26,7 @@
 - [提示](#提示)
 - [反向代理](#反向代理)
 - [实验](#实验)
+- [用户脚本](#用户脚本)
 
 ## 官方资源
 
@@ -208,5 +209,6 @@
 
 - [gptlang](https://github.com/forrestchang/gptlang): Experiment to see if we can create a programming language in ChatGPT.
 
-
+## 用户脚本
+- [ChatGPT conversation saving bookmark](https://github.com/jcubic/chat-gpt) Save chatGPT conversation as HTML file
 
