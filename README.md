@@ -206,5 +206,6 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 - [gptlang](https://github.com/forrestchang/gptlang): Experiment to see if we can create a programming language in ChatGPT.
 
-
+## User Scripts
+- [ChatGPT conversation saving bookmark](https://github.com/jcubic/chat-gpt) Save chatGPT conversation as HTML file
 
