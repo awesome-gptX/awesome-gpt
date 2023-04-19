@@ -61,7 +61,7 @@
 - [chatgpt-starter](https://github.com/zhangjh/chatgpt-starter) 基于 spring boot 的 chatGPT 启动器，为 java 提供 chatGPT api
 - [chatgpt-plus-api-client](https://github.com/mzbac/chatgpt-plus-api-client) 对 ChatGPT 进行 API 调用的节点客户端
 - [Unoffical API in Python](https://github.com/acheong08/ChatGPT) 反向工程的 ChatGPT API
-- [TLS-based API (Python)](https://github.com/rawandahmad698/PyChatGPT) Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
+- [TLS-based API (Python)](https://github.com/rawandahmad698/PyChatGPT) 非官方的 ChatGPT API 的 Python 客户端，具有自动令牌再生、对话跟踪、代理支持等功能。
 - [Unofficial API in JS/TS](https://github.com/transitive-bullshit/chatgpt-api) Node.js client for the official ChatGPT API.
 - [Unofficial API in Dart](https://github.com/MisterJimson/chatgpt_api_dart) Dart client for the unofficial ChatGPT API
 - [A Java Version ChatGPT SDK](https://github.com/swordintent/chatgpt-web-api) A Java Version ChatGPT SDK
