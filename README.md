@@ -185,6 +185,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [Smalltalk](https://github.com/tinystruct/smalltalk) A funny anonymous chat software which support CLI and integrated with ChatGPT / GPT-3. 
 - [CLI-Co-Pilot](https://github.com/AntonOsika/CLI-Co-Pilot) CLI tool that uses Codex to turn natural language commands into their Bash/ZShell/PowerShell equivalents
 - [cli-gpt](https://github.com/MagicCube/cli-gpt) Translate human language to command line using ChatGPT
+- [HappyCommit](https://github.com/jackbackes/happycommit) HappyCommit is a delightful tool that harnesses the power of OpenAI's GPT-3.5 Turbo language model to generate meaningful and descriptive Git commit messages for you
 
 ## Github Actions
 - [chatgpt-action](https://github.com/kxxt/chatgpt-action) Let ChatGPT review PRs for you
