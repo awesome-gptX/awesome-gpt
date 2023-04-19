@@ -49,6 +49,9 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [Auto-GPT](https://github.com/Torantulino/Auto-GPT) An experimental open-source attempt to make GPT-4 fully autonomous
 - [GPTCache](https://github.com/zilliztech/GPTCache) GPTCache is a library for creating semantic cache to store responses from LLM queries
 
+### Go
+- [doctorgpt](https://github.com/ingyamilmolinar/doctorgpt) DoctorGPT is a lightweight self-contained binary that monitors your application logs for problems and diagnoses them.
+
 ## API tools
 - [toolkit-ai](https://github.com/hey-pal/toolkit-ai) AI-agents that automatically generate and use Langchain Tools and ChatGPT plugins
 - [whetstone.chatgpt](https://github.com/johniwasz/whetstone.chatgpt) A simple light-weight library that wraps the GPT-3 API with support for dependency injection
