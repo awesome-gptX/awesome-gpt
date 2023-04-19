@@ -51,13 +51,16 @@
 - [Auto-GPT](https://github.com/Torantulino/Auto-GPT) 使 GPT-4 完全的实验性开源尝试。
 - [GPTCache](https://github.com/zilliztech/GPTCache) GPTCache 是一个创建语义缓存的库，用于存储 LLM 查询的响应。
 
+### Go
+- [doctorgpt](https://github.com/ingyamilmolinar/doctorgpt) DoctorGPT 是一个轻量级的独立二进制文件，它可以监控你的应用程序日志中的问题并对其进行诊断。
+
 
 ## API 工具
 - [toolkit-ai](https://github.com/hey-pal/toolkit-ai) 自动生成和使用 Langchain Tools 和 ChatGPT 插件的 AI-agents
 - [whetstone.chatgpt](https://github.com/johniwasz/whetstone.chatgpt) 一个简单的轻量级库，包装GPT-3 API，支持依赖性注入
-- [chatgpt-starter](https://github.com/zhangjh/chatgpt-starter) 基于 spring boot 的 chatGPT 启动器，为java提供 chatGPT api
-- [chatgpt-plus-api-client](https://github.com/mzbac/chatgpt-plus-api-client) Node client to making API calls to ChatGPT
-- [Unoffical API in Python](https://github.com/acheong08/ChatGPT) Reverse engineered ChatGPT API
+- [chatgpt-starter](https://github.com/zhangjh/chatgpt-starter) 基于 spring boot 的 chatGPT 启动器，为 java 提供 chatGPT api
+- [chatgpt-plus-api-client](https://github.com/mzbac/chatgpt-plus-api-client) 对 ChatGPT 进行 API 调用的节点客户端
+- [Unoffical API in Python](https://github.com/acheong08/ChatGPT) 反向工程的 ChatGPT API
 - [TLS-based API (Python)](https://github.com/rawandahmad698/PyChatGPT) Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
 - [Unofficial API in JS/TS](https://github.com/transitive-bullshit/chatgpt-api) Node.js client for the official ChatGPT API.
 - [Unofficial API in Dart](https://github.com/MisterJimson/chatgpt_api_dart) Dart client for the unofficial ChatGPT API
@@ -88,6 +91,7 @@
 - [ChatGPT for Twitter](https://github.com/wong2/chat-gpt-google-extension) Chrome extension to generate tweets/replies to tweets in different moods and by optionally giving instructions
 - [sync-to-github](https://github.com/aircloud/sync-to-github/blob/main/README.en.md) Synchronize chatgpt conversations to the github repository in the form of `.md` file
 - [chatgpt-dl](https://github.com/jiayao/chatgpt-dl) Another ChatGPT to Markdown extension, it intercepts the API call to retrieve the original markdown.
+- [chatgpt-enhancement-extension](https://github.com/sailist/chatgpt-enhancement-extension) An all-in-one plugin to improve your ChatGPT experience
 
 ## 桌面应用
 
@@ -158,7 +162,7 @@
 - [BibiGPT](https://github.com/JimmyLv/BibiGPT) One-click summary for video & audio content: Bilibili | YouTube | Websites丨Podcasts | Meetings | Local files, etc
 - [Epic Music Quiz](https://epicmusicquiz.com) A free webapp for creating your own custom Music Video Quiz using youtube videos that can be played solo or multiplayer with friends. Optional AI generation of quiz questions
 - [chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) Translate your locale json files with AI assistance
-
+- [Promptsandbox.io](https://github.com/eg9y/promptsandbox.io) Node-based visual programming tool to create dynamic OpenAI API workflows
 
 ## 应用
 - [OpenGpt](https://github.com/futantan/OpenGpt) Create your own ChatGPT App in seconds.
@@ -182,6 +186,9 @@
 - [aicommits](https://github.com/Nutlope/aicommits) A CLI that writes your git commit messages for you with AI
 - [cz-git](https://github.com/Zhengqbbb/cz-git) cz-git | czg 🛠️ DX first and more engineered, lightweight, customizable, standard output format commitizen adapter and CLI
 - [Smalltalk](https://github.com/tinystruct/smalltalk) A funny anonymous chat software which support CLI and integrated with ChatGPT / GPT-3.
+- [CLI-Co-Pilot](https://github.com/AntonOsika/CLI-Co-Pilot) CLI tool that uses Codex to turn natural language commands into their Bash/ZShell/PowerShell equivalents
+- [cli-gpt](https://github.com/MagicCube/cli-gpt) Translate human language to command line using ChatGPT
+- [HappyCommit](https://github.com/jackbackes/happycommit) HappyCommit is a delightful tool that harnesses the power of OpenAI's GPT-3.5 Turbo language model to generate meaningful and descriptive Git commit messages for you
 
 ## Github Actions
 - [chatgpt-action](https://github.com/kxxt/chatgpt-action) Let ChatGPT review PRs for you
