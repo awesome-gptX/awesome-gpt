@@ -89,6 +89,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [sync-to-github](https://github.com/aircloud/sync-to-github/blob/main/README.en.md) Synchronize chatgpt conversations to the github repository in the form of `.md` file
 - [chatgpt-dl](https://github.com/jiayao/chatgpt-dl) Another ChatGPT to Markdown extension, it intercepts the API call to retrieve the original markdown.
 - [chatgpt-enhancement-extension](https://github.com/sailist/chatgpt-enhancement-extension) An all-in-one plugin to improve your ChatGPT experience
+- [ChatGPT-Prompt-Genius](https://github.com/benf2004/ChatGPT-Prompt-Genius) Multi-purpose ChatGPT Chrome Extension
 
 ## Desktop Applications
 
