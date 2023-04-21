@@ -62,13 +62,13 @@
 - [chatgpt-plus-api-client](https://github.com/mzbac/chatgpt-plus-api-client) 对 ChatGPT 进行 API 调用的节点客户端
 - [Unoffical API in Python](https://github.com/acheong08/ChatGPT) 反向工程的 ChatGPT API
 - [TLS-based API (Python)](https://github.com/rawandahmad698/PyChatGPT) 非官方的 ChatGPT API 的 Python 客户端，具有自动令牌再生、对话跟踪、代理支持等功能。
-- [Unofficial API in JS/TS](https://github.com/transitive-bullshit/chatgpt-api) Node.js client for the official ChatGPT API.
-- [Unofficial API in Dart](https://github.com/MisterJimson/chatgpt_api_dart) Dart client for the unofficial ChatGPT API
-- [A Java Version ChatGPT SDK](https://github.com/swordintent/chatgpt-web-api) A Java Version ChatGPT SDK
-- [chatgpt-java](https://github.com/PlexPt/chatgpt-java) ChatGPT Java SDK. Lightweight package for interacting with ChatGPT's API by OpenAI
-- [This repo is unofficial ChatGPT api](https://github.com/taranjeet/chatgpt-api) It is based on Daniel Gross's WhatsApp GPT
-- [chatGPT-server](https://github.com/dataaug/chatGPT-server) Deploy chatGPT on the server
-- [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) Clone of ChatGPT, uses official model, reverse-engineered UI, with AI model switching, message search, and prompt templates
+- [Unofficial API in JS/TS](https://github.com/transitive-bullshit/chatgpt-api) 用于官方 ChatGPT API 的 Node.js 客户端.
+- [Unofficial API in Dart](https://github.com/MisterJimson/chatgpt_api_dart) 非官方的 ChatGPT API 的 Dart 客户端
+- [A Java Version ChatGPT SDK](https://github.com/swordintent/chatgpt-web-api) Java 版 ChatGPT SDK
+- [chatgpt-java](https://github.com/PlexPt/chatgpt-java) ChatGPT Java SDK. 用于与 OpenAI 的 ChatGPT 的 API 进行交互的轻量级包。
+- [This repo is unofficial ChatGPT api](https://github.com/taranjeet/chatgpt-api) 基于 Daniel Gross 的 WhatsApp GPT
+- [chatGPT-server](https://github.com/dataaug/chatGPT-server) 在服务器上部署 ChatGPT
+- [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) 克隆 ChatGPT，使用官方模型，逆向工程 UI，具有 AI 模型切换、信息搜索和提示模板等功能。
 
 
 ## 浏览器扩展
