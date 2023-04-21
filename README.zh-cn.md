@@ -92,6 +92,7 @@
 - [sync-to-github](https://github.com/aircloud/sync-to-github/blob/main/README.en.md) Synchronize chatgpt conversations to the github repository in the form of `.md` file
 - [chatgpt-dl](https://github.com/jiayao/chatgpt-dl) Another ChatGPT to Markdown extension, it intercepts the API call to retrieve the original markdown.
 - [chatgpt-enhancement-extension](https://github.com/sailist/chatgpt-enhancement-extension) An all-in-one plugin to improve your ChatGPT experience
+- [ChatGPT-Prompt-Genius](https://github.com/benf2004/ChatGPT-Prompt-Genius) Multi-purpose ChatGPT Chrome Extension
 
 ## 桌面应用
 
@@ -100,7 +101,7 @@
 - [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) ChatGPT for Mac, living in your menubar
 - [BingGPT](https://github.com/dice2o/BingGPT): chat with Bing on Windows/MacOS/Linux without installing Microsoft Edge or browser plugins. Export full conversation to Markdown, PNG or PDF.
 - [cheetah](https://github.com/leetcode-mafia/cheetah) Whisper & GPT-based app for passing remote SWE interviews
-
+- [IntelliBar](https://intellibar.app/) Spotlight-like macOS app that puts ChatGPT a shortcut away.
 
 ## 编辑器
 
@@ -163,6 +164,9 @@
 - [Epic Music Quiz](https://epicmusicquiz.com) A free webapp for creating your own custom Music Video Quiz using youtube videos that can be played solo or multiplayer with friends. Optional AI generation of quiz questions
 - [chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) Translate your locale json files with AI assistance
 - [Promptsandbox.io](https://github.com/eg9y/promptsandbox.io) Node-based visual programming tool to create dynamic OpenAI API workflows
+- [Poet.ly](https://poet.ly) Poet.ly is a simple and fast generator of SEO-friendly articles for your blog referenced on search engines. It is based on the OpenAI GPT-4 API.
+- [AgentGPT](https://github.com/reworkd/AgentGPT) 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
+
 
 ## 应用
 - [OpenGpt](https://github.com/futantan/OpenGpt) Create your own ChatGPT App in seconds.
@@ -189,6 +193,7 @@
 - [CLI-Co-Pilot](https://github.com/AntonOsika/CLI-Co-Pilot) CLI tool that uses Codex to turn natural language commands into their Bash/ZShell/PowerShell equivalents
 - [cli-gpt](https://github.com/MagicCube/cli-gpt) Translate human language to command line using ChatGPT
 - [HappyCommit](https://github.com/jackbackes/happycommit) HappyCommit is a delightful tool that harnesses the power of OpenAI's GPT-3.5 Turbo language model to generate meaningful and descriptive Git commit messages for you
+- [ai-commit](https://github.com/guanguans/ai-commit) Automagically generate conventional git commit messages with AI.
 
 ## Github Actions
 - [chatgpt-action](https://github.com/kxxt/chatgpt-action) Let ChatGPT review PRs for you
