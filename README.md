@@ -220,4 +220,5 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 ## User Scripts
 - [ChatGPT conversation saving bookmark](https://github.com/jcubic/chat-gpt) Save chatGPT conversation as HTML file
 - [WebGPT](https://github.com/0hq/WebGPT) Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~2000 lines of vanilla Javascript.
+- [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) A UserScript that enables ChatGPT to chat smoothly, never experiencing network errors again, and no need to refresh the webpage anymore.
 
