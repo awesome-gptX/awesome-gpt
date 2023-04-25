@@ -77,14 +77,14 @@
 ## 浏览器扩展
 - [chatGPTBox](https://github.com/josStorer/chatGPTBox) 将 ChatGPT 深度整合到您的浏览器，您需要的一切都在这里。
 - [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) 在 Google 搜索结果和 YouTube 视频旁边查看ChatGPT摘要，也支持 Yahoo!
-- [Automate your browser with GPT-4](https://github.com/TaxyAI/browser-extension) 使用 GPT-4 来控制你的浏览器并代表你执行重复性的动作
+- [Automate your browser with GPT-4](https://github.com/TaxyAI/browser-extension) 使用 GPT-4 来控制你的浏览器并代表你执行重复性的动作。
 - [summarize.site](https://github.com/clmnin/summarize.site) 使用 OpenAI ChatGPT 对网页进行总结。
 - [codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) 使用 ChatGPT 审查你的 Pull Request，这样你就可以假装工作了。
 - [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) 在谷歌搜索结果旁边显示 ChatGPT 响应的扩展。
-- [ChatGPT_Extension](https://github.com/kazuki-sf/ChatGPT_Extension) Chrome extension to open a ChatGPT popup (basically [a bookmark](https://github.com/kazuki-sf/ChatGPT_Extension/issues/6))
-- [chat-gpt-bing-extension](https://github.com/happy-share-forever/chat-gpt-bing-extension) A browser extension to display ChatGPT response alongside Bing Search results, supports Chrome/Edge/Firefox
-- [ChatGPT-pdf](https://github.com/liady/ChatGPT-pdf) Extension to add share abilities to ChatGPT (PDF, PNG or a sharable link
-- [Superpower ChatGPT](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc) Chrome extension to add input history, copy, and counters to ChatGPT
+- [ChatGPT_Extension](https://github.com/kazuki-sf/ChatGPT_Extension) Chrome 扩展可以打开 ChatGPT 弹出窗口 (basically [a bookmark](https://github.com/kazuki-sf/ChatGPT_Extension/issues/6))
+- [chat-gpt-bing-extension](https://github.com/happy-share-forever/chat-gpt-bing-extension) 在必应搜索结果旁边显示 ChatGPT 响应的浏览器扩展，支持 Chrome/Edge/Firefox。
+- [ChatGPT-pdf](https://github.com/liady/ChatGPT-pdf) 为 ChatGPT 添加共享功能的扩展（PDF、PNG 或可共享链接）。
+- [Superpower ChatGPT](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc) 为 ChatGPT 添加输入历史、复制和计数器的 Chrome 扩展程序
 - [ChassistantGPT](https://github.com/idosal/assistant-chat-gpt) embeds ChatGPT as a hands-free voice assistant in the background
 - [WebChatGPT](https://github.com/qunash/chatgpt-advanced/) augment your prompts to ChatGPT with web search results
 - [chat-gpt-userscript](https://github.com/zhengbangbo/chat-gpt-userscript) A userscript to display ChatGPT answer alongside Search Engine or Translator
@@ -198,6 +198,8 @@
 - [HappyCommit](https://github.com/jackbackes/happycommit) HappyCommit is a delightful tool that harnesses the power of OpenAI's GPT-3.5 Turbo language model to generate meaningful and descriptive Git commit messages for you
 - [ai-commit](https://github.com/guanguans/ai-commit) Automagically generate conventional git commit messages with AI.
 - [autodoc](https://github.com/context-labs/autodoc) Autodoc is a experimental toolkit for auto-generating codebase documentation for git repositories using Large Language Models, like GPT-4 or Alpaca.
+- [prompt](https://github.com/raiyanyahya/prompt) 🥝 一个与 OpenAI ChatGPT API 互动的命令行程序。
+
 
 
 ## Github Actions
