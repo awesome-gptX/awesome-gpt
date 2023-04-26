@@ -13,6 +13,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [ChatGPT Community](#chatgpt-community)
 - [ChatGPT Integrated Projects](#chatgpt-integrated-projects)
 - [API tools](#api-tools)
+- [Client-side tools](#client-side-tools)
 - [Browser Extensions](#browser-extensions)
 - [Desktop Applications](#desktop-applications)
 - [Editors](#editors)
@@ -55,6 +56,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [doctorgpt](https://github.com/ingyamilmolinar/doctorgpt) DoctorGPT is a lightweight self-contained binary that monitors your application logs for problems and diagnoses them.
 
 ## API tools
+
 - [toolkit-ai](https://github.com/hey-pal/toolkit-ai) AI-agents that automatically generate and use Langchain Tools and ChatGPT plugins
 - [whetstone.chatgpt](https://github.com/johniwasz/whetstone.chatgpt) A simple light-weight library that wraps the GPT-3 API with support for dependency injection
 - [chatgpt-starter](https://github.com/zhangjh/chatgpt-starter) A chatgpt starter based on springboot to provider chatgpt api for java
@@ -69,8 +71,12 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [chatGPT-server](https://github.com/dataaug/chatGPT-server) Deploy chatGPT on the server
 - [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) Clone of ChatGPT, uses official model, reverse-engineered UI, with AI model switching, message search, and prompt templates
 
+## Client-side tools
+
+- [chatgpt.js](https://chatgpt.js.org) 🤖 A powerful client-side JavaScript library for ChatGPT
 
 ## Browser Extensions
+
 - [chatGPTBox](https://github.com/josStorer/chatGPTBox) Integrating ChatGPT into your browser deeply, everything you need is here
 - [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo!
 - [Automate your browser with GPT-4](https://github.com/TaxyAI/browser-extension) uses GPT-4 to control your browser and perform repetitive actions on your behalf
@@ -103,7 +109,6 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [cheetah](https://github.com/leetcode-mafia/cheetah) Whisper & GPT-based app for passing remote SWE interviews
 - [IntelliBar](https://intellibar.app/) Spotlight-like macOS app that puts ChatGPT a shortcut away.
 
-
 ## Editors
 
 - [vim-chatgpt](https://github.com/CoderCookE/vim-chatgpt) a Vim Plugin For ChatGPT
@@ -117,8 +122,8 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [a plugin for JetBrains series IDE](https://github.com/dromara/ChatGPT) This project is a plugin that supports ChatGPT running on JetBrains series IDE.
 - [add-chatgpt-to-microsoft-word](https://github.com/analyticsinmotion/add-chatgpt-to-microsoft-word) How to add ChatGPT's Text Completion to Microsoft Word
 
-
 ## Chat bots
+
 - [gpt4all](https://github.com/nomic-ai/gpt4all) a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
 - [chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk) GPT-3.5 Let your work efficiency take off directly
 - [ChatBot-TGLM6B](https://github.com/Lakr233/ChatBot-TGLM6B) ChatGLM-6B Bot for Telegram
@@ -145,6 +150,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [ChatGPT for WearOS](https://github.com/DevEmperor/ChatGPT-WearOS) A powerful ChatGPT app for all WearOS devices 
 
 ## Extend ChatGPT Feature
+
 - [Kubectl OpenAI plugin](https://github.com/sozercan/kubectl-ai) This project is a kubectl plugin to generate and apply Kubernetes manifests using OpenAI GPT
 - [shareGPT](https://github.com/domeccleston/sharegpt) permenent links to your conversations
 - [email-helper](https://github.com/shengxinjing/email-helper) Generate your business emails in seconds
@@ -155,6 +161,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [DocsGPT](https://github.com/arc53/DocsGPT) GPT-powered chat for documentation search & assistance
 
 ## Web applications
+
 - [kindle-gpt](https://github.com/mckaywrigley/kindle-gpt) AI search & chat on your Kindle highlights
 - [eslint-gpt](https://github.com/ycjcl868/eslint-gpt) Generate your eslint rule with OpenAI and Vercel Edge Functions
 - [chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) Elegant and Powerfull. Powered by OpenAI and Vercel
@@ -169,6 +176,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [AgentGPT](https://github.com/reworkd/AgentGPT) 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 
 ## Applications
+
 - [OpenGpt](https://github.com/futantan/OpenGpt) Create your own ChatGPT App in seconds.
 - [ChatARKit](https://github.com/trzy/ChatARKit) Using ChatGPT to Create AR Experiences with Natural Language
 - [AI-Writing-Assistant](https://github.com/simplysabir/AI-Writing-Assistant) GPT3 Blog Post Generator
@@ -179,6 +187,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [Smalltalk](https://github.com/tinystruct/smalltalk) A funny anonymous chat software which integrated with OpenAI ChatGPT and Stability AI. 
 
 ## CLI tools
+
 - [Cli for ChatGPT](https://github.com/j178/chatgpt) A TUI for ChatGPT API, powered by GPT-3.5-turbo and GPT-4 models
 - [gptcommit](https://github.com/zurawiki/gptcommit) A git prepare-commit-msg hook for authoring commit messages with GPT-3
 - [Voice-based chatGPT](https://github.com/platelminto/chatgpt-conversation) Have a conversation with ChatGPT using your voice, and have it talk back.
@@ -197,15 +206,18 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [prompt](https://github.com/raiyanyahya/prompt) 🥝 A command line application to interact with OpenAI ChatGPT API.
 
 ## Github Actions
+
 - [chatgpt-action](https://github.com/kxxt/chatgpt-action) Let ChatGPT review PRs for you
 - [ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) A code review bot powered by ChatGPT
 - [openai-pr-reviewer](https://github.com/fluxninja/openai-pr-reviewer) OpenAI ChatGPT based PR reviewer and summarizer
 
 ## Cybersecurity
+
 - [Beelzebub ChatGPT Honeypot](https://github.com/mariocandela/beelzebub) A secure honeypot framework low code, extremely easy to configure by yaml 🚀
 - [Penetration Testing Findings Generator](https://github.com/Stratus-Security/FinGen) A ChatGPT based penetration testing findings generator.
 
 ## Prompts
+
 - [ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) The ChatGPT Shortcut page displays all the prompts by default, and is divided into label area, search area, and prompt display area
 - [GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
 - [showGPT](https://showgpt.co/): Website with curated list of best prompts, and you can submit your own easily.
@@ -223,6 +235,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [gptlang](https://github.com/forrestchang/gptlang): Experiment to see if we can create a programming language in ChatGPT.
 
 ## User Scripts
+
 - [ChatGPT conversation saving bookmark](https://github.com/jcubic/chat-gpt) Save chatGPT conversation as HTML file
 - [WebGPT](https://github.com/0hq/WebGPT) Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~2000 lines of vanilla Javascript.
 - [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) A UserScript that enables ChatGPT to chat smoothly, never experiencing network errors again, and no need to refresh the webpage anymore.
