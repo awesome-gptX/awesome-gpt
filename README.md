@@ -148,7 +148,8 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) A ChatGPT implementation with support for Bing's GPT-4 version of ChatGPT
 - [progressive-chatgpt-bot](https://github.com/ulivz/progressive-chatgpt-bot) A progressive ChatGPT feishu bot, made for Girlfriend
 - [wx-chatgpt](https://github.com/wuomzfx/wx-chatgpt) Wechat Public Account cloud hosting access chatgpt template
-- [ChatGPT for WearOS](https://github.com/DevEmperor/ChatGPT-WearOS) A powerful ChatGPT app for all WearOS devices 
+- [ChatGPT for WearOS](https://github.com/DevEmperor/ChatGPT-WearOS) A powerful ChatGPT app for all WearOS devices
+- [DuckDuckGPT](https://duckduckgpt.com) 🐤 Adds the magic of ChatGPT to DuckDuckGo sidebar
 
 ## Extend ChatGPT Feature
 
