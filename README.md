@@ -150,6 +150,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [wx-chatgpt](https://github.com/wuomzfx/wx-chatgpt) Wechat Public Account cloud hosting access chatgpt template
 - [ChatGPT for WearOS](https://github.com/DevEmperor/ChatGPT-WearOS) A powerful ChatGPT app for all WearOS devices
 - [DuckDuckGPT](https://duckduckgpt.com) 🐤 Adds the magic of ChatGPT to DuckDuckGo sidebar
+- [BraveGPT](https://bravegpt.com) 🦁 Adds the magic of ChatGPT to Brave Search sidebar
 
 ## Extend ChatGPT Feature
 
