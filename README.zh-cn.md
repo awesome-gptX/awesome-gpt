@@ -13,6 +13,7 @@
 - [ChatGPT 社区](#chatgpt-社区)
 - [ChatGPT 集成项目](#chatgpt-集成项目)
 - [API 工具](#api-工具)
+- [客户端工具](#客户端工具)
 - [浏览器扩展](#浏览器扩展)
 - [桌面应用](#桌面应用)
 - [编辑器](#编辑器)
@@ -73,6 +74,10 @@
 - [chatGPT-server](https://github.com/dataaug/chatGPT-server) 在服务器上部署 ChatGPT
 - [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) 克隆 ChatGPT，使用官方模型，逆向工程 UI，具有 AI 模型切换、信息搜索和提示模板等功能。
 
+## 客户端工具
+
+- [chatgpt.js](https://chatgpt.js.org) 🤖 A powerful client-side JavaScript library for ChatGPT
+
 
 ## 浏览器扩展
 - [chatGPTBox](https://github.com/josStorer/chatGPTBox) 将 ChatGPT 深度整合到您的浏览器，您需要的一切都在这里。
@@ -97,6 +102,7 @@
 - [chatgpt-enhancement-extension](https://github.com/sailist/chatgpt-enhancement-extension) An all-in-one plugin to improve your ChatGPT experience
 - [ChatGPT-Prompt-Genius](https://github.com/benf2004/ChatGPT-Prompt-Genius) Multi-purpose ChatGPT Chrome Extension
 - [ReadAnything](https://github.com/Zhangyanbo/ReadAnything) Read any hard content with the help of GPT
+- [ChatGPT Widescreen Mode](https://chatgptevo.com/widescreen) 🖥️ Add Widescreen + Full-Window modes to ChatGPT for enhanced viewing
 
 ## 桌面应用
 
@@ -233,4 +239,8 @@
 - [WebGPT](https://github.com/0hq/WebGPT) Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~2000 lines of vanilla Javascript.
 - [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) A UserScript that enables ChatGPT to chat smoothly, never experiencing network errors again, and no need to refresh the webpage anymore.
 - [chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) Export and Share your ChatGPT conversation history
+- [ChatGPT Auto Refresh](https://chatgptevo.com/autorefresh) ↻ Keeps ChatGPT sessions fresh to avoid network errors + Cloudflare checks
+- [Autoclear ChatGPT History](https://chatgptevo.com/autoclear) 🕶️ Adds chat auto-clear functionality to ChatGPT for more privacy
+- [DuckDuckGPT](https://github.com/kudoai/duckduckgpt) 🐤 Adds the magic of ChatGPT to DuckDuckGo sidebar
+- [BraveGPT](https://github.com/kudoai/bravegpt) 🦁 Adds the magic of ChatGPT to Brave Search sidebar
 
