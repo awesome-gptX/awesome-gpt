@@ -191,6 +191,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 ## CLI tools
 
+- [CommitAssist](https://github.com/dejorrit/commit-assist) Auto generate commit messages using ChatGPT
 - [Cli for ChatGPT](https://github.com/j178/chatgpt) A TUI for ChatGPT API, powered by GPT-3.5-turbo and GPT-4 models
 - [gptcommit](https://github.com/zurawiki/gptcommit) A git prepare-commit-msg hook for authoring commit messages with GPT-3
 - [Voice-based chatGPT](https://github.com/platelminto/chatgpt-conversation) Have a conversation with ChatGPT using your voice, and have it talk back.
