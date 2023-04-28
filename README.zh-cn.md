@@ -152,6 +152,8 @@
 - [progressive-chatgpt-bot](https://github.com/ulivz/progressive-chatgpt-bot) A progressive ChatGPT feishu bot, made for Girlfriend
 - [wx-chatgpt](https://github.com/wuomzfx/wx-chatgpt) Wechat Public Account cloud hosting access chatgpt template
 - [ChatGPT for WearOS](https://github.com/DevEmperor/ChatGPT-WearOS) A powerful ChatGPT app for all WearOS devices
+- [DuckDuckGPT](https://github.com/kudoai/duckduckgpt) 🐤 Adds the magic of ChatGPT to DuckDuckGo sidebar
+- [BraveGPT](https://github.com/kudoai/bravegpt) 🦁 Adds the magic of ChatGPT to Brave Search sidebar
 
 ## 扩展 ChatGPT 功能
 - [Kubectl OpenAI plugin](https://github.com/sozercan/kubectl-ai) This project is a kubectl plugin to generate and apply Kubernetes manifests using OpenAI GPT
