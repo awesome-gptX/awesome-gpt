@@ -9,23 +9,30 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 ## Table of Contents
 
-- [Official Resources](#official-resources)
-- [ChatGPT Community](#chatgpt-community)
-- [ChatGPT Integrated Projects](#chatgpt-integrated-projects)
-- [API tools](#api-tools)
-- [Client-side tools](#client-side-tools)
-- [Browser Extensions](#browser-extensions)
-- [Desktop Applications](#desktop-applications)
-- [Editors](#editors)
-- [Chat bots](#chat-bots)
-- [Extend ChatGPT Feature](#extend-chatgpt-feature)
-- [Applications](#applications)
-- [CLI tools](#cli-tools)
-- [Github Actions](#github-actions)
-- [Cybersecurity](#cybersecurity)
-- [Prompts](#prompts)
-- [Reverse Proxy](#reverse-proxy)
-- [Experiments](#experiments)
+- [Awesome-ChatGPT](#awesome-chatgpt)
+  - [Contribution](#contribution)
+  - [Table of Contents](#table-of-contents)
+  - [Official Resources](#official-resources)
+  - [ChatGPT Community](#chatgpt-community)
+  - [ChatGPT Integrated Projects](#chatgpt-integrated-projects)
+    - [Python](#python)
+    - [Go](#go)
+  - [API tools](#api-tools)
+  - [Client-side tools](#client-side-tools)
+  - [Browser Extensions](#browser-extensions)
+  - [Desktop Applications](#desktop-applications)
+  - [Editors](#editors)
+  - [Chat bots](#chat-bots)
+  - [Extend ChatGPT Feature](#extend-chatgpt-feature)
+  - [Web applications](#web-applications)
+  - [Applications](#applications)
+  - [CLI tools](#cli-tools)
+  - [Github Actions](#github-actions)
+  - [Cybersecurity](#cybersecurity)
+  - [Prompts](#prompts)
+  - [Reverse Proxy](#reverse-proxy)
+  - [Experiments](#experiments)
+  - [User Scripts](#user-scripts)
 
 ## Official Resources
 
@@ -191,6 +198,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 ## CLI tools
 
+- [README-AI](https://github.com/eli64s/README-AI) Generate beautiful, informative, and well-structured README.md files. 
 - [CommitAssist](https://github.com/dejorrit/commit-assist) Auto generate commit messages using ChatGPT
 - [Cli for ChatGPT](https://github.com/j178/chatgpt) A TUI for ChatGPT API, powered by GPT-3.5-turbo and GPT-4 models
 - [gptcommit](https://github.com/zurawiki/gptcommit) A git prepare-commit-msg hook for authoring commit messages with GPT-3
