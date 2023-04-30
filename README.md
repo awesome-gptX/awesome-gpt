@@ -214,6 +214,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [chatgpt-action](https://github.com/kxxt/chatgpt-action) Let ChatGPT review PRs for you
 - [ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) A code review bot powered by ChatGPT
 - [openai-pr-reviewer](https://github.com/fluxninja/openai-pr-reviewer) OpenAI ChatGPT based PR reviewer and summarizer
+- [chatgpt-create-unit-tests](https://github.com/zebroc/chatgpt-create-unit-tests) Let ChatGPT write unit tests & do reviews for you (or provide your own prompts)
 
 ## Cybersecurity
 
