@@ -9,25 +9,30 @@
 
 ## 目录
 
-- [官方资源](#官方资源)
-- [ChatGPT 社区](#chatgpt-社区)
-- [ChatGPT 集成项目](#chatgpt-集成项目)
-- [API 工具](#api-工具)
-- [客户端工具](#客户端工具)
-- [浏览器扩展](#浏览器扩展)
-- [桌面应用](#桌面应用)
-- [编辑器](#编辑器)
-- [聊天机器人](#聊天机器人)
-- [扩展 ChatGPT 功能](#扩展-chatgpt-功能)
-- [网页应用](#网页应用)
-- [应用](#应用)
-- [命令行工具](#命令行工具)
-- [Github Actions](#github-actions)
-- [Cybersecurity](#cybersecurity)
-- [提示](#提示)
-- [反向代理](#反向代理)
-- [实验](#实验)
-- [用户脚本](#用户脚本)
+- [Awesome-ChatGPT](#awesome-chatgpt)
+  - [贡献](#贡献)
+  - [目录](#目录)
+  - [官方资源](#官方资源)
+  - [ChatGPT 社区](#chatgpt-社区)
+  - [ChatGPT 集成项目](#chatgpt-集成项目)
+    - [Python](#python)
+    - [Go](#go)
+  - [API 工具](#api-工具)
+  - [客户端工具](#客户端工具)
+  - [浏览器扩展](#浏览器扩展)
+  - [桌面应用](#桌面应用)
+  - [编辑器](#编辑器)
+  - [聊天机器人](#聊天机器人)
+  - [扩展 ChatGPT 功能](#扩展-chatgpt-功能)
+  - [网页应用](#网页应用)
+  - [应用](#应用)
+  - [命令行工具](#命令行工具)
+  - [Github Actions](#github-actions)
+  - [Cybersecurity](#cybersecurity)
+  - [提示](#提示)
+  - [反向代理](#反向代理)
+  - [实验](#实验)
+  - [用户脚本](#用户脚本)
 
 ## 官方资源
 
@@ -191,6 +196,7 @@
 - [Smalltalk](https://github.com/tinystruct/smalltalk) A funny anonymous chat software which integrated with OpenAI ChatGPT and Stability AI.
 
 ## 命令行工具
+- [README-AI](https://github.com/eli64s/README-AI) 使用 OpenAI 语言模型 API，为编写美观、结构化和信息丰富的 README.md 文件而设计的命令行工具。
 - [Cli for ChatGPT](https://github.com/j178/chatgpt) A TUI for ChatGPT API, powered by GPT-3.5-turbo and GPT-4 models
 - [gptcommit](https://github.com/zurawiki/gptcommit) A git prepare-commit-msg hook for authoring commit messages with GPT-3
 - [Voice-based chatGPT](https://github.com/platelminto/chatgpt-conversation) Have a conversation with ChatGPT using your voice, and have it talk back.
