@@ -112,22 +112,22 @@
 ## 桌面应用
 
 - [Multi-platform desktop app (Windows, Mac, Linux)](https://github.com/lencx/ChatGPT) powered by ChatGPT & Tauri
-- [ChatGPT Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop): Windows/MacOS/Linux desktop menubar app using tauri & rust.
+- [ChatGPT Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop)  Windows/MacOS/Linux desktop menubar app using tauri & rust.
 - [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) ChatGPT for Mac, living in your menubar
-- [BingGPT](https://github.com/dice2o/BingGPT): chat with Bing on Windows/MacOS/Linux without installing Microsoft Edge or browser plugins. Export full conversation to Markdown, PNG or PDF.
+- [BingGPT](https://github.com/dice2o/BingGPT)  chat with Bing on Windows/MacOS/Linux without installing Microsoft Edge or browser plugins. Export full conversation to Markdown, PNG or PDF.
 - [cheetah](https://github.com/leetcode-mafia/cheetah) Whisper & GPT-based app for passing remote SWE interviews
 - [IntelliBar](https://intellibar.app/) Spotlight-like macOS app that puts ChatGPT a shortcut away.
 
 ## 编辑器
 
 - [vim-chatgpt](https://github.com/CoderCookE/vim-chatgpt) a Vim Plugin For ChatGPT
-- [ChatGPT VSCode](https://github.com/mpociot/chatgpt-vscode): VSCode extension ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
+- [ChatGPT VSCode](https://github.com/mpociot/chatgpt-vscode)  VSCode extension ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
 - [chatgpt-vscode-plugin](https://github.com/barnesoir/chatgpt-vscode-plugin) A VS code plugin for ChatGPT built by ChatGPT
 - [vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) The extension is pair-programmed with ChatGPT
-- [Jetbrains IDE plugin](https://github.com/LiLittleCat/intellij-chatgpt): A ChatGPT plugin for JetBrains IDE (webview)
-- [Jetbrains IDE plugin](https://github.com/dromara/ChatGPT): A ChatGPT plugin for JetBrains IDEs (using OpenAI's API)
-- [chatgpt.vim](https://github.com/terror/chatgpt.nvim): Neovim plugin that lets you query ChatGPT inside a Neovim buffer.
-- [Google docs](https://github.com/cesarhuret/docGPT): ChatGPT directly within Google Docs as an Editor Add-on.
+- [Jetbrains IDE plugin](https://github.com/LiLittleCat/intellij-chatgpt)  A ChatGPT plugin for JetBrains IDE (webview)
+- [Jetbrains IDE plugin](https://github.com/dromara/ChatGPT)  A ChatGPT plugin for JetBrains IDEs (using OpenAI's API)
+- [chatgpt.vim](https://github.com/terror/chatgpt.nvim)  Neovim plugin that lets you query ChatGPT inside a Neovim buffer.
+- [Google docs](https://github.com/cesarhuret/docGPT)  ChatGPT directly within Google Docs as an Editor Add-on.
 - [a plugin for JetBrains series IDE](https://github.com/dromara/ChatGPT) This project is a plugin that supports ChatGPT running on JetBrains series IDE.
 - [add-chatgpt-to-microsoft-word](https://github.com/analyticsinmotion/add-chatgpt-to-microsoft-word) How to add ChatGPT's Text Completion to Microsoft Word
 
@@ -228,19 +228,19 @@
 ## 提示
 - [ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) The ChatGPT Shortcut page displays all the prompts by default, and is divided into label area, search area, and prompt display area
 - [GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
-- [showGPT](https://showgpt.co/): Website with curated list of best prompts, and you can submit your own easily.
-- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts): ChatGPT prompts that works well.
-- [awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt): Posts & thoughts about prompting ChatGPT for different usages
+- [showGPT](https://showgpt.co/)  Website with curated list of best prompts, and you can submit your own easily.
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)  ChatGPT prompts that works well.
+- [awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt)  Posts & thoughts about prompting ChatGPT for different usages
 - [GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
-- [ListPrompt.com](https://listprompt.com/): List of awesome GPT prompts from the community.
+- [ListPrompt.com](https://listprompt.com/)  List of awesome GPT prompts from the community.
 
 ## 反向代理
 
-- [gpt.chatapi.art](https://gpt.chatapi.art/): ChatGPT reverse proxy site, intended for people with restricted access to areas by OpenAI.
+- [gpt.chatapi.art](https://gpt.chatapi.art/)  ChatGPT reverse proxy site, intended for people with restricted access to areas by OpenAI.
 
 ## 实验
 
-- [gptlang](https://github.com/forrestchang/gptlang): Experiment to see if we can create a programming language in ChatGPT.
+- [gptlang](https://github.com/forrestchang/gptlang)  Experiment to see if we can create a programming language in ChatGPT.
 
 ## 用户脚本
 - [ChatGPT conversation saving bookmark](https://github.com/jcubic/chat-gpt) Save chatGPT conversation as HTML file
