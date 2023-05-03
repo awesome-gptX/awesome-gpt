@@ -1,0 +1,33 @@
+{
+  "name": "awesome-chatgpt",
+  "version": "1.0.0",
+  "description": "<img src=\"./banner.png\"/>",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node .github/action/refreshStar.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awesome-chatgpt/awesome-chatgpt.git"
+  },
+  "keywords": [
+    "chatgpt",
+    "chat",
+    "gpt",
+    "ai",
+    "bot",
+    "awesome",
+    "awesome-chatgpt"
+  ],
+  "author": "Awesome ChatGPT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/awesome-chatgpt/awesome-chatgpt/issues"
+  },
+  "homepage": "https://github.com/awesome-chatgpt/awesome-chatgpt#readme",
+  "dependencies": {
+    "@octokit/action": "^5.0.2",
+    "octokit": "^2.0.14"
+  }
+}

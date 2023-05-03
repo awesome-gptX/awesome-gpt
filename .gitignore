@@ -3,3 +3,5 @@
 
 .DS_Store
 .history
+node_modules
+private.config.json
