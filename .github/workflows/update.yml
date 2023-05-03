@@ -11,17 +11,16 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
-      - name: Clone repository
-        uses: actions/checkout@v2
+      - uses: actions/checkout@v3
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v2
 
       - name: Set node version to 18
         uses: actions/setup-node@v3
         with:
           node-version: 18
           cache: 'pnpm'
-          
-      - name: Install pnpm
-        uses: pnpm/action-setup@v2
 
       - name: Install dependencies
         run: |
