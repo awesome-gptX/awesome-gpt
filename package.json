@@ -4,6 +4,7 @@
   "description": "<img src=\"./banner.png\"/>",
   "main": "bot.js",
   "type": "module",
+  "packageManager": "pnpm@7.26.0",
   "scripts": {
     "start": "node .github/action/refreshStar.js"
   },
