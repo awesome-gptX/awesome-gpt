@@ -1,14 +1,11 @@
 import fs from 'node:fs'
-import { Octokit } from 'octokit'
-import privateConfig from './private.config.json' assert { type: 'json' }
+import { Octokit } from '@octokit/action'
 
 const refreshStar = async (file) => {
   const markdown = fs.readFileSync(`./${file}.md`, 'utf-8')
   const lineText = markdown.split('\n')
 
-  const octokit = new Octokit({
-    auth: privateConfig.auth
-  })
+  const octokit = new Octokit()
   const startTime = new Date()
   console.log('任务开始：', startTime.toLocaleString())
   const getOwnerAndRepoFromUrl = (url) => {

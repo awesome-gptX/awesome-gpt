@@ -5,7 +5,7 @@
   "main": "bot.js",
   "type": "module",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node .github/action/refreshStar.js"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,8 @@
     "ai",
     "bot",
     "awesome",
-    "awesome-chatgpt"],
+    "awesome-chatgpt"
+  ],
   "author": "Awesome ChatGPT",
   "license": "MIT",
   "bugs": {
@@ -26,6 +27,7 @@
   },
   "homepage": "https://github.com/awesome-chatgpt/awesome-chatgpt#readme",
   "dependencies": {
+    "@octokit/action": "^5.0.2",
     "octokit": "^2.0.14"
   }
 }
