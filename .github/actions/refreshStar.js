@@ -23,7 +23,7 @@ const refreshStar = async (file) => {
       })
       return stargazers_count
     } catch (error) {
-      // console.log(error)
+      console.log(error.message || error)
     }
   }
   const extractObject = (line) => {
