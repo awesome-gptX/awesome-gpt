@@ -1,5 +1,5 @@
 import fs from 'node:fs'
-import { Octokit } from '@octokit/action'
+import { setTimeout } from 'node:timers/promises'
 
 const refreshStar = async (file) => {
   const markdown = fs.readFileSync(`./${file}.md`, 'utf-8')
@@ -43,6 +43,7 @@ const refreshStar = async (file) => {
           if (!path.startsWith('https://github.com')) {
             console.warn('非github地址：', line)
           } else {
+            await setTimeout(50, null)
             allTask.push(new Promise(async (resolve) => {
               const { owner, repo } = getOwnerAndRepoFromUrl(path)
               const starCount = await queryRepoStarCount(owner, repo)
