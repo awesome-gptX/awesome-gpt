@@ -6,7 +6,7 @@
   "type": "module",
   "packageManager": "pnpm@7.26.0",
   "scripts": {
-    "start": "node .github/action/refreshStar.js"
+    "start": "node .github/actions/refreshStar.js"
   },
   "repository": {
     "type": "git",
