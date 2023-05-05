@@ -1,5 +1,6 @@
 import fs from 'node:fs'
 import { setTimeout } from 'node:timers/promises'
+import { Octokit } from '@octokit/action'
 
 const refreshStar = async (file) => {
   const markdown = fs.readFileSync(`./${file}.md`, 'utf-8')
