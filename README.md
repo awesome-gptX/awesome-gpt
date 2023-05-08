@@ -77,6 +77,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [This repo is unofficial ChatGPT api](https://github.com/taranjeet/chatgpt-api) It is based on Daniel Gross's WhatsApp GPT
 - [chatGPT-server](https://github.com/dataaug/chatGPT-server) Deploy chatGPT on the server
 - [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) Clone of ChatGPT, uses official model, reverse-engineered UI, with AI model switching, message search, and prompt templates
+- [DelphiOpenAI](https://github.com/HemulGM/DelphiOpenAI) OpenAI API client for Delphi. Use ChatGPT, DALL-E and other products
 
 ## Client-side tools
 
