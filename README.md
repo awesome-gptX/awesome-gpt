@@ -195,6 +195,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [chatgpt-android](https://github.com/skydoves/chatgpt-android) ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose
 - [ChatGPT for WearOS](https://github.com/DevEmperor/ChatGPT-WearOS) A powerful ChatGPT app for all WearOS devices
 - [Smalltalk](https://github.com/tinystruct/smalltalk) A funny anonymous chat software which integrated with OpenAI ChatGPT and Stability AI. 
+- [Delphi Chat GPT](https://github.com/HemulGM/ChatGPT) Delphi Chat GPT with FMX
 
 ## CLI tools
 
