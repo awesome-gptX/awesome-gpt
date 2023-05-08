@@ -46,38 +46,38 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 ## ChatGPT Integrated Projects 
 
 ### Python 
-- [xiaogpt](https://github.com/yihong0618/xiaogpt) 3140⭐️ Play ChatGPT with xiaomi AI speaker
-- [ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader) 433⭐️ This repository provides a simple interface that utilizes the gpt-3.5-turbo model to read academic papers in PDF format locally
-- [FastChat](https://github.com/lm-sys/FastChat) 18623⭐️ An open platform for training, serving, and evaluating large language model based chatbots
-- [openai-quickstart-python](https://github.com/openai/openai-quickstart-python) 1289⭐️ Python example app from the OpenAI API quickstart tutorial
-- [email-automation](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/email-automation) 42⭐️ : Automates news briefing / blogging with email automation. 
-- [chatbot](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/chatbot) 42⭐️ : ChatGPT Integrated faster and secure chatbot hosted on cloud.
-- [whistep speech-to-text](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/whisper-speech-text) 42⭐️ : OpnAI's whisper is a library to convert speech to text. 
-- [knowledge-gpt](https://github.com/geeks-of-data/knowledge-gpt) 141⭐️ Extract knowledge from all information sources using gpt and other language models. Index and make Q&A session with information sources
-- [Auto-GPT](https://github.com/Torantulino/Auto-GPT) 126404⭐️ An experimental open-source attempt to make GPT-4 fully autonomous
-- [GPTCache](https://github.com/zilliztech/GPTCache) 2994⭐️ GPTCache is a library for creating semantic cache to store responses from LLM queries
-- [gpt4free](https://github.com/xtekky/gpt4free) 32545⭐️ decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com etc...)
-- [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) 18231⭐️ MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
+- [xiaogpt](https://github.com/yihong0618/xiaogpt) Play ChatGPT with xiaomi AI speaker
+- [ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader) This repository provides a simple interface that utilizes the gpt-3.5-turbo model to read academic papers in PDF format locally
+- [FastChat](https://github.com/lm-sys/FastChat) An open platform for training, serving, and evaluating large language model based chatbots
+- [openai-quickstart-python](https://github.com/openai/openai-quickstart-python) Python example app from the OpenAI API quickstart tutorial
+- [email-automation](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/email-automation) : Automates news briefing / blogging with email automation. 
+- [chatbot](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/chatbot) : ChatGPT Integrated faster and secure chatbot hosted on cloud.
+- [whistep speech-to-text](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/whisper-speech-text) : OpnAI's whisper is a library to convert speech to text. 
+- [knowledge-gpt](https://github.com/geeks-of-data/knowledge-gpt) Extract knowledge from all information sources using gpt and other language models. Index and make Q&A session with information sources
+- [Auto-GPT](https://github.com/Torantulino/Auto-GPT) An experimental open-source attempt to make GPT-4 fully autonomous
+- [GPTCache](https://github.com/zilliztech/GPTCache) GPTCache is a library for creating semantic cache to store responses from LLM queries
+- [gpt4free](https://github.com/xtekky/gpt4free) decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com etc...)
+- [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
 
 ### Go
-- [doctorgpt](https://github.com/ingyamilmolinar/doctorgpt) 121⭐️ DoctorGPT is a lightweight self-contained binary that monitors your application logs for problems and diagnoses them.
+- [doctorgpt](https://github.com/ingyamilmolinar/doctorgpt) DoctorGPT is a lightweight self-contained binary that monitors your application logs for problems and diagnoses them.
 
 ## API tools
 
-- [toolkit-ai](https://github.com/hey-pal/toolkit-ai) 443⭐️ AI-agents that automatically generate and use Langchain Tools and ChatGPT plugins
-- [whetstone.chatgpt](https://github.com/johniwasz/whetstone.chatgpt) 76⭐️ A simple light-weight library that wraps the GPT-3 API with support for dependency injection
-- [chatgpt-starter](https://github.com/zhangjh/chatgpt-starter) 15⭐️ A chatgpt starter based on springboot to provider chatgpt api for java
-- [chatgpt-plus-api-client](https://github.com/mzbac/chatgpt-plus-api-client) 22⭐️ Node client to making API calls to ChatGPT
-- [Unoffical API in Python](https://github.com/acheong08/ChatGPT) 25267⭐️ Reverse engineered ChatGPT API
-- [TLS-based API (Python)](https://github.com/rawandahmad698/PyChatGPT) 4009⭐️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
-- [Unofficial API in JS/TS](https://github.com/transitive-bullshit/chatgpt-api) 13529⭐️ Node.js client for the official ChatGPT API. 
-- [Unofficial API in Dart](https://github.com/MisterJimson/chatgpt_api_dart) 56⭐️ Dart client for the unofficial ChatGPT API
-- [A Java Version ChatGPT SDK](https://github.com/swordintent/chatgpt-web-api) 36⭐️ A Java Version ChatGPT SDK
-- [chatgpt-java](https://github.com/PlexPt/chatgpt-java) 2271⭐️ ChatGPT Java SDK. Lightweight package for interacting with ChatGPT's API by OpenAI
-- [This repo is unofficial ChatGPT api](https://github.com/taranjeet/chatgpt-api) 639⭐️ It is based on Daniel Gross's WhatsApp GPT
-- [chatGPT-server](https://github.com/dataaug/chatGPT-server) 14⭐️ Deploy chatGPT on the server
-- [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) 385⭐️ Clone of ChatGPT, uses official model, reverse-engineered UI, with AI model switching, message search, and prompt templates
-- [DelphiOpenAI](https://github.com/HemulGM/DelphiOpenAI) 128⭐️ OpenAI API client for Delphi. Use ChatGPT, DALL-E and other products
+- [toolkit-ai](https://github.com/hey-pal/toolkit-ai) AI-agents that automatically generate and use Langchain Tools and ChatGPT plugins
+- [whetstone.chatgpt](https://github.com/johniwasz/whetstone.chatgpt) A simple light-weight library that wraps the GPT-3 API with support for dependency injection
+- [chatgpt-starter](https://github.com/zhangjh/chatgpt-starter) A chatgpt starter based on springboot to provider chatgpt api for java
+- [chatgpt-plus-api-client](https://github.com/mzbac/chatgpt-plus-api-client) Node client to making API calls to ChatGPT
+- [Unoffical API in Python](https://github.com/acheong08/ChatGPT) Reverse engineered ChatGPT API
+- [TLS-based API (Python)](https://github.com/rawandahmad698/PyChatGPT) Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
+- [Unofficial API in JS/TS](https://github.com/transitive-bullshit/chatgpt-api) Node.js client for the official ChatGPT API. 
+- [Unofficial API in Dart](https://github.com/MisterJimson/chatgpt_api_dart) Dart client for the unofficial ChatGPT API
+- [A Java Version ChatGPT SDK](https://github.com/swordintent/chatgpt-web-api) A Java Version ChatGPT SDK
+- [chatgpt-java](https://github.com/PlexPt/chatgpt-java) ChatGPT Java SDK. Lightweight package for interacting with ChatGPT's API by OpenAI
+- [This repo is unofficial ChatGPT api](https://github.com/taranjeet/chatgpt-api) It is based on Daniel Gross's WhatsApp GPT
+- [chatGPT-server](https://github.com/dataaug/chatGPT-server) Deploy chatGPT on the server
+- [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) Clone of ChatGPT, uses official model, reverse-engineered UI, with AI model switching, message search, and prompt templates
+- [DelphiOpenAI](https://github.com/HemulGM/DelphiOpenAI) OpenAI API client for Delphi. Use ChatGPT, DALL-E and other products
 
 ## Client-side tools
 
@@ -85,18 +85,18 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 ## Browser Extensions
 
-- [chatGPTBox](https://github.com/josStorer/chatGPTBox) 7439⭐️ Integrating ChatGPT into your browser deeply, everything you need is here
-- [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) 769⭐️ view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo!
+- [chatGPTBox](https://github.com/josStorer/chatGPTBox) Integrating ChatGPT into your browser deeply, everything you need is here
+- [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo!
 - [Automate your browser with GPT-4](https://github.com/TaxyAI/browser-extension) uses GPT-4 to control your browser and perform repetitive actions on your behalf
-- [summarize.site](https://github.com/clmnin/summarize.site) 608⭐️ Summarize web pages using OpenAI ChatGPT
-- [codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) 305⭐️ Reviews your Pull Requests using ChatGPT so that you can pretend to work.
-- [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) 13006⭐️ Extension to display ChatGPT response alongside Google Search results
-- [ChatGPT_Extension](https://github.com/kazuki-sf/ChatGPT_Extension) 400⭐️ Chrome extension to open a ChatGPT popup (basically [a bookmark](https://github.com/kazuki-sf/ChatGPT_Extension/issues/6))
-- [chat-gpt-bing-extension](https://github.com/happy-share-forever/chat-gpt-bing-extension) 12⭐️ A browser extension to display ChatGPT response alongside Bing Search results, supports Chrome/Edge/Firefox
-- [ChatGPT-pdf](https://github.com/liady/ChatGPT-pdf) 1294⭐️ Extension to add share abilities to ChatGPT (PDF, PNG or a sharable link
+- [summarize.site](https://github.com/clmnin/summarize.site) Summarize web pages using OpenAI ChatGPT
+- [codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) Reviews your Pull Requests using ChatGPT so that you can pretend to work.
+- [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) Extension to display ChatGPT response alongside Google Search results
+- [ChatGPT_Extension](https://github.com/kazuki-sf/ChatGPT_Extension) Chrome extension to open a ChatGPT popup (basically [a bookmark](https://github.com/kazuki-sf/ChatGPT_Extension/issues/6))
+- [chat-gpt-bing-extension](https://github.com/happy-share-forever/chat-gpt-bing-extension) A browser extension to display ChatGPT response alongside Bing Search results, supports Chrome/Edge/Firefox
+- [ChatGPT-pdf](https://github.com/liady/ChatGPT-pdf) Extension to add share abilities to ChatGPT (PDF, PNG or a sharable link
 - [Superpower ChatGPT](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc) Chrome extension to add input history, copy, and counters to ChatGPT
-- [ChassistantGPT](https://github.com/idosal/assistant-chat-gpt) 162⭐️ embeds ChatGPT as a hands-free voice assistant in the background
-- [WebChatGPT](https://github.com/qunash/chatgpt-advanced/) 5108⭐️ augment your prompts to ChatGPT with web search results
+- [ChassistantGPT](https://github.com/idosal/assistant-chat-gpt) embeds ChatGPT as a hands-free voice assistant in the background
+- [WebChatGPT](https://github.com/qunash/chatgpt-advanced/) augment your prompts to ChatGPT with web search results
 - [chat-gpt-userscript](https://github.com/zhengbangbo/chat-gpt-userscript) A userscript to display ChatGPT answer alongside Search Engine or Translator
 - [gpt2markdown](https://github.com/0xreeko/gpt2markdown) A browser extension that exports your ChatGPT conversations to Markdown format
 - [openai-translator](https://github.com/yetone/openai-translator) A Chrome extension for word translation based on ChatGPT API
@@ -242,6 +242,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [ListPrompt.com](https://listprompt.com/)  List of awesome GPT prompts from the community.
 - [Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) A GPT-4 AI Tutor Prompt for customizable personalized learning experiences
 - [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) 吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版
+- [DeepLearningAI-ChatGPT](https://github.com/LazaUK/DeepLearningAI-ChatGPT) Practical Jupyter notebooks from Andrew Ng and Isa Fulford's "ChatGPT Prompt Engineering for Developers" course on DeepLearning.AI.
 
 ## Reverse Proxy
 
