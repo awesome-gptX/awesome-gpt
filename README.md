@@ -218,6 +218,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [ai-commit](https://github.com/guanguans/ai-commit) Automagically generate conventional git commit messages with AI.
 - [autodoc](https://github.com/context-labs/autodoc) Autodoc is a experimental toolkit for auto-generating codebase documentation for git repositories using Large Language Models, like GPT-4 or Alpaca. 
 - [prompt](https://github.com/raiyanyahya/prompt) 🥝 A command line application to interact with OpenAI ChatGPT API.
+- [markdown-gpt-translator](https://github.com/smikitky/markdown-gpt-translator) Translate Markdown documentation using ChatGPT API
 
 ## Github Actions
 
