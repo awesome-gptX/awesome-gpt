@@ -1,3 +1,5 @@
+简体中文 | [English](./README.md)
+
 # Awesome-ChatGPT
 <img src="./banner.png"/>
 
