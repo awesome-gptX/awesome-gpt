@@ -58,6 +58,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [GPTCache](https://github.com/zilliztech/GPTCache) GPTCache is a library for creating semantic cache to store responses from LLM queries
 - [gpt4free](https://github.com/xtekky/gpt4free) decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com etc...)
 - [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
+- [chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) An open-source chatgpt tool ecosystem where you can combine tools with chatgpt and use natural language to do anything.
 
 ### Go
 - [doctorgpt](https://github.com/ingyamilmolinar/doctorgpt) DoctorGPT is a lightweight self-contained binary that monitors your application logs for problems and diagnoses them.
