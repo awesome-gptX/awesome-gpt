@@ -125,6 +125,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [BingGPT](https://github.com/dice2o/BingGPT)  chat with Bing on Windows/MacOS/Linux without installing Microsoft Edge or browser plugins. Export full conversation to Markdown, PNG or PDF.
 - [cheetah](https://github.com/leetcode-mafia/cheetah) Whisper & GPT-based app for passing remote SWE interviews
 - [IntelliBar](https://intellibar.app/) Spotlight-like macOS app that puts ChatGPT a shortcut away.
+- [free-chatgpt-client-pub](https://github.com/akl7777777/free-chatgpt-client-pub) A free chatgpt client, no need for a key, no need to log in
 
 ## Editors
 
