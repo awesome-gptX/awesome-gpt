@@ -19,6 +19,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
   - [ChatGPT Integrated Projects](#chatgpt-integrated-projects)
     - [Python](#python)
     - [Go](#go)
+    - [Kotlin](#Kotlin)
   - [API tools](#api-tools)
   - [Client-side tools](#client-side-tools)
   - [Browser Extensions](#browser-extensions)
@@ -65,6 +66,9 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 ### Go
 - [doctorgpt](https://github.com/ingyamilmolinar/doctorgpt) DoctorGPT is a lightweight self-contained binary that monitors your application logs for problems and diagnoses them.
+
+### Kotlin
+- [GPT-Assistant](https://github.com/sunshine0523/GPT-Assistant) GPT Assistant is a software that integrates GPT into the operation of Android devices.
 
 ## API tools
 
