@@ -278,3 +278,4 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [BraveGPT](https://github.com/kudoai/bravegpt) 🦁 Adds the magic of ChatGPT to Brave Search sidebar
 - [ChatGPT Widescreen Mode](https://chatgptevo.com/widescreen) 🖥️ Add Widescreen + Full-Window modes to ChatGPT for enhanced viewing
 - [ChatGPT Infinity](https://chatgptevo.com/infinity) ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
+- [ChatGPT Export](https://github.com/yaph/chatgpt-export) A browser bookmarklet for exporting conversations with ChatGPT as markdown files.
