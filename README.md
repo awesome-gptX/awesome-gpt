@@ -209,6 +209,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [ChatGPT for WearOS](https://github.com/DevEmperor/ChatGPT-WearOS) A powerful ChatGPT app for all WearOS devices
 - [Smalltalk](https://github.com/tinystruct/smalltalk) A funny anonymous chat software which integrated with OpenAI ChatGPT and Stability AI. 
 - [Delphi Chat GPT](https://github.com/HemulGM/ChatGPT) Delphi Chat GPT with FMX
+- [Horizon AI Template](https://github.com/horizon-ui/chatgpt-ai-template) Trendiest Open-Source ChatGPT AI Template & Starter Kit for React & NextJS
 
 ## CLI tools
 
