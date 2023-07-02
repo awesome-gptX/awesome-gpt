@@ -116,6 +116,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [ChatGPT-Prompt-Genius](https://github.com/benf2004/ChatGPT-Prompt-Genius) Multi-purpose ChatGPT Chrome Extension
 - [ReadAnything](https://github.com/Zhangyanbo/ReadAnything) Read any hard content with the help of GPT
 - [ChatGPT Widescreen Mode](https://chatgptwidescreen.com) 🖥️ Add Widescreen + Fullscreen modes to ChatGPT for enhanced viewing
+- [ChatGPT Infinity](https://chatgptinfinity.com) ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 
 ## Desktop Applications
 
@@ -181,6 +182,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [DocsGPT](https://github.com/arc53/DocsGPT) GPT-powered chat for documentation search & assistance
 - [TypeScript Local Code Plugin](https://github.com/kesor/chatgpt-code-plugin) Localhost plugin for ChatGPT that lets it read your files from your computer
 - [ChatGPT Widescreen Mode](https://chatgptwidescreen.com) 🖥️ Add Widescreen + Fullscreen modes to ChatGPT for enhanced viewing
+- [ChatGPT Infinity](https://chatgptinfinity.com) ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 
 ## Web applications
 
@@ -279,5 +281,5 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [DuckDuckGPT](https://github.com/kudoai/duckduckgpt) 🐤 Adds the magic of ChatGPT to DuckDuckGo sidebar
 - [BraveGPT](https://github.com/kudoai/bravegpt) 🦁 Adds the magic of ChatGPT to Brave Search sidebar
 - [ChatGPT Widescreen Mode](https://chatgptwidescreen.com) 🖥️ Add Widescreen + Fullscreen modes to ChatGPT for enhanced viewing
-- [ChatGPT Infinity](https://chatgptevo.com/infinity) ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
+- [ChatGPT Infinity](https://chatgptinfinity.com) ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 - [ChatGPT Export](https://github.com/yaph/chatgpt-export) A browser bookmarklet for exporting conversations with ChatGPT as markdown files.
