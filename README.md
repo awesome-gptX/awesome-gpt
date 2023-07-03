@@ -187,6 +187,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 ## Web applications
 
+- [Pagefelt - Mental Health Journal and AI Coach powered by ChatGPT](https://www.pagefelt.com?githubrepo)
 - [kindle-gpt](https://github.com/mckaywrigley/kindle-gpt) AI search & chat on your Kindle highlights
 - [eslint-gpt](https://github.com/ycjcl868/eslint-gpt) Generate your eslint rule with OpenAI and Vercel Edge Functions
 - [chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) Elegant and Powerfull. Powered by OpenAI and Vercel
@@ -204,6 +205,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 ## Applications
 
+- [Pagefelt - Mental Health Journal and AI Coach powered by ChatGPT](https://www.pagefelt.com?githubrepo)
 - [OpenGpt](https://github.com/futantan/OpenGpt) Create your own ChatGPT App in seconds.
 - [ChatARKit](https://github.com/trzy/ChatARKit) Using ChatGPT to Create AR Experiences with Natural Language
 - [AI-Writing-Assistant](https://github.com/simplysabir/AI-Writing-Assistant) GPT3 Blog Post Generator
@@ -269,6 +271,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 ## Experiments
 
+- [Pagefelt - Mental Health Journal and AI Coach powered by ChatGPT](https://www.pagefelt.com?githubrepo)
 - [gptlang](https://github.com/forrestchang/gptlang)  Experiment to see if we can create a programming language in ChatGPT.
 
 ## User Scripts
