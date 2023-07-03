@@ -63,6 +63,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
 - [chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) An open-source chatgpt tool ecosystem where you can combine tools with chatgpt and use natural language to do anything.
 - [privateGPT](https://github.com/imartinez/privateGPT) Interact privately with your documents using the power of GPT, 100% privately, no data leaks
+- [ChatGPT-ShellMaster](https://github.com/VolkanSah/ChatGPT-ShellMaster) ChatGPT ShellMaster enables command-line interactions via chat using OpenAI's ChatGPT.
 
 ### Go
 - [doctorgpt](https://github.com/ingyamilmolinar/doctorgpt) DoctorGPT is a lightweight self-contained binary that monitors your application logs for problems and diagnoses them.
