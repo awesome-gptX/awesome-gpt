@@ -60,6 +60,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [Auto-GPT](https://github.com/Torantulino/Auto-GPT) An experimental open-source attempt to make GPT-4 fully autonomous
 - [GPTCache](https://github.com/zilliztech/GPTCache) GPTCache is a library for creating semantic cache to store responses from LLM queries
 - [gpt4free](https://github.com/xtekky/gpt4free) decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com etc...)
+- [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) Providing a free OpenAI GPT-4 API ! This is a replication project for the typescript version of xtekky/gpt4free
 - [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
 - [chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) An open-source chatgpt tool ecosystem where you can combine tools with chatgpt and use natural language to do anything.
 - [privateGPT](https://github.com/imartinez/privateGPT) Interact privately with your documents using the power of GPT, 100% privately, no data leaks
