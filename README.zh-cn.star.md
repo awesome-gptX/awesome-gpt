@@ -56,9 +56,9 @@
 - [chatbot](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/chatbot) 78⭐️ ChatGPT 集成了更快、更安全的聊天机器人，并托管在云端。
 - [whistep speech-to-text](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/whisper-speech-text) 78⭐️ : OpnAI's whisper 是一个将语音转换成文本的库。
 - [knowledge-gpt](https://github.com/geeks-of-data/knowledge-gpt) 209⭐️ 使用 ChatGPT 和其他语言模型从所有信息源中提取知识。对信息源进行索引和制作问答环节。
-- [Auto-GPT](https://github.com/Torantulino/Auto-GPT) 145764⭐️ 使 GPT-4 完全的实验性开源尝试。
-- [GPTCache](https://github.com/zilliztech/GPTCache) 4856⭐️ GPTCache 是一个创建语义缓存的库，用于存储 LLM 查询的响应。
-- [gpt4free](https://github.com/xtekky/gpt4free) 43693⭐️ 通过几个反向工程的API（Poe.com, phind.com, chat.openai.com等），使Ai产业去中心化，免费提供gpt-4/3.5脚本。
+- [Auto-GPT](https://github.com/Torantulino/Auto-GPT) 145766⭐️ 使 GPT-4 完全的实验性开源尝试。
+- [GPTCache](https://github.com/zilliztech/GPTCache) 4857⭐️ GPTCache 是一个创建语义缓存的库，用于存储 LLM 查询的响应。
+- [gpt4free](https://github.com/xtekky/gpt4free) 43692⭐️ 通过几个反向工程的API（Poe.com, phind.com, chat.openai.com等），使Ai产业去中心化，免费提供gpt-4/3.5脚本。
 - [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) 21947⭐️ MiniGPT-4：用先进的大型语言模型加强视觉-语言理解
 
 
@@ -89,7 +89,7 @@
 ## 浏览器扩展
 - [chatGPTBox](https://github.com/josStorer/chatGPTBox) 8560⭐️ 将 ChatGPT 深度整合到您的浏览器，您需要的一切都在这里。
 - [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) 1048⭐️ 在 Google 搜索结果和 YouTube 视频旁边查看ChatGPT摘要，也支持 Yahoo!
-- [Automate your browser with GPT-4](https://github.com/TaxyAI/browser-extension) 171⭐️ 使用 GPT-4 来控制你的浏览器并代表你执行重复性的动作。
+- [Automate your browser with GPT-4](https://github.com/TaxyAI/browser-extension) 172⭐️ 使用 GPT-4 来控制你的浏览器并代表你执行重复性的动作。
 - [summarize.site](https://github.com/clmnin/summarize.site) 663⭐️ 使用 OpenAI ChatGPT 对网页进行总结。
 - [codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) 422⭐️ 使用 ChatGPT 审查你的 Pull Request，这样你就可以假装工作了。
 - [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) 13243⭐️ 在谷歌搜索结果旁边显示 ChatGPT 响应的扩展。
@@ -155,7 +155,7 @@
 - [ChatGPT Q&A assistant](https://github.com/fuzhengwei/chatbot-api) 382⭐️ ChatGPT AI Q & A Assistant
 - [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) 2318⭐️ Integrate ChatGPT into your own discord bot
 - [chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) 1643⭐️ This is a very early attempt at having chatGPT work within a telegram bot
-- [node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) 3869⭐️ A ChatGPT implementation with support for Bing's GPT-4 version of ChatGPT
+- [node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) 3870⭐️ A ChatGPT implementation with support for Bing's GPT-4 version of ChatGPT
 - [progressive-chatgpt-bot](https://github.com/ulivz/progressive-chatgpt-bot) 7⭐️ A progressive ChatGPT feishu bot, made for Girlfriend
 - [wx-chatgpt](https://github.com/wuomzfx/wx-chatgpt) 60⭐️ Wechat Public Account cloud hosting access chatgpt template
 - [ChatGPT for WearOS](https://github.com/DevEmperor/ChatGPT-WearOS) 19⭐️ A powerful ChatGPT app for all WearOS devices
@@ -198,7 +198,7 @@
 - [Smalltalk](https://github.com/tinystruct/smalltalk) 318⭐️ A funny anonymous chat software which integrated with OpenAI ChatGPT and Stability AI.
 
 ## 命令行工具
-- [README-AI](https://github.com/eli64s/README-AI) 349⭐️ 使用 OpenAI 语言模型 API，为编写美观、结构化和信息丰富的 README.md 文件而设计的命令行工具。
+- [README-AI](https://github.com/eli64s/README-AI) 350⭐️ 使用 OpenAI 语言模型 API，为编写美观、结构化和信息丰富的 README.md 文件而设计的命令行工具。
 - [Cli for ChatGPT](https://github.com/j178/chatgpt) 580⭐️ A TUI for ChatGPT API, powered by GPT-3.5-turbo and GPT-4 models
 - [gptcommit](https://github.com/zurawiki/gptcommit) 2121⭐️ A git prepare-commit-msg hook for authoring commit messages with GPT-3
 - [Voice-based chatGPT](https://github.com/platelminto/chatgpt-conversation) 625⭐️ Have a conversation with ChatGPT using your voice, and have it talk back.
@@ -231,7 +231,7 @@
 - [ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) 5003⭐️ The ChatGPT Shortcut page displays all the prompts by default, and is divided into label area, search area, and prompt display area
 - [GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) 179⭐️ Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
 - [showGPT](https://showgpt.co/)  Website with curated list of best prompts, and you can submit your own easily.
-- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) 85484⭐️  ChatGPT prompts that works well.
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) 85485⭐️  ChatGPT prompts that works well.
 - [awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt) 549⭐️  Posts & thoughts about prompting ChatGPT for different usages
 - [GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) 179⭐️ Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
 - [ListPrompt.com](https://listprompt.com/)  List of awesome GPT prompts from the community.
