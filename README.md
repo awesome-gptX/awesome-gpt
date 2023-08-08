@@ -20,6 +20,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
     - [Python](#python)
     - [Go](#go)
     - [Kotlin](#Kotlin)
+    - [JavaScript](#JavaScript)
   - [API tools](#api-tools)
   - [Client-side tools](#client-side-tools)
   - [Browser Extensions](#browser-extensions)
@@ -73,6 +74,9 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 ### Kotlin
 - [GPT-Assistant](https://github.com/sunshine0523/GPT-Assistant) GPT Assistant is a software that integrates GPT into the operation of Android devices.
+
+### JavaScript
+- [gpt-json](https://github.com/KLaci/gpt-json): Node.js library to get structured responses from OpenAI's APIs
 
 ## API tools
 
