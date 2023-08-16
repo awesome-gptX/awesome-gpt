@@ -94,6 +94,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [chatGPT-server](https://github.com/dataaug/chatGPT-server) Deploy chatGPT on the server
 - [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) Clone of ChatGPT, uses official model, reverse-engineered UI, with AI model switching, message search, and prompt templates
 - [DelphiOpenAI](https://github.com/HemulGM/DelphiOpenAI) OpenAI API client for Delphi. Use ChatGPT, DALL-E and other products
+- [Embedchain](https://github.com/embedchain/embedchain): Framework to create ChatGPT like bots over your dataset.
 
 ## Client-side tools
 
