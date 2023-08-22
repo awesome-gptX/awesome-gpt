@@ -185,7 +185,8 @@
 - [chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) 674⭐️ Translate your locale json files with AI assistance
 - [Promptsandbox.io](https://github.com/eg9y/promptsandbox.io) Node-based visual programming tool to create dynamic OpenAI API workflows
 - [Poet.ly](https://poet.ly) Poet.ly is a simple and fast generator of SEO-friendly articles for your blog referenced on search engines. It is based on the OpenAI GPT-4 API.
-- [AgentGPT](https://github.com/reworkd/AgentGPT) 25899⭐️ 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
+- [AgentGPT](https://github.com/reworkd/AgentGPT) 25898⭐️ 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
+- [examor](https://github.com/codeacme17/examor) 28⭐️ 一款网站应用，它可以根据您的知识笔记进行周期性的测试，让您真正的记住所学所写
 
 
 ## 应用

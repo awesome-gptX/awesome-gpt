@@ -212,6 +212,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [FastGPT](https://github.com/c121914yu/FastGPT) 46⭐️ A platform to quickly use the openai api. Support one-click construction of AI knowledge base, support multi-user, multi-model management.
 - [ChatALL](https://github.com/sunner/ChatALL) 8988⭐️ Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers
 - [ChatGPT Ultimate](https://chatgpt.kiask.xyz/) Unlock The Ultimate Power of ChatGPT
+- [examor](https://github.com/codeacme17/examor) 28⭐️ A website application that allows you to take exams based on your knowledge notes. Let you really remember what you have learned and written.
 
 ## Applications
 
