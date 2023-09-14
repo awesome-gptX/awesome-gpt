@@ -19,6 +19,8 @@
   - [ChatGPT 集成项目](#chatgpt-集成项目)
     - [Python](#python)
     - [Go](#go)
+    - [Kotlin](#Kotlin)
+    - [JavaScript](#JavaScript)
   - [API 工具](#api-工具)
   - [客户端工具](#客户端工具)
   - [浏览器扩展](#浏览器扩展)
@@ -59,11 +61,23 @@
 - [Auto-GPT](https://github.com/Torantulino/Auto-GPT) 使 GPT-4 完全的实验性开源尝试。
 - [GPTCache](https://github.com/zilliztech/GPTCache) GPTCache 是一个创建语义缓存的库，用于存储 LLM 查询的响应。
 - [gpt4free](https://github.com/xtekky/gpt4free) 通过几个反向工程的API（Poe.com, phind.com, chat.openai.com等），使Ai产业去中心化，免费提供gpt-4/3.5脚本。
+- [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) 提供免费的 OpenAI GPT-4 API!这是一个复制 xtekky/gpt4free TypeScript版本的项目。
 - [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) MiniGPT-4：用先进的大型语言模型加强视觉-语言理解
+- [chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) 一个开源的聊天GPT工具生态系统,您可以将工具组合到聊天GPT中,通过自然语言来实现任何操作。
+- [privateGPT](https://github.com/imartinez/privateGPT) 利用GPT的能力,以全然私密的方式与您的文档进行互动,100%保密,没有任何数据泄漏。
+- [ChatGPT-ShellMaster](https://github.com/VolkanSah/ChatGPT-ShellMaster) ChatGPT ShellMaster 通过聊天使用OpenAI的ChatGPT启用命令行交互。
+- [DemoGPT](https://github.com/melih-unsal/DemoGPT) 🧩 DemoGPT 允许您仅通过提示就可以快速创建演示。
+- [openai-functools](https://github.com/Jakob-98/openai-functools) 简化管理和创建 OpenAI 功能元数据。
 
 
 ### Go
 - [doctorgpt](https://github.com/ingyamilmolinar/doctorgpt) DoctorGPT 是一个轻量级的独立二进制文件，它可以监控你的应用程序日志中的问题并对其进行诊断。
+
+### Kotlin
+- [GPT-Assistant](https://github.com/sunshine0523/GPT-Assistant) GPT 助手是一款软件,它将 GPT 集成到 Android 设备的操作中。
+
+### JavaScript
+- [gpt-json](https://github.com/KLaci/gpt-json): Node.js 库用来从 OpenAI 的 API 中获取结构化响应。
 
 
 ## API 工具
@@ -80,6 +94,7 @@
 - [This repo is unofficial ChatGPT api](https://github.com/taranjeet/chatgpt-api) 基于 Daniel Gross 的 WhatsApp GPT
 - [chatGPT-server](https://github.com/dataaug/chatGPT-server) 在服务器上部署 ChatGPT
 - [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) 克隆 ChatGPT，使用官方模型，逆向工程 UI，具有 AI 模型切换、信息搜索和提示模板等功能。
+- [DelphiOpenAI](https://github.com/HemulGM/DelphiOpenAI) Delphi 的 OpenAI API 客户端。使用 ChatGPT、DALL-E 等产品。
 - [Embedchain](https://github.com/embedchain/embedchain): 用于在数据集上创建类似 ChatGPT 的机器人的框架。
 
 ## 客户端工具
