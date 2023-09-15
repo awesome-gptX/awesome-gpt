@@ -214,6 +214,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [ChatALL](https://github.com/sunner/ChatALL) Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers
 - [ChatGPT Ultimate](https://chatgpt.kiask.xyz/) Unlock The Ultimate Power of ChatGPT
 - [examor](https://github.com/codeacme17/examor) A website application that allows you to take exams based on your knowledge notes. Let you really remember what you have learned and written.
+- [GPTyper](https://gptyper.net) Type notes, essays, creative writing etc. with live predictive suggestions, similar to GitHub Copilot
 
 ## Applications
 
