@@ -58,13 +58,13 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [chatbot](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/chatbot) 97⭐️ : ChatGPT Integrated faster and secure chatbot hosted on cloud.
 - [whistep speech-to-text](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/whisper-speech-text) 97⭐️ : OpnAI's whisper is a library to convert speech to text. 
 - [knowledge-gpt](https://github.com/geeks-of-data/knowledge-gpt) 230⭐️ Extract knowledge from all information sources using gpt and other language models. Index and make Q&A session with information sources
-- [Auto-GPT](https://github.com/Torantulino/Auto-GPT) 149823⭐️ An experimental open-source attempt to make GPT-4 fully autonomous
+- [Auto-GPT](https://github.com/Torantulino/Auto-GPT) 149827⭐️ An experimental open-source attempt to make GPT-4 fully autonomous
 - [GPTCache](https://github.com/zilliztech/GPTCache) 5300⭐️ GPTCache is a library for creating semantic cache to store responses from LLM queries
-- [gpt4free](https://github.com/xtekky/gpt4free) 45413⭐️ decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com etc...)
+- [gpt4free](https://github.com/xtekky/gpt4free) 45414⭐️ decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com etc...)
 - [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) 6529⭐️ Providing a free OpenAI GPT-4 API ! This is a replication project for the typescript version of xtekky/gpt4free
-- [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) 22610⭐️ MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
+- [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) 22611⭐️ MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
 - [chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) 778⭐️ An open-source chatgpt tool ecosystem where you can combine tools with chatgpt and use natural language to do anything.
-- [privateGPT](https://github.com/imartinez/privateGPT) 38219⭐️ Interact privately with your documents using the power of GPT, 100% privately, no data leaks
+- [privateGPT](https://github.com/imartinez/privateGPT) 38220⭐️ Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [ChatGPT-ShellMaster](https://github.com/VolkanSah/ChatGPT-ShellMaster) 21⭐️ ChatGPT ShellMaster enables command-line interactions via chat using OpenAI's ChatGPT.
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT) 1307⭐️ 🧩 DemoGPT enables you to create quick demos by just using prompts.
 - [openai-functools](https://github.com/Jakob-98/openai-functools) 31⭐️ Simplifying Management and Creation of OpenAI Function Metadata.
@@ -113,7 +113,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [ChatGPT-pdf](https://github.com/liady/ChatGPT-pdf) 1421⭐️ Extension to add share abilities to ChatGPT (PDF, PNG or a sharable link
 - [Superpower ChatGPT](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc) Chrome extension to add input history, copy, and counters to ChatGPT
 - [ChassistantGPT](https://github.com/idosal/assistant-chat-gpt) 195⭐️ embeds ChatGPT as a hands-free voice assistant in the background
-- [WebChatGPT](https://github.com/qunash/chatgpt-advanced/) 6025⭐️ augment your prompts to ChatGPT with web search results
+- [WebChatGPT](https://github.com/qunash/chatgpt-advanced/) 6024⭐️ augment your prompts to ChatGPT with web search results
 - [chat-gpt-userscript](https://github.com/zhengbangbo/chat-gpt-userscript) 78⭐️ A userscript to display ChatGPT answer alongside Search Engine or Translator
 - [gpt2markdown](https://github.com/0xreeko/gpt2markdown) 57⭐️ A browser extension that exports your ChatGPT conversations to Markdown format
 - [openai-translator](https://github.com/yetone/openai-translator) 18480⭐️ A Chrome extension for word translation based on ChatGPT API
@@ -131,7 +131,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 ## Desktop Applications
 
-- [Multi-platform desktop app (Windows, Mac, Linux)](https://github.com/lencx/ChatGPT) 41513⭐️ powered by ChatGPT & Tauri
+- [Multi-platform desktop app (Windows, Mac, Linux)](https://github.com/lencx/ChatGPT) 41514⭐️ powered by ChatGPT & Tauri
 - [ChatGPT Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop) 1853⭐️  Windows/MacOS/Linux desktop menubar app using tauri & rust.
 - [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) 5751⭐️ ChatGPT for Mac, living in your menubar
 - [BingGPT](https://github.com/dice2o/BingGPT) 9091⭐️  chat with Bing on Windows/MacOS/Linux without installing Microsoft Edge or browser plugins. Export full conversation to Markdown, PNG or PDF.
@@ -144,7 +144,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [vim-chatgpt](https://github.com/CoderCookE/vim-chatgpt) 147⭐️ a Vim Plugin For ChatGPT
 - [ChatGPT VSCode](https://github.com/mpociot/chatgpt-vscode) 4869⭐️  VSCode extension ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
 - [chatgpt-vscode-plugin](https://github.com/barnesoir/chatgpt-vscode-plugin) 243⭐️ A VS code plugin for ChatGPT built by ChatGPT
-- [vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) 3385⭐️ The extension is pair-programmed with ChatGPT
+- [vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) 3386⭐️ The extension is pair-programmed with ChatGPT
 - [Jetbrains IDE plugin](https://github.com/LiLittleCat/intellij-chatgpt) 129⭐️  A ChatGPT plugin for JetBrains IDE (webview)
 - [Jetbrains IDE plugin](https://github.com/dromara/ChatGPT) 929⭐️  A ChatGPT plugin for JetBrains IDEs (using OpenAI's API)
 - [chatgpt.vim](https://github.com/terror/chatgpt.nvim) 278⭐️  Neovim plugin that lets you query ChatGPT inside a Neovim buffer.
@@ -154,7 +154,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 ## Chat bots
 
-- [gpt4all](https://github.com/nomic-ai/gpt4all) 52741⭐️ a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
+- [gpt4all](https://github.com/nomic-ai/gpt4all) 52743⭐️ a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
 - [chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk) 1922⭐️ GPT-3.5 Let your work efficiency take off directly
 - [ChatBot-TGLM6B](https://github.com/Lakr233/ChatBot-TGLM6B) 137⭐️ ChatGLM-6B Bot for Telegram
 - [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) 13279⭐️ GPT4 & LangChain Chatbot for large PDF docs
@@ -203,7 +203,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) 2976⭐️ Elegant and Powerfull. Powered by OpenAI and Vercel
 - [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) 42505⭐️ Specialized ChatGPT extension for scientific research work, optimized for enhancing the experience of polishing academic papers
 - [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) 17746⭐️ An open source ChatGPT UI
-- [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) 44574⭐️ One-Click to deploy your own ChatGPT web UI
+- [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) 44576⭐️ One-Click to deploy your own ChatGPT web UI
 - [BibiGPT](https://github.com/JimmyLv/BibiGPT) 4226⭐️ One-click summary for video & audio content: Bilibili | YouTube | Websites丨Podcasts | Meetings | Local files, etc
 - [Epic Music Quiz](https://epicmusicquiz.com) A free webapp for creating your own custom Music Video Quiz using youtube videos that can be played solo or multiplayer with friends. Optional AI generation of quiz questions
 - [chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) 688⭐️ Translate your locale json files with AI assistance
@@ -222,7 +222,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [OpenGpt](https://github.com/futantan/OpenGpt) 3652⭐️ Create your own ChatGPT App in seconds.
 - [ChatARKit](https://github.com/trzy/ChatARKit) 385⭐️ Using ChatGPT to Create AR Experiences with Natural Language
 - [AI-Writing-Assistant](https://github.com/simplysabir/AI-Writing-Assistant) 125⭐️ GPT3 Blog Post Generator
-- [Debugger that fixes errors and explains them with GPT-3](https://github.com/shobrook/adrenaline/) 3480⭐️ Talk to your codebase
+- [Debugger that fixes errors and explains them with GPT-3](https://github.com/shobrook/adrenaline/) 3478⭐️ Talk to your codebase
 - [iChatGPT](https://github.com/37iOS/iChatGPT) 832⭐️ OpenAI ChatGPT SwiftUI app for iOS, iPadOS, macOS
 - [chatgpt-android](https://github.com/skydoves/chatgpt-android) 3245⭐️ ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose
 - [ChatGPT for WearOS](https://github.com/DevEmperor/ChatGPT-WearOS) 28⭐️ A powerful ChatGPT app for all WearOS devices
@@ -232,7 +232,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 ## CLI tools
 
-- [README-AI](https://github.com/eli64s/README-AI) 784⭐️ Generate beautiful, informative, and well-structured README.md files. 
+- [README-AI](https://github.com/eli64s/README-AI) 785⭐️ Generate beautiful, informative, and well-structured README.md files. 
 - [CommitAssist](https://github.com/dejorrit/commit-assist) 7⭐️ Auto generate commit messages using ChatGPT
 - [Cli for ChatGPT](https://github.com/j178/chatgpt) 594⭐️ A TUI for ChatGPT API, powered by GPT-3.5-turbo and GPT-4 models
 - [gptcommit](https://github.com/zurawiki/gptcommit) 2161⭐️ A git prepare-commit-msg hook for authoring commit messages with GPT-3
