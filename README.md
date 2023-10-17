@@ -138,6 +138,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [cheetah](https://github.com/leetcode-mafia/cheetah) Whisper & GPT-based app for passing remote SWE interviews
 - [IntelliBar](https://intellibar.app/) Spotlight-like macOS app that puts ChatGPT a shortcut away.
 - [free-chatgpt-client-pub](https://github.com/akl7777777/free-chatgpt-client-pub) A free chatgpt client, no need for a key, no need to log in
+- [MindMac](https://mindmac.app) Feature-rich & privacy-first native ChatGPT app for macOS to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter all in one place, designed for maximum productivity. Currently available in 15 languages.
 
 ## Editors
 
