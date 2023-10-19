@@ -60,7 +60,7 @@
 - [knowledge-gpt](https://github.com/geeks-of-data/knowledge-gpt) 234⭐️ 使用 ChatGPT 和其他语言模型从所有信息源中提取知识。对信息源进行索引和制作问答环节。
 - [Auto-GPT](https://github.com/Torantulino/Auto-GPT) 151030⭐️ 使 GPT-4 完全的实验性开源尝试。
 - [GPTCache](https://github.com/zilliztech/GPTCache) 5388⭐️ GPTCache 是一个创建语义缓存的库，用于存储 LLM 查询的响应。
-- [gpt4free](https://github.com/xtekky/gpt4free) 46554⭐️ 通过几个反向工程的API（Poe.com, phind.com, chat.openai.com等），使Ai产业去中心化，免费提供gpt-4/3.5脚本。
+- [gpt4free](https://github.com/xtekky/gpt4free) 46555⭐️ 通过几个反向工程的API（Poe.com, phind.com, chat.openai.com等），使Ai产业去中心化，免费提供gpt-4/3.5脚本。
 - [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) 6605⭐️ 提供免费的 OpenAI GPT-4 API!这是一个复制 xtekky/gpt4free TypeScript版本的项目。
 - [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) 23084⭐️ MiniGPT-4：用先进的大型语言模型加强视觉-语言理解
 - [chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) 793⭐️ 一个开源的聊天GPT工具生态系统,您可以将工具组合到聊天GPT中,通过自然语言来实现任何操作。

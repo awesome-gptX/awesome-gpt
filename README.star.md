@@ -60,7 +60,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [knowledge-gpt](https://github.com/geeks-of-data/knowledge-gpt) 234⭐️ Extract knowledge from all information sources using gpt and other language models. Index and make Q&A session with information sources
 - [Auto-GPT](https://github.com/Torantulino/Auto-GPT) 151030⭐️ An experimental open-source attempt to make GPT-4 fully autonomous
 - [GPTCache](https://github.com/zilliztech/GPTCache) 5388⭐️ GPTCache is a library for creating semantic cache to store responses from LLM queries
-- [gpt4free](https://github.com/xtekky/gpt4free) 46554⭐️ decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com etc...)
+- [gpt4free](https://github.com/xtekky/gpt4free) 46555⭐️ decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com etc...)
 - [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) 6605⭐️ Providing a free OpenAI GPT-4 API ! This is a replication project for the typescript version of xtekky/gpt4free
 - [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) 23084⭐️ MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
 - [chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) 793⭐️ An open-source chatgpt tool ecosystem where you can combine tools with chatgpt and use natural language to do anything.
@@ -185,7 +185,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 ## Extend ChatGPT Feature
 
 - [Kubectl OpenAI plugin](https://github.com/sozercan/kubectl-ai) 848⭐️ This project is a kubectl plugin to generate and apply Kubernetes manifests using OpenAI GPT
-- [shareGPT](https://github.com/domeccleston/sharegpt) 1562⭐️ permenent links to your conversations
+- [shareGPT](https://github.com/domeccleston/sharegpt) 1562⭐️ permanent links to your conversations
 - [email-helper](https://github.com/shengxinjing/email-helper) 737⭐️ Generate your business emails in seconds
 - [twitterbio](https://github.com/Nutlope/twitterbio) 1478⭐️ Generate your Twitter bio with OpenAI and Vercel Edge Functions
 - [OpenAI-ImageGeneration-Vue3](https://github.com/Jaykef/OpenAI-ImageGeneration-Vue3) 2⭐️ Utilizing OpenAI's Image Generation api with vue3, vite and pinia(similar to the DALLE app)
