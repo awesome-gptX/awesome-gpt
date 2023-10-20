@@ -84,7 +84,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [whetstone.chatgpt](https://github.com/johniwasz/whetstone.chatgpt) A simple light-weight library that wraps the GPT-3 API with support for dependency injection
 - [chatgpt-starter](https://github.com/zhangjh/chatgpt-starter) A chatgpt starter based on springboot to provider chatgpt api for java
 - [chatgpt-plus-api-client](https://github.com/mzbac/chatgpt-plus-api-client) Node client to making API calls to ChatGPT
-- [Unoffical API in Python](https://github.com/acheong08/ChatGPT) Reverse engineered ChatGPT API
+- [Unofficial API in Python](https://github.com/acheong08/ChatGPT) Reverse engineered ChatGPT API
 - [TLS-based API (Python)](https://github.com/rawandahmad698/PyChatGPT) Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
 - [Unofficial API in JS/TS](https://github.com/transitive-bullshit/chatgpt-api) Node.js client for the official ChatGPT API. 
 - [Unofficial API in Dart](https://github.com/MisterJimson/chatgpt_api_dart) Dart client for the unofficial ChatGPT API
