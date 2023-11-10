@@ -21,6 +21,7 @@
     - [Go](#go)
     - [Kotlin](#Kotlin)
     - [JavaScript](#JavaScript)
+  - [免费人工智能资源](#免费人工智能资源)
   - [API 工具](#api-工具)
   - [客户端工具](#客户端工具)
   - [浏览器扩展](#浏览器扩展)
@@ -46,6 +47,9 @@
 
 ## ChatGPT 社区
 - [OpenAI Discord Channel](https://discord.com/invite/openai)
+
+## 免费人工智能资源
+- [DEEPNIGHT aiforcause API](https://github.com/deepnight-ai/aiforcause)
 
 ## ChatGPT 集成项目
 
