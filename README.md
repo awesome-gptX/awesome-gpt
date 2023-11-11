@@ -16,6 +16,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
   - [Table of Contents](#table-of-contents)
   - [Official Resources](#official-resources)
   - [ChatGPT Community](#chatgpt-community)
+  - [Free AI Resources](#free-ai-resources)
   - [ChatGPT Integrated Projects](#chatgpt-integrated-projects)
     - [Python](#python)
     - [Go](#go)
@@ -46,6 +47,9 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 ## ChatGPT Community
 - [OpenAI Discord Channel](https://discord.com/invite/openai)
+
+## Free AI Resources
+- [DEEPNIGHT AIForCause API](https://github.com/deepnight-ai/aiforcause)
 
 ## ChatGPT Integrated Projects 
 
