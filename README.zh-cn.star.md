@@ -62,13 +62,13 @@
 - [chatbot](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/chatbot) 109⭐️ ChatGPT 集成了更快、更安全的聊天机器人，并托管在云端。
 - [whistep speech-to-text](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/whisper-speech-text) 109⭐️ : OpnAI's whisper 是一个将语音转换成文本的库。
 - [knowledge-gpt](https://github.com/geeks-of-data/knowledge-gpt) 249⭐️ 使用 ChatGPT 和其他语言模型从所有信息源中提取知识。对信息源进行索引和制作问答环节。
-- [Auto-GPT](https://github.com/Torantulino/Auto-GPT) 156111⭐️ 使 GPT-4 完全的实验性开源尝试。
+- [Auto-GPT](https://github.com/Torantulino/Auto-GPT) 156112⭐️ 使 GPT-4 完全的实验性开源尝试。
 - [GPTCache](https://github.com/zilliztech/GPTCache) 5867⭐️ GPTCache 是一个创建语义缓存的库，用于存储 LLM 查询的响应。
-- [gpt4free](https://github.com/xtekky/gpt4free) 51222⭐️ 通过几个反向工程的API（Poe.com, phind.com, chat.openai.com等），使Ai产业去中心化，免费提供gpt-4/3.5脚本。
+- [gpt4free](https://github.com/xtekky/gpt4free) 51223⭐️ 通过几个反向工程的API（Poe.com, phind.com, chat.openai.com等），使Ai产业去中心化，免费提供gpt-4/3.5脚本。
 - [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) 7015⭐️ 提供免费的 OpenAI GPT-4 API!这是一个复制 xtekky/gpt4free TypeScript版本的项目。
 - [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) 24190⭐️ MiniGPT-4：用先进的大型语言模型加强视觉-语言理解
 - [chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) 929⭐️ 一个开源的聊天GPT工具生态系统,您可以将工具组合到聊天GPT中,通过自然语言来实现任何操作。
-- [privateGPT](https://github.com/imartinez/privateGPT) 46150⭐️ 利用GPT的能力,以全然私密的方式与您的文档进行互动,100%保密,没有任何数据泄漏。
+- [privateGPT](https://github.com/imartinez/privateGPT) 46151⭐️ 利用GPT的能力,以全然私密的方式与您的文档进行互动,100%保密,没有任何数据泄漏。
 - [ChatGPT-ShellMaster](https://github.com/VolkanSah/ChatGPT-ShellMaster) 30⭐️ ChatGPT ShellMaster 通过聊天使用OpenAI的ChatGPT启用命令行交互。
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT) 1455⭐️ 🧩 DemoGPT 允许您仅通过提示就可以快速创建演示。
 - [openai-functools](https://github.com/Jakob-98/openai-functools) 49⭐️ 简化管理和创建 OpenAI 功能元数据。
@@ -137,7 +137,7 @@
 - [ChatGPT Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop) 1898⭐️  Windows/MacOS/Linux desktop menubar app using tauri & rust.
 - [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) 6024⭐️ ChatGPT for Mac, living in your menubar
 - [BingGPT](https://github.com/dice2o/BingGPT) 9335⭐️  chat with Bing on Windows/MacOS/Linux without installing Microsoft Edge or browser plugins. Export full conversation to Markdown, PNG or PDF.
-- [cheetah](https://github.com/leetcode-mafia/cheetah) 3618⭐️ Whisper & GPT-based app for passing remote SWE interviews
+- [cheetah](https://github.com/leetcode-mafia/cheetah) 3619⭐️ Whisper & GPT-based app for passing remote SWE interviews
 - [IntelliBar](https://intellibar.app/) Spotlight-like macOS app that puts ChatGPT a shortcut away.
 
 ## 编辑器
@@ -197,8 +197,8 @@
 - [eslint-gpt](https://github.com/ycjcl868/eslint-gpt) 199⭐️ Generate your eslint rule with OpenAI and Vercel Edge Functions
 - [chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) 3042⭐️ Elegant and Powerfull. Powered by OpenAI and Vercel
 - [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) 50401⭐️ Specialized ChatGPT extension for scientific research work, optimized for enhancing the experience of polishing academic papers
-- [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) 20498⭐️ An open source ChatGPT UI
-- [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) 57184⭐️ One-Click to deploy your own ChatGPT web UI
+- [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) 20501⭐️ An open source ChatGPT UI
+- [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) 57186⭐️ One-Click to deploy your own ChatGPT web UI
 - [BibiGPT](https://github.com/JimmyLv/BibiGPT) 4631⭐️ One-click summary for video & audio content: Bilibili | YouTube | Websites丨Podcasts | Meetings | Local files, etc
 - [Epic Music Quiz](https://epicmusicquiz.com) A free webapp for creating your own custom Music Video Quiz using youtube videos that can be played solo or multiplayer with friends. Optional AI generation of quiz questions
 - [chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) 732⭐️ Translate your locale json files with AI assistance
@@ -267,7 +267,7 @@
 ## 用户脚本
 - [ChatGPT conversation saving bookmark](https://github.com/jcubic/chat-gpt) 263⭐️ Save chatGPT conversation as HTML file
 - [WebGPT](https://github.com/0hq/WebGPT) 3298⭐️ Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~2000 lines of vanilla Javascript.
-- [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) 12885⭐️ A UserScript that enables ChatGPT to chat smoothly, never experiencing network errors again, and no need to refresh the webpage anymore.
+- [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) 12884⭐️ A UserScript that enables ChatGPT to chat smoothly, never experiencing network errors again, and no need to refresh the webpage anymore.
 - [chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) 973⭐️ Export and Share your ChatGPT conversation history
 - [ChatGPT Auto Refresh](https://chatgptevo.com/autorefresh) ↻ Keeps ChatGPT sessions fresh to avoid network errors + Cloudflare checks
 - [Autoclear ChatGPT History](https://chatgptevo.com/autoclear) 🕶️ Adds chat auto-clear functionality to ChatGPT for more privacy
