@@ -56,7 +56,7 @@
 ### Python
 - [xiaogpt](https://github.com/yihong0618/xiaogpt) 4702⭐️ 用小米 AI speaker 播放 ChatGPT。
 - [ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader) 687⭐️ 这个资源库提供了一个简单的界面，利用 gpt-3.5-turbo 模型来阅读PDF格式的学术论文。
-- [FastChat](https://github.com/lm-sys/FastChat) 31566⭐️ 一个用于训练、服务和评估基于大型语言模型的聊天机器人的开放平台。
+- [FastChat](https://github.com/lm-sys/FastChat) 31568⭐️ 一个用于训练、服务和评估基于大型语言模型的聊天机器人的开放平台。
 - [openai-quickstart-python](https://github.com/openai/openai-quickstart-python) 1570⭐️ OpenAI API 快速入门教程中的 Python 示例应用程序。
 - [email-automation](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/email-automation) 109⭐️ 通过电子邮件自动化实现新闻简报/博客的自动化。
 - [chatbot](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/chatbot) 109⭐️ ChatGPT 集成了更快、更安全的聊天机器人，并托管在云端。
@@ -64,7 +64,7 @@
 - [knowledge-gpt](https://github.com/geeks-of-data/knowledge-gpt) 253⭐️ 使用 ChatGPT 和其他语言模型从所有信息源中提取知识。对信息源进行索引和制作问答环节。
 - [Auto-GPT](https://github.com/Torantulino/Auto-GPT) 157594⭐️ 使 GPT-4 完全的实验性开源尝试。
 - [GPTCache](https://github.com/zilliztech/GPTCache) 6063⭐️ GPTCache 是一个创建语义缓存的库，用于存储 LLM 查询的响应。
-- [gpt4free](https://github.com/xtekky/gpt4free) 52507⭐️ 通过几个反向工程的API（Poe.com, phind.com, chat.openai.com等），使Ai产业去中心化，免费提供gpt-4/3.5脚本。
+- [gpt4free](https://github.com/xtekky/gpt4free) 52509⭐️ 通过几个反向工程的API（Poe.com, phind.com, chat.openai.com等），使Ai产业去中心化，免费提供gpt-4/3.5脚本。
 - [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) 7114⭐️ 提供免费的 OpenAI GPT-4 API!这是一个复制 xtekky/gpt4free TypeScript版本的项目。
 - [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) 24455⭐️ MiniGPT-4：用先进的大型语言模型加强视觉-语言理解
 - [chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) 987⭐️ 一个开源的聊天GPT工具生态系统,您可以将工具组合到聊天GPT中,通过自然语言来实现任何操作。
@@ -155,13 +155,13 @@
 
 
 ## 聊天机器人
-- [gpt4all](https://github.com/nomic-ai/gpt4all) 61001⭐️ a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
+- [gpt4all](https://github.com/nomic-ai/gpt4all) 61002⭐️ a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
 - [chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk) 2015⭐️ GPT-3.5 Let your work efficiency take off directly
 - [ChatBot-TGLM6B](https://github.com/Lakr233/ChatBot-TGLM6B) 135⭐️ ChatGLM-6B Bot for Telegram
 - [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) 14177⭐️ GPT4 & LangChain Chatbot for large PDF docs
 - [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) 12964⭐️ Use ChatGPT On Wechat via wechaty
 - [ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) 4511⭐️ ChatGPT for Wechat
-- [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) 21210⭐️ Wechat robot based on ChatGPT, which using OpenAI api and itchat library
+- [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) 21211⭐️ Wechat robot based on ChatGPT, which using OpenAI api and itchat library
 - [chatgpt-for-chatbot-feishu](https://github.com/go-zoox/chatgpt-for-chatbot-feishu) 305⭐️ chatgpt for chatbot feishu
 - [Serverless Telegram bot](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) 299⭐️ ChatGPT Telegram Bot running in AWS Lambda
 - [WhatsApp bot](https://github.com/danielgross/whatsapp-gpt) 3060⭐️ gpt for whatsapp
@@ -189,16 +189,16 @@
 - [twitterbio](https://github.com/Nutlope/twitterbio) 1558⭐️ Generate your Twitter bio with OpenAI and Vercel Edge Functions
 - [OpenAI-ImageGeneration-Vue3](https://github.com/Jaykef/OpenAI-ImageGeneration-Vue3) 3⭐️ Utilizing OpenAI's Image Generation api with vue3, vite and pinia(similar to the DALLE app)
 - [ai-research-for-practise](https://github.com/phodal/ai-research-for-practise) 3758⭐️ A powerful image generation model, can through the study of the evolution of an image to generate a new image
-- [roomGPT](https://github.com/Nutlope/roomGPT) 9319⭐️ Upload a photo of your room to generate your dream room with AI
+- [roomGPT](https://github.com/Nutlope/roomGPT) 9320⭐️ Upload a photo of your room to generate your dream room with AI
 - [DocsGPT](https://github.com/arc53/DocsGPT) 13832⭐️ GPT-powered chat for documentation search & assistance
 
 ## 网页应用
 - [kindle-gpt](https://github.com/mckaywrigley/kindle-gpt) 243⭐️ AI search & chat on your Kindle highlights
 - [eslint-gpt](https://github.com/ycjcl868/eslint-gpt) 200⭐️ Generate your eslint rule with OpenAI and Vercel Edge Functions
 - [chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) 3068⭐️ Elegant and Powerfull. Powered by OpenAI and Vercel
-- [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) 51496⭐️ Specialized ChatGPT extension for scientific research work, optimized for enhancing the experience of polishing academic papers
+- [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) 51497⭐️ Specialized ChatGPT extension for scientific research work, optimized for enhancing the experience of polishing academic papers
 - [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) 24388⭐️ An open source ChatGPT UI
-- [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) 60103⭐️ One-Click to deploy your own ChatGPT web UI
+- [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) 60106⭐️ One-Click to deploy your own ChatGPT web UI
 - [BibiGPT](https://github.com/JimmyLv/BibiGPT) 4707⭐️ One-click summary for video & audio content: Bilibili | YouTube | Websites丨Podcasts | Meetings | Local files, etc
 - [Epic Music Quiz](https://epicmusicquiz.com) A free webapp for creating your own custom Music Video Quiz using youtube videos that can be played solo or multiplayer with friends. Optional AI generation of quiz questions
 - [chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) 742⭐️ Translate your locale json files with AI assistance
@@ -227,7 +227,7 @@
 - [Assistant CLI](https://github.com/diciaup/assistant-cli) 174⭐️ A comfortable CLI tool to use ChatGPT service🔥
 - [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) 3545⭐️ API for interacting with ChatGPT and GPT4 using Python and from Shell.
 - [aicommits](https://github.com/Nutlope/aicommits) 7119⭐️ A CLI that writes your git commit messages for you with AI
-- [cz-git](https://github.com/Zhengqbbb/cz-git) 883⭐️ cz-git | czg 🛠️ DX first and more engineered, lightweight, customizable, standard output format commitizen adapter and CLI
+- [cz-git](https://github.com/Zhengqbbb/cz-git) 884⭐️ cz-git | czg 🛠️ DX first and more engineered, lightweight, customizable, standard output format commitizen adapter and CLI
 - [Smalltalk](https://github.com/tinystruct/smalltalk) 325⭐️ A funny anonymous chat software which support CLI and integrated with ChatGPT / GPT-3.
 - [CLI-Co-Pilot](https://github.com/AntonOsika/CLI-Co-Pilot) 189⭐️ CLI tool that uses Codex to turn natural language commands into their Bash/ZShell/PowerShell equivalents
 - [cli-gpt](https://github.com/MagicCube/cli-gpt) 87⭐️ Translate human language to command line using ChatGPT
@@ -240,7 +240,7 @@
 
 ## Github Actions
 - [chatgpt-action](https://github.com/kxxt/chatgpt-action) 557⭐️ Let ChatGPT review PRs for you
-- [ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) 3436⭐️ A code review bot powered by ChatGPT
+- [ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) 3437⭐️ A code review bot powered by ChatGPT
 - [openai-pr-reviewer](https://github.com/fluxninja/openai-pr-reviewer) 1202⭐️ OpenAI ChatGPT based PR reviewer and summarizer
 
 ## Cybersecurity
@@ -267,7 +267,7 @@
 ## 用户脚本
 - [ChatGPT conversation saving bookmark](https://github.com/jcubic/chat-gpt) 268⭐️ Save chatGPT conversation as HTML file
 - [WebGPT](https://github.com/0hq/WebGPT) 3391⭐️ Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~2000 lines of vanilla Javascript.
-- [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) 13082⭐️ A UserScript that enables ChatGPT to chat smoothly, never experiencing network errors again, and no need to refresh the webpage anymore.
+- [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) 13083⭐️ A UserScript that enables ChatGPT to chat smoothly, never experiencing network errors again, and no need to refresh the webpage anymore.
 - [chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) 999⭐️ Export and Share your ChatGPT conversation history
 - [ChatGPT Auto Refresh](https://chatgptevo.com/autorefresh) ↻ Keeps ChatGPT sessions fresh to avoid network errors + Cloudflare checks
 - [Autoclear ChatGPT History](https://chatgptevo.com/autoclear) 🕶️ Adds chat auto-clear functionality to ChatGPT for more privacy
