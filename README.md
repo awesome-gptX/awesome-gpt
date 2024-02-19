@@ -146,15 +146,32 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 ## Editors
 
+### Vim
+
 - [vim-chatgpt](https://github.com/CoderCookE/vim-chatgpt) a Vim Plugin For ChatGPT
+- [chatgpt.vim](https://github.com/terror/chatgpt.nvim)  Neovim plugin that lets you query ChatGPT inside a Neovim buffer.
+
+### Emacs
+
+- [chatgpt-shell](https://github.com/xenodium/chatgpt-shell) ChatGPT and DALL-E Emacs shells + Org Babel.
+- [gptel](https://github.com/karthink/gptel) GPTel is a simple Large Language Model chat client for Emacs, with support for multiple models and backends.
+- [org-ai](https://github.com/rksm/org-ai) Minor mode for Emacs org-mode that provides access to generative AI models.
+
+### VSCode
+
 - [ChatGPT VSCode](https://github.com/mpociot/chatgpt-vscode)  VSCode extension ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
 - [chatgpt-vscode-plugin](https://github.com/barnesoir/chatgpt-vscode-plugin) A VS code plugin for ChatGPT built by ChatGPT
 - [vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) The extension is pair-programmed with ChatGPT
+
+### Jetbrains
+
 - [Jetbrains IDE plugin](https://github.com/LiLittleCat/intellij-chatgpt)  A ChatGPT plugin for JetBrains IDE (webview)
 - [Jetbrains IDE plugin](https://github.com/dromara/ChatGPT)  A ChatGPT plugin for JetBrains IDEs (using OpenAI's API)
-- [chatgpt.vim](https://github.com/terror/chatgpt.nvim)  Neovim plugin that lets you query ChatGPT inside a Neovim buffer.
-- [Google docs](https://github.com/cesarhuret/docGPT)  ChatGPT directly within Google Docs as an Editor Add-on.
 - [a plugin for JetBrains series IDE](https://github.com/dromara/ChatGPT) This project is a plugin that supports ChatGPT running on JetBrains series IDE.
+
+### Other
+
+- [Google docs](https://github.com/cesarhuret/docGPT)  ChatGPT directly within Google Docs as an Editor Add-on.
 - [add-chatgpt-to-microsoft-word](https://github.com/analyticsinmotion/add-chatgpt-to-microsoft-word) How to add ChatGPT's Text Completion to Microsoft Word
 
 ## Chat bots
