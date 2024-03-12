@@ -72,6 +72,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [ChatGPT-ShellMaster](https://github.com/VolkanSah/ChatGPT-ShellMaster) ChatGPT ShellMaster enables command-line interactions via chat using OpenAI's ChatGPT.
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT) 🧩 DemoGPT enables you to create quick demos by just using prompts.
 - [openai-functools](https://github.com/Jakob-98/openai-functools) Simplifying Management and Creation of OpenAI Function Metadata.
+- [AwesomeChatGPTBot](https://github.com/kourva/AwesomeChatGPTBot) Free & Rich-Feature bot for enhanced conversations 
 
 ### Go
 - [doctorgpt](https://github.com/ingyamilmolinar/doctorgpt) DoctorGPT is a lightweight self-contained binary that monitors your application logs for problems and diagnoses them.
