@@ -56,7 +56,7 @@
 ### Python
 - [xiaogpt](https://github.com/yihong0618/xiaogpt) 4901⭐️ 用小米 AI speaker 播放 ChatGPT。
 - [ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader) 699⭐️ 这个资源库提供了一个简单的界面，利用 gpt-3.5-turbo 模型来阅读PDF格式的学术论文。
-- [FastChat](https://github.com/lm-sys/FastChat) 32673⭐️ 一个用于训练、服务和评估基于大型语言模型的聊天机器人的开放平台。
+- [FastChat](https://github.com/lm-sys/FastChat) 32676⭐️ 一个用于训练、服务和评估基于大型语言模型的聊天机器人的开放平台。
 - [openai-quickstart-python](https://github.com/openai/openai-quickstart-python) 1602⭐️ OpenAI API 快速入门教程中的 Python 示例应用程序。
 - [email-automation](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/email-automation) 114⭐️ 通过电子邮件自动化实现新闻简报/博客的自动化。
 - [chatbot](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/chatbot) 114⭐️ ChatGPT 集成了更快、更安全的聊天机器人，并托管在云端。
@@ -66,9 +66,9 @@
 - [GPTCache](https://github.com/zilliztech/GPTCache) 6279⭐️ GPTCache 是一个创建语义缓存的库，用于存储 LLM 查询的响应。
 - [gpt4free](https://github.com/xtekky/gpt4free) 54719⭐️ 通过几个反向工程的API（Poe.com, phind.com, chat.openai.com等），使Ai产业去中心化，免费提供gpt-4/3.5脚本。
 - [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) 7262⭐️ 提供免费的 OpenAI GPT-4 API!这是一个复制 xtekky/gpt4free TypeScript版本的项目。
-- [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) 24667⭐️ MiniGPT-4：用先进的大型语言模型加强视觉-语言理解
+- [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) 24668⭐️ MiniGPT-4：用先进的大型语言模型加强视觉-语言理解
 - [chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) 1044⭐️ 一个开源的聊天GPT工具生态系统,您可以将工具组合到聊天GPT中,通过自然语言来实现任何操作。
-- [privateGPT](https://github.com/imartinez/privateGPT) 49850⭐️ 利用GPT的能力,以全然私密的方式与您的文档进行互动,100%保密,没有任何数据泄漏。
+- [privateGPT](https://github.com/imartinez/privateGPT) 49856⭐️ 利用GPT的能力,以全然私密的方式与您的文档进行互动,100%保密,没有任何数据泄漏。
 - [ChatGPT-ShellMaster](https://github.com/VolkanSah/ChatGPT-ShellMaster) 35⭐️ ChatGPT ShellMaster 通过聊天使用OpenAI的ChatGPT启用命令行交互。
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT) 1525⭐️ 🧩 DemoGPT 允许您仅通过提示就可以快速创建演示。
 - [openai-functools](https://github.com/Jakob-98/openai-functools) 54⭐️ 简化管理和创建 OpenAI 功能元数据。
@@ -107,7 +107,7 @@
 
 
 ## 浏览器扩展
-- [chatGPTBox](https://github.com/josStorer/chatGPTBox) 9418⭐️ 将 ChatGPT 深度整合到您的浏览器，您需要的一切都在这里。
+- [chatGPTBox](https://github.com/josStorer/chatGPTBox) 9419⭐️ 将 ChatGPT 深度整合到您的浏览器，您需要的一切都在这里。
 - [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) 1538⭐️ 在 Google 搜索结果和 YouTube 视频旁边查看ChatGPT摘要，也支持 Yahoo!
 - [Automate your browser with GPT-4](https://github.com/TaxyAI/browser-extension) 695⭐️ 使用 GPT-4 来控制你的浏览器并代表你执行重复性的动作。
 - [summarize.site](https://github.com/clmnin/summarize.site) 711⭐️ 使用 OpenAI ChatGPT 对网页进行总结。
@@ -160,8 +160,8 @@
 - [ChatBot-TGLM6B](https://github.com/Lakr233/ChatBot-TGLM6B) 135⭐️ ChatGLM-6B Bot for Telegram
 - [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) 14381⭐️ GPT4 & LangChain Chatbot for large PDF docs
 - [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) 12998⭐️ Use ChatGPT On Wechat via wechaty
-- [ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) 4555⭐️ ChatGPT for Wechat
-- [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) 23484⭐️ Wechat robot based on ChatGPT, which using OpenAI api and itchat library
+- [ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) 4556⭐️ ChatGPT for Wechat
+- [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) 23485⭐️ Wechat robot based on ChatGPT, which using OpenAI api and itchat library
 - [chatgpt-for-chatbot-feishu](https://github.com/go-zoox/chatgpt-for-chatbot-feishu) 313⭐️ chatgpt for chatbot feishu
 - [Serverless Telegram bot](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) 302⭐️ ChatGPT Telegram Bot running in AWS Lambda
 - [WhatsApp bot](https://github.com/danielgross/whatsapp-gpt) 3070⭐️ gpt for whatsapp
@@ -196,9 +196,9 @@
 - [kindle-gpt](https://github.com/mckaywrigley/kindle-gpt) 249⭐️ AI search & chat on your Kindle highlights
 - [eslint-gpt](https://github.com/ycjcl868/eslint-gpt) 204⭐️ Generate your eslint rule with OpenAI and Vercel Edge Functions
 - [chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) 3080⭐️ Elegant and Powerfull. Powered by OpenAI and Vercel
-- [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) 53081⭐️ Specialized ChatGPT extension for scientific research work, optimized for enhancing the experience of polishing academic papers
-- [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) 25437⭐️ An open source ChatGPT UI
-- [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) 65176⭐️ One-Click to deploy your own ChatGPT web UI
+- [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) 53082⭐️ Specialized ChatGPT extension for scientific research work, optimized for enhancing the experience of polishing academic papers
+- [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) 25438⭐️ An open source ChatGPT UI
+- [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) 65177⭐️ One-Click to deploy your own ChatGPT web UI
 - [BibiGPT](https://github.com/JimmyLv/BibiGPT) 4858⭐️ One-click summary for video & audio content: Bilibili | YouTube | Websites丨Podcasts | Meetings | Local files, etc
 - [Epic Music Quiz](https://epicmusicquiz.com) A free webapp for creating your own custom Music Video Quiz using youtube videos that can be played solo or multiplayer with friends. Optional AI generation of quiz questions
 - [chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) 754⭐️ Translate your locale json files with AI assistance
