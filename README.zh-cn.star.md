@@ -54,7 +54,7 @@
 ## ChatGPT 集成项目
 
 ### Python
-- [xiaogpt](https://github.com/yihong0618/xiaogpt) 4991⭐️ 用小米 AI speaker 播放 ChatGPT。
+- [xiaogpt](https://github.com/yihong0618/xiaogpt) 4992⭐️ 用小米 AI speaker 播放 ChatGPT。
 - [ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader) 703⭐️ 这个资源库提供了一个简单的界面，利用 gpt-3.5-turbo 模型来阅读PDF格式的学术论文。
 - [FastChat](https://github.com/lm-sys/FastChat) 33171⭐️ 一个用于训练、服务和评估基于大型语言模型的聊天机器人的开放平台。
 - [openai-quickstart-python](https://github.com/openai/openai-quickstart-python) 1606⭐️ OpenAI API 快速入门教程中的 Python 示例应用程序。
@@ -68,7 +68,7 @@
 - [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) 7320⭐️ 提供免费的 OpenAI GPT-4 API!这是一个复制 xtekky/gpt4free TypeScript版本的项目。
 - [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) 24754⭐️ MiniGPT-4：用先进的大型语言模型加强视觉-语言理解
 - [chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) 1057⭐️ 一个开源的聊天GPT工具生态系统,您可以将工具组合到聊天GPT中,通过自然语言来实现任何操作。
-- [privateGPT](https://github.com/imartinez/privateGPT) 50866⭐️ 利用GPT的能力,以全然私密的方式与您的文档进行互动,100%保密,没有任何数据泄漏。
+- [privateGPT](https://github.com/imartinez/privateGPT) 50868⭐️ 利用GPT的能力,以全然私密的方式与您的文档进行互动,100%保密,没有任何数据泄漏。
 - [ChatGPT-ShellMaster](https://github.com/VolkanSah/ChatGPT-ShellMaster) 36⭐️ ChatGPT ShellMaster 通过聊天使用OpenAI的ChatGPT启用命令行交互。
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT) 1544⭐️ 🧩 DemoGPT 允许您仅通过提示就可以快速创建演示。
 - [openai-functools](https://github.com/Jakob-98/openai-functools) 57⭐️ 简化管理和创建 OpenAI 功能元数据。
@@ -91,7 +91,7 @@
 - [chatgpt-plus-api-client](https://github.com/mzbac/chatgpt-plus-api-client) 25⭐️ 对 ChatGPT 进行 API 调用的节点客户端
 - [Unoffical API in Python](https://github.com/acheong08/ChatGPT) 27904⭐️ 反向工程的 ChatGPT API
 - [TLS-based API (Python)](https://github.com/rawandahmad698/PyChatGPT) 4216⭐️ 非官方的 ChatGPT API 的 Python 客户端，具有自动令牌再生、对话跟踪、代理支持等功能。
-- [Unofficial API in JS/TS](https://github.com/transitive-bullshit/chatgpt-api) 15625⭐️ 用于官方 ChatGPT API 的 Node.js 客户端.
+- [Unofficial API in JS/TS](https://github.com/transitive-bullshit/chatgpt-api) 15624⭐️ 用于官方 ChatGPT API 的 Node.js 客户端.
 - [Unofficial API in Dart](https://github.com/MisterJimson/chatgpt_api_dart) 56⭐️ 非官方的 ChatGPT API 的 Dart 客户端
 - [A Java Version ChatGPT SDK](https://github.com/swordintent/chatgpt-web-api) 38⭐️ Java 版 ChatGPT SDK
 - [chatgpt-java](https://github.com/PlexPt/chatgpt-java) 3392⭐️ ChatGPT Java SDK. 用于与 OpenAI 的 ChatGPT 的 API 进行交互的轻量级包。
@@ -112,7 +112,7 @@
 - [Automate your browser with GPT-4](https://github.com/TaxyAI/browser-extension) 731⭐️ 使用 GPT-4 来控制你的浏览器并代表你执行重复性的动作。
 - [summarize.site](https://github.com/clmnin/summarize.site) 716⭐️ 使用 OpenAI ChatGPT 对网页进行总结。
 - [codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) 507⭐️ 使用 ChatGPT 审查你的 Pull Request，这样你就可以假装工作了。
-- [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) 13272⭐️ 在谷歌搜索结果旁边显示 ChatGPT 响应的扩展。
+- [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) 13271⭐️ 在谷歌搜索结果旁边显示 ChatGPT 响应的扩展。
 - [ChatGPT_Extension](https://github.com/kazuki-sf/ChatGPT_Extension) 436⭐️ Chrome 扩展可以打开 ChatGPT 弹出窗口 (basically [a bookmark](https://github.com/kazuki-sf/ChatGPT_Extension/issues/6))
 - [chat-gpt-bing-extension](https://github.com/happy-share-forever/chat-gpt-bing-extension) 12⭐️ 在必应搜索结果旁边显示 ChatGPT 响应的浏览器扩展，支持 Chrome/Edge/Firefox。
 - [ChatGPT-pdf](https://github.com/liady/ChatGPT-pdf) 1459⭐️ 为 ChatGPT 添加共享功能的扩展（PDF、PNG 或可共享链接）。
@@ -123,7 +123,7 @@
 - [gpt2markdown](https://github.com/0xreeko/gpt2markdown) 65⭐️ A browser extension that exports your ChatGPT conversations to Markdown format
 - [openai-translator](https://github.com/yetone/openai-translator) 22249⭐️ A Chrome extension for word translation based on ChatGPT API
 - [GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) 211⭐️ Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
-- [ChatGPT for Twitter](https://github.com/wong2/chat-gpt-google-extension) 13272⭐️ Chrome extension to generate tweets/replies to tweets in different moods and by optionally giving instructions
+- [ChatGPT for Twitter](https://github.com/wong2/chat-gpt-google-extension) 13271⭐️ Chrome extension to generate tweets/replies to tweets in different moods and by optionally giving instructions
 - [sync-to-github](https://github.com/aircloud/sync-to-github/blob/main/README.en.md) 59⭐️ Synchronize chatgpt conversations to the github repository in the form of `.md` file
 - [chatgpt-dl](https://github.com/jiayao/chatgpt-dl) 3⭐️ Another ChatGPT to Markdown extension, it intercepts the API call to retrieve the original markdown.
 - [chatgpt-enhancement-extension](https://github.com/sailist/chatgpt-enhancement-extension) 329⭐️ An all-in-one plugin to improve your ChatGPT experience
@@ -155,7 +155,7 @@
 
 
 ## 聊天机器人
-- [gpt4all](https://github.com/nomic-ai/gpt4all) 63171⭐️ a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
+- [gpt4all](https://github.com/nomic-ai/gpt4all) 63170⭐️ a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
 - [chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk) 2050⭐️ GPT-3.5 Let your work efficiency take off directly
 - [ChatBot-TGLM6B](https://github.com/Lakr233/ChatBot-TGLM6B) 134⭐️ ChatGLM-6B Bot for Telegram
 - [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) 14450⭐️ GPT4 & LangChain Chatbot for large PDF docs
@@ -186,11 +186,11 @@
 - [Kubectl OpenAI plugin](https://github.com/sozercan/kubectl-ai) 975⭐️ This project is a kubectl plugin to generate and apply Kubernetes manifests using OpenAI GPT
 - [shareGPT](https://github.com/domeccleston/sharegpt) 1666⭐️ permenent links to your conversations
 - [email-helper](https://github.com/shengxinjing/email-helper) 740⭐️ Generate your business emails in seconds
-- [twitterbio](https://github.com/Nutlope/twitterbio) 1588⭐️ Generate your Twitter bio with OpenAI and Vercel Edge Functions
+- [twitterbio](https://github.com/Nutlope/twitterbio) 1589⭐️ Generate your Twitter bio with OpenAI and Vercel Edge Functions
 - [OpenAI-ImageGeneration-Vue3](https://github.com/Jaykef/OpenAI-ImageGeneration-Vue3) 3⭐️ Utilizing OpenAI's Image Generation api with vue3, vite and pinia(similar to the DALLE app)
 - [ai-research-for-practise](https://github.com/phodal/ai-research-for-practise) 3896⭐️ A powerful image generation model, can through the study of the evolution of an image to generate a new image
 - [roomGPT](https://github.com/Nutlope/roomGPT) 9444⭐️ Upload a photo of your room to generate your dream room with AI
-- [DocsGPT](https://github.com/arc53/DocsGPT) 14085⭐️ GPT-powered chat for documentation search & assistance
+- [DocsGPT](https://github.com/arc53/DocsGPT) 14086⭐️ GPT-powered chat for documentation search & assistance
 
 ## 网页应用
 - [kindle-gpt](https://github.com/mckaywrigley/kindle-gpt) 250⭐️ AI search & chat on your Kindle highlights
@@ -240,7 +240,7 @@
 
 ## Github Actions
 - [chatgpt-action](https://github.com/kxxt/chatgpt-action) 559⭐️ Let ChatGPT review PRs for you
-- [ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) 3573⭐️ A code review bot powered by ChatGPT
+- [ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) 3574⭐️ A code review bot powered by ChatGPT
 - [openai-pr-reviewer](https://github.com/fluxninja/openai-pr-reviewer) 1317⭐️ OpenAI ChatGPT based PR reviewer and summarizer
 
 ## Cybersecurity
