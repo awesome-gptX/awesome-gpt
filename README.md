@@ -175,6 +175,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 - [Google docs](https://github.com/cesarhuret/docGPT)  ChatGPT directly within Google Docs as an Editor Add-on.
 - [add-chatgpt-to-microsoft-word](https://github.com/analyticsinmotion/add-chatgpt-to-microsoft-word) How to add ChatGPT's Text Completion to Microsoft Word
+- [Composum AI](https://github.com/ist-dresden/composum-AI) OpenAI based GenAI extension for the CMS Adobe Experience Manager (AEM) or the free Composum Pages CMS to analyze, discuss, suggest, translate, transform texts, incl. free prompting
 
 ## Chat bots
 
