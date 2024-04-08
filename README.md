@@ -219,6 +219,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [TypeScript Local Code Plugin](https://github.com/kesor/chatgpt-code-plugin) Localhost plugin for ChatGPT that lets it read your files from your computer
 - [ChatGPT Widescreen Mode](https://chatgptwidescreen.com) 🖥️ Add Widescreen + Fullscreen modes to ChatGPT for enhanced viewing
 - [ChatGPT Infinity](https://chatgptinfinity.com) ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
+- [Co-Developer GPT engine](https://github.com/stoerr/CoDeveloperGPTengine) - provides local r/w file access from ChatGPT chat as GPT actions or ChatGPT plugin, incl. execution of configured actions on your own machine.
 
 ## Web applications
 
