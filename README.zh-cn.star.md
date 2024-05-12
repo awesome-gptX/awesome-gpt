@@ -56,7 +56,7 @@
 ### Python
 - [xiaogpt](https://github.com/yihong0618/xiaogpt) 5319⭐️ 用小米 AI speaker 播放 ChatGPT。
 - [ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader) 710⭐️ 这个资源库提供了一个简单的界面，利用 gpt-3.5-turbo 模型来阅读PDF格式的学术论文。
-- [FastChat](https://github.com/lm-sys/FastChat) 34568⭐️ 一个用于训练、服务和评估基于大型语言模型的聊天机器人的开放平台。
+- [FastChat](https://github.com/lm-sys/FastChat) 34569⭐️ 一个用于训练、服务和评估基于大型语言模型的聊天机器人的开放平台。
 - [openai-quickstart-python](https://github.com/openai/openai-quickstart-python) 1632⭐️ OpenAI API 快速入门教程中的 Python 示例应用程序。
 - [email-automation](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/email-automation) 123⭐️ 通过电子邮件自动化实现新闻简报/博客的自动化。
 - [chatbot](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/chatbot) 123⭐️ ChatGPT 集成了更快、更安全的聊天机器人，并托管在云端。
@@ -97,7 +97,7 @@
 - [chatgpt-java](https://github.com/PlexPt/chatgpt-java) 3441⭐️ ChatGPT Java SDK. 用于与 OpenAI 的 ChatGPT 的 API 进行交互的轻量级包。
 - [This repo is unofficial ChatGPT api](https://github.com/taranjeet/chatgpt-api) 684⭐️ 基于 Daniel Gross 的 WhatsApp GPT
 - [chatGPT-server](https://github.com/dataaug/chatGPT-server) 17⭐️ 在服务器上部署 ChatGPT
-- [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) 11413⭐️ 克隆 ChatGPT，使用官方模型，逆向工程 UI，具有 AI 模型切换、信息搜索和提示模板等功能。
+- [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) 11415⭐️ 克隆 ChatGPT，使用官方模型，逆向工程 UI，具有 AI 模型切换、信息搜索和提示模板等功能。
 - [DelphiOpenAI](https://github.com/HemulGM/DelphiOpenAI) 213⭐️ Delphi 的 OpenAI API 客户端。使用 ChatGPT、DALL-E 等产品。
 - [Embedchain](https://github.com/embedchain/embedchain): 用于在数据集上创建类似 ChatGPT 的机器人的框架。
 
@@ -196,7 +196,7 @@
 - [kindle-gpt](https://github.com/mckaywrigley/kindle-gpt) 251⭐️ AI search & chat on your Kindle highlights
 - [eslint-gpt](https://github.com/ycjcl868/eslint-gpt) 207⭐️ Generate your eslint rule with OpenAI and Vercel Edge Functions
 - [chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) 3100⭐️ Elegant and Powerfull. Powered by OpenAI and Vercel
-- [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) 57880⭐️ Specialized ChatGPT extension for scientific research work, optimized for enhancing the experience of polishing academic papers
+- [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) 57881⭐️ Specialized ChatGPT extension for scientific research work, optimized for enhancing the experience of polishing academic papers
 - [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) 26476⭐️ An open source ChatGPT UI
 - [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) 69151⭐️ One-Click to deploy your own ChatGPT web UI
 - [BibiGPT](https://github.com/JimmyLv/BibiGPT) 4995⭐️ One-click summary for video & audio content: Bilibili | YouTube | Websites丨Podcasts | Meetings | Local files, etc
@@ -211,7 +211,7 @@
 - [OpenGpt](https://github.com/futantan/OpenGpt) 3944⭐️ Create your own ChatGPT App in seconds.
 - [ChatARKit](https://github.com/trzy/ChatARKit) 412⭐️ Using ChatGPT to Create AR Experiences with Natural Language
 - [AI-Writing-Assistant](https://github.com/simplysabir/AI-Writing-Assistant) 143⭐️ GPT3 Blog Post Generator
-- [Debugger that fixes errors and explains them with GPT-3](https://github.com/shobrook/adrenaline/) 3725⭐️ Talk to your codebase
+- [Debugger that fixes errors and explains them with GPT-3](https://github.com/shobrook/adrenaline/) 3727⭐️ Talk to your codebase
 - [iChatGPT](https://github.com/37iOS/iChatGPT) 897⭐️ OpenAI ChatGPT SwiftUI app for iOS, iPadOS, macOS
 - [chatgpt-android](https://github.com/skydoves/chatgpt-android) 3531⭐️ ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose
 - [ChatGPT for WearOS](https://github.com/DevEmperor/ChatGPT-WearOS) 72⭐️ A powerful ChatGPT app for all WearOS devices
@@ -226,7 +226,7 @@
 - [GPT3 WordPress post generator](https://github.com/nicolaballotta/gtp3-wordpress-post-generator) 113⭐️ A simple cli to generate WordPress posts using Gpt3 starting from a topic.
 - [Assistant CLI](https://github.com/diciaup/assistant-cli) 178⭐️ A comfortable CLI tool to use ChatGPT service🔥
 - [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) 3586⭐️ API for interacting with ChatGPT and GPT4 using Python and from Shell.
-- [aicommits](https://github.com/Nutlope/aicommits) 7425⭐️ A CLI that writes your git commit messages for you with AI
+- [aicommits](https://github.com/Nutlope/aicommits) 7426⭐️ A CLI that writes your git commit messages for you with AI
 - [cz-git](https://github.com/Zhengqbbb/cz-git) 964⭐️ cz-git | czg 🛠️ DX first and more engineered, lightweight, customizable, standard output format commitizen adapter and CLI
 - [Smalltalk](https://github.com/tinystruct/smalltalk) 342⭐️ A funny anonymous chat software which support CLI and integrated with ChatGPT / GPT-3.
 - [CLI-Co-Pilot](https://github.com/AntonOsika/CLI-Co-Pilot) 190⭐️ CLI tool that uses Codex to turn natural language commands into their Bash/ZShell/PowerShell equivalents
@@ -245,7 +245,7 @@
 
 ## Cybersecurity
 - [Beelzebub ChatGPT Honeypot](https://github.com/mariocandela/beelzebub) 580⭐️ A secure honeypot framework low code, extremely easy to configure by yaml 🚀
-- [Penetration Testing Findings Generator](https://github.com/Stratus-Security/FinGen) 123⭐️ A ChatGPT based penetration testing findings generator.
+- [Penetration Testing Findings Generator](https://github.com/Stratus-Security/FinGen) 124⭐️ A ChatGPT based penetration testing findings generator.
 
 ## 提示
 - [ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) 5764⭐️ The ChatGPT Shortcut page displays all the prompts by default, and is divided into label area, search area, and prompt display area
