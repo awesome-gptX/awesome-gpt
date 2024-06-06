@@ -166,6 +166,7 @@
 - [Serverless Telegram bot](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) ChatGPT Telegram Bot running in AWS Lambda
 - [WhatsApp bot](https://github.com/danielgross/whatsapp-gpt) gpt for whatsapp
 - [RayCast Extension (unofficial)](https://github.com/abielzulio/chatgpt-raycast) ChatGPT raycast extension
+- [raycast-g4f Extension (unofficial)](https://github.com/XInTheDark/raycast-g4f) Use many GPT models completely for free, on Raycast. NO API Key required!
 - [Go Telegram bot](https://github.com/m1guelpf/chatgpt-telegram) Run your own GPTChat Telegram bot, with a single command!
 - [Twitter Bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) Twitter bot powered by OpenAI's ChatGPT API. It's aliveeeee 🤖
 - [myGPTReader](https://github.com/madawei2699/myGPTReader) - Slack bot that can read any webpage, YouTube video, or document and summarize it. Voice output. Chinese support.
