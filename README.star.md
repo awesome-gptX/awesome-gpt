@@ -54,7 +54,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 ## ChatGPT Integrated Projects 
 
 ### Python 
-- [xiaogpt](https://github.com/yihong0618/xiaogpt) 5685⭐️ Play ChatGPT with xiaomi AI speaker
+- [xiaogpt](https://github.com/yihong0618/xiaogpt) 5686⭐️ Play ChatGPT with xiaomi AI speaker
 - [ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader) 715⭐️ This repository provides a simple interface that utilizes the gpt-3.5-turbo model to read academic papers in PDF format locally
 - [FastChat](https://github.com/lm-sys/FastChat) 35256⭐️ An open platform for training, serving, and evaluating large language model based chatbots
 - [openai-quickstart-python](https://github.com/openai/openai-quickstart-python) 1651⭐️ Python example app from the OpenAI API quickstart tutorial
@@ -62,13 +62,13 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [chatbot](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/chatbot) 131⭐️ : ChatGPT Integrated faster and secure chatbot hosted on cloud.
 - [whisper speech-to-text](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/whisper-speech-text) 131⭐️ : OpnAI's whisper is a library to convert speech to text. 
 - [knowledge-gpt](https://github.com/geeks-of-data/knowledge-gpt) 271⭐️ Extract knowledge from all information sources using gpt and other language models. Index and make Q&A session with information sources
-- [Auto-GPT](https://github.com/Torantulino/Auto-GPT) 163029⭐️ An experimental open-source attempt to make GPT-4 fully autonomous
+- [Auto-GPT](https://github.com/Torantulino/Auto-GPT) 163031⭐️ An experimental open-source attempt to make GPT-4 fully autonomous
 - [GPTCache](https://github.com/zilliztech/GPTCache) 6601⭐️ GPTCache is a library for creating semantic cache to store responses from LLM queries
-- [gpt4free](https://github.com/xtekky/gpt4free) 58747⭐️ decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com etc...)
-- [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) 7518⭐️ Providing a free OpenAI GPT-4 API ! This is a replication project for the typescript version of xtekky/gpt4free
+- [gpt4free](https://github.com/xtekky/gpt4free) 58749⭐️ decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com etc...)
+- [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) 7516⭐️ Providing a free OpenAI GPT-4 API ! This is a replication project for the typescript version of xtekky/gpt4free
 - [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) 25081⭐️ MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
 - [chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) 1134⭐️ An open-source chatgpt tool ecosystem where you can combine tools with chatgpt and use natural language to do anything.
-- [privateGPT](https://github.com/imartinez/privateGPT) 52637⭐️ Interact privately with your documents using the power of GPT, 100% privately, no data leaks
+- [privateGPT](https://github.com/imartinez/privateGPT) 52638⭐️ Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [ChatGPT-ShellMaster](https://github.com/VolkanSah/ChatGPT-ShellMaster) 46⭐️ ChatGPT ShellMaster enables command-line interactions via chat using OpenAI's ChatGPT.
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT) 1609⭐️ 🧩 DemoGPT enables you to create quick demos by just using prompts.
 - [openai-functools](https://github.com/Jakob-98/openai-functools) 65⭐️ Simplifying Management and Creation of OpenAI Function Metadata.
@@ -91,7 +91,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [chatgpt-plus-api-client](https://github.com/mzbac/chatgpt-plus-api-client) 25⭐️ Node client to making API calls to ChatGPT
 - [Unofficial API in Python](https://github.com/acheong08/ChatGPT) 28001⭐️ Reverse engineered ChatGPT API
 - [TLS-based API (Python)](https://github.com/rawandahmad698/PyChatGPT) 4220⭐️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
-- [Unofficial API in JS/TS](https://github.com/transitive-bullshit/chatgpt-api) 15799⭐️ Node.js client for the official ChatGPT API. 
+- [Unofficial API in JS/TS](https://github.com/transitive-bullshit/chatgpt-api) 15800⭐️ Node.js client for the official ChatGPT API. 
 - [Unofficial API in Dart](https://github.com/MisterJimson/chatgpt_api_dart) 56⭐️ Dart client for the unofficial ChatGPT API
 - [A Java Version ChatGPT SDK](https://github.com/swordintent/chatgpt-web-api) 39⭐️ A Java Version ChatGPT SDK
 - [chatgpt-java](https://github.com/PlexPt/chatgpt-java) 3488⭐️ ChatGPT Java SDK. Lightweight package for interacting with ChatGPT's API by OpenAI
@@ -136,11 +136,11 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 ## Desktop Applications
 
-- [Multi-platform desktop app (Windows, Mac, Linux)](https://github.com/lencx/ChatGPT) 51357⭐️ powered by ChatGPT & Tauri
+- [Multi-platform desktop app (Windows, Mac, Linux)](https://github.com/lencx/ChatGPT) 51358⭐️ powered by ChatGPT & Tauri
 - [ChatGPT Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop) 1966⭐️  Windows/MacOS/Linux desktop menubar app using tauri & rust.
 - [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) 6378⭐️ ChatGPT for Mac, living in your menubar
 - [BingGPT](https://github.com/dice2o/BingGPT) 9337⭐️  chat with Bing on Windows/MacOS/Linux without installing Microsoft Edge or browser plugins. Export full conversation to Markdown, PNG or PDF.
-- [cheetah](https://github.com/leetcode-mafia/cheetah) 3837⭐️ Whisper & GPT-based app for passing remote SWE interviews
+- [cheetah](https://github.com/leetcode-mafia/cheetah) 3838⭐️ Whisper & GPT-based app for passing remote SWE interviews
 - [IntelliBar](https://intellibar.app/) Spotlight-like macOS app that puts ChatGPT a shortcut away.
 - [free-chatgpt-client-pub](https://github.com/akl7777777/free-chatgpt-client-pub) 2024⭐️ A free chatgpt client, no need for a key, no need to log in
 - [MindMac](https://mindmac.app) Feature-rich & privacy-first native ChatGPT app for macOS to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter all in one place, designed for maximum productivity. Currently available in 15 languages.
@@ -198,7 +198,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [ChatGPT for Discord Bot](https://github.com/m1guelpf/chatgpt-discord) 292⭐️ Run your own GPTChat Discord bot, with a single command!
 - [For personal WeChat ChatGPT access](https://github.com/djun/wechatbot) 894⭐️ Access ChatGPT for personal WeChat
 - [ChatGPT Q&A assistant](https://github.com/fuzhengwei/chatbot-api) 488⭐️ ChatGPT AI Q & A Assistant
-- [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) 2595⭐️ Integrate ChatGPT into your own discord bot
+- [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) 2594⭐️ Integrate ChatGPT into your own discord bot
 - [chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) 1670⭐️ This is a very early attempt at having chatGPT work within a telegram bot
 - [node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) 4193⭐️ A ChatGPT implementation with support for Bing's GPT-4 version of ChatGPT
 - [progressive-chatgpt-bot](https://github.com/ulivz/progressive-chatgpt-bot) 7⭐️ A progressive ChatGPT feishu bot, made for Girlfriend
@@ -228,7 +228,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [kindle-gpt](https://github.com/mckaywrigley/kindle-gpt) 254⭐️ AI search & chat on your Kindle highlights
 - [eslint-gpt](https://github.com/ycjcl868/eslint-gpt) 207⭐️ Generate your eslint rule with OpenAI and Vercel Edge Functions
 - [chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) 3154⭐️ Elegant and Powerfull. Powered by OpenAI and Vercel
-- [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) 60273⭐️ Specialized ChatGPT extension for scientific research work, optimized for enhancing the experience of polishing academic papers
+- [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) 60279⭐️ Specialized ChatGPT extension for scientific research work, optimized for enhancing the experience of polishing academic papers
 - [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) 27034⭐️ An open source ChatGPT UI
 - [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) 71670⭐️ One-Click to deploy your own ChatGPT web UI
 - [BibiGPT](https://github.com/JimmyLv/BibiGPT) 5043⭐️ One-click summary for video & audio content: Bilibili | YouTube | Websites丨Podcasts | Meetings | Local files, etc
@@ -238,7 +238,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [Poet.ly](https://poet.ly) Poet.ly is a simple and fast generator of SEO-friendly articles for your blog referenced on search engines. It is based on the OpenAI GPT-4 API.
 - [AgentGPT](https://github.com/reworkd/AgentGPT) 30395⭐️ 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [FastGPT](https://github.com/c121914yu/FastGPT) 169⭐️ A platform to quickly use the openai api. Support one-click construction of AI knowledge base, support multi-user, multi-model management.
-- [ChatALL](https://github.com/sunner/ChatALL) 14547⭐️ Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers
+- [ChatALL](https://github.com/sunner/ChatALL) 14548⭐️ Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers
 - [ChatGPT Ultimate](https://chatgpt.kiask.xyz/) Unlock The Ultimate Power of ChatGPT
 - [examor](https://github.com/codeacme17/examor) 1033⭐️ A website application that allows you to take exams based on your knowledge notes. Let you really remember what you have learned and written.
 - [GPTyper](https://gptyper.net) Type notes, essays, creative writing etc. with live predictive suggestions, similar to GitHub Copilot
@@ -285,7 +285,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 - [chatgpt-action](https://github.com/kxxt/chatgpt-action) 556⭐️ Let ChatGPT review PRs for you
 - [ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) 3728⭐️ A code review bot powered by ChatGPT
-- [openai-pr-reviewer](https://github.com/fluxninja/openai-pr-reviewer) 1390⭐️ OpenAI ChatGPT based PR reviewer and summarizer
+- [openai-pr-reviewer](https://github.com/fluxninja/openai-pr-reviewer) 1391⭐️ OpenAI ChatGPT based PR reviewer and summarizer
 - [chatgpt-create-unit-tests](https://github.com/zebroc/chatgpt-create-unit-tests) 11⭐️ Let ChatGPT write unit tests & do reviews for you (or provide your own prompts)
 
 ## Cybersecurity
@@ -320,7 +320,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 - [ChatGPT conversation saving bookmark](https://github.com/jcubic/chat-gpt) 287⭐️ Save chatGPT conversation as HTML file
 - [WebGPT](https://github.com/0hq/WebGPT) 3567⭐️ Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~2000 lines of vanilla Javascript.
-- [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) 14082⭐️ A UserScript that enables ChatGPT to chat smoothly, never experiencing network errors again, and no need to refresh the webpage anymore.
+- [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) 14083⭐️ A UserScript that enables ChatGPT to chat smoothly, never experiencing network errors again, and no need to refresh the webpage anymore.
 - [chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) 1132⭐️ Export and Share your ChatGPT conversation history
 - [ChatGPT Auto Refresh](https://chatgptevo.com/autorefresh) ↻ Keeps ChatGPT sessions fresh to avoid network errors + Cloudflare checks
 - [Autoclear ChatGPT History](https://chatgptevo.com/autoclear) 🕶️ Adds chat auto-clear functionality to ChatGPT for more privacy
