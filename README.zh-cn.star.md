@@ -97,7 +97,7 @@
 - [chatgpt-java](https://github.com/PlexPt/chatgpt-java) 3496⭐️ ChatGPT Java SDK. 用于与 OpenAI 的 ChatGPT 的 API 进行交互的轻量级包。
 - [This repo is unofficial ChatGPT api](https://github.com/taranjeet/chatgpt-api) 686⭐️ 基于 Daniel Gross 的 WhatsApp GPT
 - [chatGPT-server](https://github.com/dataaug/chatGPT-server) 17⭐️ 在服务器上部署 ChatGPT
-- [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) 14994⭐️ 克隆 ChatGPT，使用官方模型，逆向工程 UI，具有 AI 模型切换、信息搜索和提示模板等功能。
+- [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) 14995⭐️ 克隆 ChatGPT，使用官方模型，逆向工程 UI，具有 AI 模型切换、信息搜索和提示模板等功能。
 - [DelphiOpenAI](https://github.com/HemulGM/DelphiOpenAI) 223⭐️ Delphi 的 OpenAI API 客户端。使用 ChatGPT、DALL-E 等产品。
 - [Embedchain](https://github.com/embedchain/embedchain): 用于在数据集上创建类似 ChatGPT 的机器人的框架。
 
@@ -135,7 +135,7 @@
 
 - [Multi-platform desktop app (Windows, Mac, Linux)](https://github.com/lencx/ChatGPT) 51562⭐️ powered by ChatGPT & Tauri
 - [ChatGPT Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop) 1968⭐️  Windows/MacOS/Linux desktop menubar app using tauri & rust.
-- [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) 6383⭐️ ChatGPT for Mac, living in your menubar
+- [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) 6382⭐️ ChatGPT for Mac, living in your menubar
 - [BingGPT](https://github.com/dice2o/BingGPT) 9327⭐️  chat with Bing on Windows/MacOS/Linux without installing Microsoft Edge or browser plugins. Export full conversation to Markdown, PNG or PDF.
 - [cheetah](https://github.com/leetcode-mafia/cheetah) 3870⭐️ Whisper & GPT-based app for passing remote SWE interviews
 - [IntelliBar](https://intellibar.app/) Spotlight-like macOS app that puts ChatGPT a shortcut away.
@@ -185,7 +185,7 @@
 
 ## 扩展 ChatGPT 功能
 - [Kubectl OpenAI plugin](https://github.com/sozercan/kubectl-ai) 996⭐️ This project is a kubectl plugin to generate and apply Kubernetes manifests using OpenAI GPT
-- [shareGPT](https://github.com/domeccleston/sharegpt) 1705⭐️ permenent links to your conversations
+- [shareGPT](https://github.com/domeccleston/sharegpt) 1706⭐️ permenent links to your conversations
 - [email-helper](https://github.com/shengxinjing/email-helper) Generate your business emails in seconds
 - [twitterbio](https://github.com/Nutlope/twitterbio) 1627⭐️ Generate your Twitter bio with OpenAI and Vercel Edge Functions
 - [OpenAI-ImageGeneration-Vue3](https://github.com/Jaykef/OpenAI-ImageGeneration-Vue3) 3⭐️ Utilizing OpenAI's Image Generation api with vue3, vite and pinia(similar to the DALLE app)
@@ -252,7 +252,7 @@
 - [ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) 5828⭐️ The ChatGPT Shortcut page displays all the prompts by default, and is divided into label area, search area, and prompt display area
 - [GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) 218⭐️ Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
 - [showGPT](https://showgpt.co/)  Website with curated list of best prompts, and you can submit your own easily.
-- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) 106627⭐️  ChatGPT prompts that works well.
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) 106628⭐️  ChatGPT prompts that works well.
 - [awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt) 567⭐️  Posts & thoughts about prompting ChatGPT for different usages
 - [GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) 218⭐️ Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
 - [ListPrompt.com](https://listprompt.com/)  List of awesome GPT prompts from the community.
