@@ -62,7 +62,7 @@
 - [chatbot](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/chatbot) 135⭐️ ChatGPT 集成了更快、更安全的聊天机器人，并托管在云端。
 - [whistep speech-to-text](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/whisper-speech-text) 135⭐️ : OpnAI's whisper 是一个将语音转换成文本的库。
 - [knowledge-gpt](https://github.com/geeks-of-data/knowledge-gpt) 272⭐️ 使用 ChatGPT 和其他语言模型从所有信息源中提取知识。对信息源进行索引和制作问答环节。
-- [Auto-GPT](https://github.com/Torantulino/Auto-GPT) 163480⭐️ 使 GPT-4 完全的实验性开源尝试。
+- [Auto-GPT](https://github.com/Torantulino/Auto-GPT) 163482⭐️ 使 GPT-4 完全的实验性开源尝试。
 - [GPTCache](https://github.com/zilliztech/GPTCache) 6707⭐️ GPTCache 是一个创建语义缓存的库，用于存储 LLM 查询的响应。
 - [gpt4free](https://github.com/xtekky/gpt4free) 58996⭐️ 通过几个反向工程的API（Poe.com, phind.com, chat.openai.com等），使Ai产业去中心化，免费提供gpt-4/3.5脚本。
 - [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) 7539⭐️ 提供免费的 OpenAI GPT-4 API!这是一个复制 xtekky/gpt4free TypeScript版本的项目。
@@ -91,13 +91,13 @@
 - [chatgpt-plus-api-client](https://github.com/mzbac/chatgpt-plus-api-client) 26⭐️ 对 ChatGPT 进行 API 调用的节点客户端
 - [Unoffical API in Python](https://github.com/acheong08/ChatGPT) 28012⭐️ 反向工程的 ChatGPT API
 - [TLS-based API (Python)](https://github.com/rawandahmad698/PyChatGPT) 4219⭐️ 非官方的 ChatGPT API 的 Python 客户端，具有自动令牌再生、对话跟踪、代理支持等功能。
-- [Unofficial API in JS/TS](https://github.com/transitive-bullshit/chatgpt-api) 15939⭐️ 用于官方 ChatGPT API 的 Node.js 客户端.
+- [Unofficial API in JS/TS](https://github.com/transitive-bullshit/chatgpt-api) 15941⭐️ 用于官方 ChatGPT API 的 Node.js 客户端.
 - [Unofficial API in Dart](https://github.com/MisterJimson/chatgpt_api_dart) 56⭐️ 非官方的 ChatGPT API 的 Dart 客户端
 - [A Java Version ChatGPT SDK](https://github.com/swordintent/chatgpt-web-api) 39⭐️ Java 版 ChatGPT SDK
 - [chatgpt-java](https://github.com/PlexPt/chatgpt-java) 3496⭐️ ChatGPT Java SDK. 用于与 OpenAI 的 ChatGPT 的 API 进行交互的轻量级包。
 - [This repo is unofficial ChatGPT api](https://github.com/taranjeet/chatgpt-api) 686⭐️ 基于 Daniel Gross 的 WhatsApp GPT
 - [chatGPT-server](https://github.com/dataaug/chatGPT-server) 17⭐️ 在服务器上部署 ChatGPT
-- [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) 15029⭐️ 克隆 ChatGPT，使用官方模型，逆向工程 UI，具有 AI 模型切换、信息搜索和提示模板等功能。
+- [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) 15030⭐️ 克隆 ChatGPT，使用官方模型，逆向工程 UI，具有 AI 模型切换、信息搜索和提示模板等功能。
 - [DelphiOpenAI](https://github.com/HemulGM/DelphiOpenAI) 223⭐️ Delphi 的 OpenAI API 客户端。使用 ChatGPT、DALL-E 等产品。
 - [Embedchain](https://github.com/embedchain/embedchain): 用于在数据集上创建类似 ChatGPT 的机器人的框架。
 
@@ -136,7 +136,7 @@
 - [Multi-platform desktop app (Windows, Mac, Linux)](https://github.com/lencx/ChatGPT) 51568⭐️ powered by ChatGPT & Tauri
 - [ChatGPT Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop) 1968⭐️  Windows/MacOS/Linux desktop menubar app using tauri & rust.
 - [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) 6383⭐️ ChatGPT for Mac, living in your menubar
-- [BingGPT](https://github.com/dice2o/BingGPT) 9326⭐️  chat with Bing on Windows/MacOS/Linux without installing Microsoft Edge or browser plugins. Export full conversation to Markdown, PNG or PDF.
+- [BingGPT](https://github.com/dice2o/BingGPT) 9325⭐️  chat with Bing on Windows/MacOS/Linux without installing Microsoft Edge or browser plugins. Export full conversation to Markdown, PNG or PDF.
 - [cheetah](https://github.com/leetcode-mafia/cheetah) 3870⭐️ Whisper & GPT-based app for passing remote SWE interviews
 - [IntelliBar](https://intellibar.app/) Spotlight-like macOS app that puts ChatGPT a shortcut away.
 
@@ -161,7 +161,7 @@
 - [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) 14734⭐️ GPT4 & LangChain Chatbot for large PDF docs
 - [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) 13157⭐️ Use ChatGPT On Wechat via wechaty
 - [ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) 4640⭐️ ChatGPT for Wechat
-- [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) 27728⭐️ Wechat robot based on ChatGPT, which using OpenAI api and itchat library
+- [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) 27729⭐️ Wechat robot based on ChatGPT, which using OpenAI api and itchat library
 - [chatgpt-for-chatbot-feishu](https://github.com/go-zoox/chatgpt-for-chatbot-feishu) 317⭐️ chatgpt for chatbot feishu
 - [Serverless Telegram bot](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) 313⭐️ ChatGPT Telegram Bot running in AWS Lambda
 - [WhatsApp bot](https://github.com/danielgross/whatsapp-gpt) 3066⭐️ gpt for whatsapp
@@ -206,7 +206,7 @@
 - [Promptsandbox.io](https://github.com/eg9y/promptsandbox.io) 6⭐️ Node-based visual programming tool to create dynamic OpenAI API workflows
 - [Poet.ly](https://poet.ly) Poet.ly is a simple and fast generator of SEO-friendly articles for your blog referenced on search engines. It is based on the OpenAI GPT-4 API.
 - [AgentGPT](https://github.com/reworkd/AgentGPT) 30518⭐️ 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
-- [examor](https://github.com/codeacme17/examor) 1036⭐️ 一款网站应用，它可以根据您的知识笔记进行周期性的测试，让您真正的记住所学所写
+- [examor](https://github.com/codeacme17/examor) 1037⭐️ 一款网站应用，它可以根据您的知识笔记进行周期性的测试，让您真正的记住所学所写
 
 ## 应用
 - [OpenGpt](https://github.com/futantan/OpenGpt) 3954⭐️ Create your own ChatGPT App in seconds.
@@ -242,7 +242,7 @@
 ## Github Actions
 - [chatgpt-action](https://github.com/kxxt/chatgpt-action) 557⭐️ Let ChatGPT review PRs for you
 - [ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) 3759⭐️ A code review bot powered by ChatGPT
-- [openai-pr-reviewer](https://github.com/fluxninja/openai-pr-reviewer) 1404⭐️ OpenAI ChatGPT based PR reviewer and summarizer
+- [openai-pr-reviewer](https://github.com/fluxninja/openai-pr-reviewer) 1405⭐️ OpenAI ChatGPT based PR reviewer and summarizer
 
 ## Cybersecurity
 - [Beelzebub ChatGPT Honeypot](https://github.com/mariocandela/beelzebub) 607⭐️ A secure honeypot framework low code, extremely easy to configure by yaml 🚀
