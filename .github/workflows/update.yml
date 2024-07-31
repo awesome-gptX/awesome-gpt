@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "*/59 * * * *"
+    - cron: "0 */6 * * *"
 
 jobs:
   refresh:
