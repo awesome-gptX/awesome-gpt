@@ -183,6 +183,7 @@
 - [ChatGPT for WearOS](https://github.com/DevEmperor/ChatGPT-WearOS) 105⭐️ A powerful ChatGPT app for all WearOS devices
 - [DuckDuckGPT](https://github.com/kudoai/duckduckgpt) 217⭐️ 🐤 Adds the magic of ChatGPT to DuckDuckGo sidebar
 - [BraveGPT](https://github.com/kudoai/bravegpt) 167⭐️ 🦁 Adds the magic of ChatGPT to Brave Search sidebar
+- [AmazonGPT](https://github.com/KudoAI/amazongpt/) 30⭐️ 🛒 为 Amazon 购物添加人工智能辅助
 
 ## 扩展 ChatGPT 功能
 - [Kubectl OpenAI plugin](https://github.com/sozercan/kubectl-ai) 1050⭐️ This project is a kubectl plugin to generate and apply Kubernetes manifests using OpenAI GPT
@@ -275,4 +276,5 @@
 - [Autoclear ChatGPT History](https://chatgptevo.com/autoclear) 🕶️ Adds chat auto-clear functionality to ChatGPT for more privacy
 - [DuckDuckGPT](https://github.com/kudoai/duckduckgpt) 217⭐️ 🐤 Adds the magic of ChatGPT to DuckDuckGo sidebar
 - [BraveGPT](https://github.com/kudoai/bravegpt) 167⭐️ 🦁 Adds the magic of ChatGPT to Brave Search sidebar
+- [AmazonGPT](https://github.com/KudoAI/amazongpt/) 30⭐️ 🛒 为 Amazon 购物添加人工智能辅助
 

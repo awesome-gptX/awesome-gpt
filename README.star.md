@@ -207,6 +207,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [ChatGPT for WearOS](https://github.com/DevEmperor/ChatGPT-WearOS) 105⭐️ A powerful ChatGPT app for all WearOS devices
 - [DuckDuckGPT](https://github.com/kudoai/duckduckgpt) 217⭐️ 🐤 Adds the magic of ChatGPT to DuckDuckGo sidebar
 - [BraveGPT](https://github.com/kudoai/bravegpt) 167⭐️ 🦁 Adds the magic of ChatGPT to Brave Search sidebar
+- [AmazonGPT](https://github.com/KudoAI/amazongpt/) 30⭐️ 🛒 Adds AI assistance to Amazon shopping
 
 ## Extend ChatGPT Feature
 
@@ -332,4 +333,5 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [ChatGPT Widescreen Mode](https://chatgptwidescreen.com) 🖥️ Add Widescreen + Fullscreen modes to ChatGPT for enhanced viewing
 - [ChatGPT Infinity](https://chatgptinfinity.com) ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 - [ChatGPT Export](https://github.com/yaph/chatgpt-export) 62⭐️ A browser bookmarklet for exporting conversations with ChatGPT as markdown files.
-- [ChatGPT Auto-Continue](https://chatgptevo.com/autocontinue) ⏩ Automatically continue generating multiple ChatGPT responses. 
+- [ChatGPT Auto-Continue](https://chatgptevo.com/autocontinue) ⏩ Automatically continue generating multiple ChatGPT responses.
+- [AmazonGPT](https://github.com/KudoAI/amazongpt/) 30⭐️ 🛒 Adds AI assistance to Amazon shopping
