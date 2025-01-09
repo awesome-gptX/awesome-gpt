@@ -134,6 +134,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [ChatGPT Infinity](https://chatgptinfinity.com) ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 - [Meeper](https://github.com/pas1ko/meeper) - Transcriptions, summary and more using ChatGPT and Whisper for meetings and any browser tab
 - [XReplyGPT](https://github.com/marcolivierbouch/XReplyGPT) - Is a free Chrome extension that allows you to generates reply automatically for https://x.com/https://twitter.com.
+- [ChatGPT Auto-Continue](https://chatgptautocontinue.com) ⏩ Automatically continue generating answers when ChatGPT responses get cut-off
 
 ## Desktop Applications
 
@@ -333,5 +334,5 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [ChatGPT Widescreen Mode](https://chatgptwidescreen.com) 🖥️ Add Widescreen + Fullscreen modes to ChatGPT for enhanced viewing
 - [ChatGPT Infinity](https://chatgptinfinity.com) ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 - [ChatGPT Export](https://github.com/yaph/chatgpt-export) A browser bookmarklet for exporting conversations with ChatGPT as markdown files.
-- [ChatGPT Auto-Continue](https://chatgptautocontinue.com) ⏩ Automatically continue generating multiple ChatGPT responses.
+- [ChatGPT Auto-Continue](https://chatgptautocontinue.com) ⏩ Automatically continue generating answers when ChatGPT responses get cut-off
 - [AmazonGPT](https://github.com/KudoAI/amazongpt/) 🛒 Adds AI assistance to Amazon shopping
