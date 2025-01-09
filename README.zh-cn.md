@@ -131,6 +131,7 @@
 - [ChatGPT-Prompt-Genius](https://github.com/benf2004/ChatGPT-Prompt-Genius) Multi-purpose ChatGPT Chrome Extension
 - [ReadAnything](https://github.com/Zhangyanbo/ReadAnything) Read any hard content with the help of GPT
 - [ChatGPT Widescreen Mode](https://chatgptevo.com/widescreen) 🖥️ Add Widescreen + Full-Window modes to ChatGPT for enhanced viewing
+- [ChatGPT Auto-Continue](https://chatgptautocontinue.com) ⏩ 当 ChatGPT 响应中断时自动继续生成答案
 
 ## 桌面应用
 
@@ -276,4 +277,5 @@
 - [Autoclear ChatGPT History](https://autoclearchatgpt.com) 🕶️ Adds chat auto-clear functionality to ChatGPT for more privacy
 - [DuckDuckGPT](https://duckduckgpt.com) 🐤 Adds the magic of ChatGPT to DuckDuckGo sidebar
 - [BraveGPT](https://bravegpt.com) 🦁 Adds the magic of ChatGPT to Brave Search sidebar
+- [ChatGPT Auto-Continue](https://chatgptautocontinue.com) ⏩ 当 ChatGPT 响应中断时自动继续生成答案
 - [AmazonGPT](https://github.com/KudoAI/amazongpt/) 🛒 为 Amazon 购物添加人工智能辅助
