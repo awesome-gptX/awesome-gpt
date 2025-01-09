@@ -205,8 +205,8 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [progressive-chatgpt-bot](https://github.com/ulivz/progressive-chatgpt-bot) 6⭐️ A progressive ChatGPT feishu bot, made for Girlfriend
 - [wx-chatgpt](https://github.com/wuomzfx/wx-chatgpt) 62⭐️ Wechat Public Account cloud hosting access chatgpt template
 - [ChatGPT for WearOS](https://github.com/DevEmperor/ChatGPT-WearOS) 105⭐️ A powerful ChatGPT app for all WearOS devices
-- [DuckDuckGPT](https://github.com/kudoai/duckduckgpt) 218⭐️ 🐤 Adds the magic of ChatGPT to DuckDuckGo sidebar
-- [BraveGPT](https://github.com/kudoai/bravegpt) 167⭐️ 🦁 Adds the magic of ChatGPT to Brave Search sidebar
+- [DuckDuckGPT](https://duckduckgpt.com) 218⭐️ 🐤 Adds the magic of ChatGPT to DuckDuckGo sidebar
+- [BraveGPT](https://bravegpt.com) 167⭐️ 🦁 Adds the magic of ChatGPT to Brave Search sidebar
 - [AmazonGPT](https://github.com/KudoAI/amazongpt/) 30⭐️ 🛒 Adds AI assistance to Amazon shopping
 
 ## Extend ChatGPT Feature
@@ -326,12 +326,12 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [WebGPT](https://github.com/0hq/WebGPT) 3665⭐️ Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~2000 lines of vanilla Javascript.
 - [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) 14751⭐️ A UserScript that enables ChatGPT to chat smoothly, never experiencing network errors again, and no need to refresh the webpage anymore.
 - [chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) 1389⭐️ Export and Share your ChatGPT conversation history
-- [ChatGPT Auto Refresh](https://chatgptevo.com/autorefresh) ↻ Keeps ChatGPT sessions fresh to avoid network errors + Cloudflare checks
-- [Autoclear ChatGPT History](https://chatgptevo.com/autoclear) 🕶️ Adds chat auto-clear functionality to ChatGPT for more privacy
-- [DuckDuckGPT](https://github.com/kudoai/duckduckgpt) 218⭐️ 🐤 Adds the magic of ChatGPT to DuckDuckGo sidebar
-- [BraveGPT](https://github.com/kudoai/bravegpt) 167⭐️ 🦁 Adds the magic of ChatGPT to Brave Search sidebar
+- [ChatGPT Auto Refresh](https://chatgptautorefresh.com) ↻ Keeps ChatGPT sessions fresh to avoid network errors + Cloudflare checks
+- [Autoclear ChatGPT History](https://autoclearchatgpt.com) 🕶️ Adds chat auto-clear functionality to ChatGPT for more privacy
+- [DuckDuckGPT](https://duckduckgpt.com) 218⭐️ 🐤 Adds the magic of ChatGPT to DuckDuckGo sidebar
+- [BraveGPT](https://bravegpt.com) 167⭐️ 🦁 Adds the magic of ChatGPT to Brave Search sidebar
 - [ChatGPT Widescreen Mode](https://chatgptwidescreen.com) 🖥️ Add Widescreen + Fullscreen modes to ChatGPT for enhanced viewing
 - [ChatGPT Infinity](https://chatgptinfinity.com) ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 - [ChatGPT Export](https://github.com/yaph/chatgpt-export) 62⭐️ A browser bookmarklet for exporting conversations with ChatGPT as markdown files.
-- [ChatGPT Auto-Continue](https://chatgptevo.com/autocontinue) ⏩ Automatically continue generating multiple ChatGPT responses.
+- [ChatGPT Auto-Continue](https://chatgptautocontinue.com) ⏩ Automatically continue generating multiple ChatGPT responses.
 - [AmazonGPT](https://github.com/KudoAI/amazongpt/) 30⭐️ 🛒 Adds AI assistance to Amazon shopping
