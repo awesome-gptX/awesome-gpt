@@ -135,6 +135,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [Meeper](https://github.com/pas1ko/meeper) - Transcriptions, summary and more using ChatGPT and Whisper for meetings and any browser tab
 - [XReplyGPT](https://github.com/marcolivierbouch/XReplyGPT) - Is a free Chrome extension that allows you to generates reply automatically for https://x.com/https://twitter.com.
 - [ChatGPT Auto-Continue](https://chatgptautocontinue.com) ⏩ Automatically continue generating answers when ChatGPT responses get cut-off
+- [DockyAI](https://docky.ai/) ⏩ Docky AI is a powerful browser extension that allows you to have real-time conversations with multiple AI models through a sidebar. It supports simultaneous communication with multiple models and can assist you in reading web pages, writing, translating, and creating images
 
 ## Desktop Applications
 
