@@ -132,6 +132,7 @@
 - [ReadAnything](https://github.com/Zhangyanbo/ReadAnything) Read any hard content with the help of GPT
 - [ChatGPT Widescreen Mode](https://chatgptevo.com/widescreen) 🖥️ Add Widescreen + Full-Window modes to ChatGPT for enhanced viewing
 - [ChatGPT Auto-Continue](https://chatgptautocontinue.com) ⏩ 当 ChatGPT 响应中断时自动继续生成答案
+- [DockyAI](https://docky.ai/) ⏩ Docky AI 是一款功能强大的浏览器插件，允许您通过侧边栏与多个 AI 模型进行实时对话。它支持多模型同时交流，并能协助您阅读网页、写作、翻译和创作图片
 
 ## 桌面应用
 
