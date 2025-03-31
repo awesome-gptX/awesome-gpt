@@ -76,6 +76,7 @@
 
 ### Go
 - [doctorgpt](https://github.com/ingyamilmolinar/doctorgpt) DoctorGPT 是一个轻量级的独立二进制文件，它可以监控你的应用程序日志中的问题并对其进行诊断。
+- [Casibase](https://github.com/casibase/casibase) Casibase 提供一个开源的类 LangChain 人工智能知识数据库和聊天机器人，使用 Golang 构建，具有管理用户界面并支持多种模型（DeepSeek R1、ChatGPT、Claude、Llama 3、HuggingFace 等）。能够提供人工智能驱动的智能回复。
 
 ### Kotlin
 - [GPT-Assistant](https://github.com/sunshine0523/GPT-Assistant) GPT 助手是一款软件,它将 GPT 集成到 Android 设备的操作中。
