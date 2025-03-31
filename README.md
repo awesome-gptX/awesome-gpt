@@ -76,6 +76,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 ### Go
 - [doctorgpt](https://github.com/ingyamilmolinar/doctorgpt) DoctorGPT is a lightweight self-contained binary that monitors your application logs for problems and diagnoses them.
+- [Casibase](https://github.com/casibase/casibase) Casibase provides an open source LangChain-like AI knowledge database and chatbot built using Golang with Admin UI and multi-model support (DeepSeek R1, ChatGPT, Claude, Llama 3, HuggingFace, etc.). Ability to provide AI-driven smart replies.
 
 ### Kotlin
 - [GPT-Assistant](https://github.com/sunshine0523/GPT-Assistant) GPT Assistant is a software that integrates GPT into the operation of Android devices.
