@@ -102,6 +102,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [DelphiOpenAI](https://github.com/HemulGM/DelphiOpenAI) OpenAI API client for Delphi. Use ChatGPT, DALL-E and other products
 - [Embedchain](https://github.com/embedchain/embedchain): Framework to create ChatGPT like bots over your dataset.
 - [one-api](https://github.com/songquanpeng/one-api): OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.
+- [Agent LLM Router](https://api-catalog-three.vercel.app/blog/free-llm-api): Multi-provider LLM gateway — route requests to OpenAI, Anthropic, Google Gemini, Groq, Together AI, DeepSeek through a unified OpenAI-compatible API. BYO keys, response caching, automatic retries. 24+ models.
 
 ## Client-side tools
 
