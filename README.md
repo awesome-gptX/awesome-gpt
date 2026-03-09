@@ -212,6 +212,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [DuckDuckGPT](https://duckduckgpt.com) 🐤 Adds the magic of ChatGPT to DuckDuckGo sidebar
 - [BraveGPT](https://bravegpt.com) 🦁 Adds the magic of ChatGPT to Brave Search sidebar
 - [AmazonGPT](https://github.com/KudoAI/amazongpt/) 🛒 Adds AI assistance to Amazon shopping
+- [AskePub](https://github.com/GeiserX/AskePub) Self-hosted Telegram bot that uses GPT-4o to generate AI study notes from ePub books. Open source, MIT, Python, Docker.
 
 ## Extend ChatGPT Feature
 
