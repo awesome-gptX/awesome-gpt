@@ -266,6 +266,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [Delphi Chat GPT](https://github.com/HemulGM/ChatGPT) Delphi Chat GPT with FMX
 - [Horizon AI Template](https://github.com/horizon-ui/chatgpt-ai-template) Trendiest Open-Source ChatGPT AI Template & Starter Kit for React & NextJS
 - [GPT Mobile](https://github.com/Taewan-P/gpt_mobile) GPT Mobile is an Android app that can chat with multiple LLMs at once! Currently supports ChatGPT, Anthropic Claude, and Google Gemini.
+- [AnveVoice](https://anvevoice.app) AI voice agent for websites powered by LLMs — navigates pages, fills forms, and books appointments in 50+ languages with <700ms latency.
 
 ## CLI tools
 
