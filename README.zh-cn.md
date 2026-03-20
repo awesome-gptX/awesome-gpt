@@ -134,6 +134,7 @@
 - [ChatGPT Widescreen Mode](https://chatgptevo.com/widescreen) 🖥️ Add Widescreen + Full-Window modes to ChatGPT for enhanced viewing
 - [ChatGPT Auto-Continue](https://chatgptautocontinue.com) ⏩ 当 ChatGPT 响应中断时自动继续生成答案
 - [DockyAI](https://docky.ai/) ⏩ Docky AI 是一款功能强大的浏览器插件，允许您通过侧边栏与多个 AI 模型进行实时对话。它支持多模型同时交流，并能协助您阅读网页、写作、翻译和创作图片
+- [ChatGPT Toolbox](https://chromewebstore.google.com/detail/chatgpt-toolbox/jlalnhjkfiogoeonamcnngdndjbneina) - ChatGPT 全能增强扩展 — 全文搜索聊天记录、文件夹管理、300+ 提示词库与提示词链、书签、DALL-E 图库、MP3 语音下载、用量追踪、批量导出/删除/归档，40+ 功能，支持10种语言。
 
 ## 桌面应用
 
