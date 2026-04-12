@@ -287,6 +287,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [Smalltalk](https://github.com/tinystruct/smalltalk) A funny anonymous chat software which support CLI and integrated with ChatGPT / GPT-3. 
 - [CLI-Co-Pilot](https://github.com/AntonOsika/CLI-Co-Pilot) CLI tool that uses Codex to turn natural language commands into their Bash/ZShell/PowerShell equivalents
 - [cli-gpt](https://github.com/MagicCube/cli-gpt) Translate human language to command line using ChatGPT
+- [Toprank](https://github.com/nowork-studio/toprank) Open-source MIT Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and the Google Ads API to ship fixes such as meta tag rewrites, JSON-LD schema generation, keyword bid adjustments, and CMS content pushes.
 - [HappyCommit](https://github.com/jackbackes/happycommit) HappyCommit is a delightful tool that harnesses the power of OpenAI's GPT-3.5 Turbo language model to generate meaningful and descriptive Git commit messages for you
 - [ai-commit](https://github.com/guanguans/ai-commit) Automagically generate conventional git commit messages with AI.
 - [autodoc](https://github.com/context-labs/autodoc) Autodoc is a experimental toolkit for auto-generating codebase documentation for git repositories using Large Language Models, like GPT-4 or Alpaca. 
