@@ -104,6 +104,8 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [Embedchain](https://github.com/embedchain/embedchain): Framework to create ChatGPT like bots over your dataset.
 - [one-api](https://github.com/songquanpeng/one-api): OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.
 - [Agent LLM Router](https://api-catalog-three.vercel.app/blog/free-llm-api): Multi-provider LLM gateway — route requests to OpenAI, Anthropic, Google Gemini, Groq, Together AI, DeepSeek through a unified OpenAI-compatible API. BYO keys, response caching, automatic retries. 24+ models.
+- [AI Dev Board](https://aidevboard.com/api/v1) Public REST API and MCP server for 9,161 AI engineering jobs across 524 companies; useful for ChatGPT agents that search, match, or monitor AI/ML roles.
+- [Not Human Search](https://nothumansearch.ai/api/v1) Search API and MCP server for 4,110 agent-ready sites, with scoring, URL checks, and live MCP endpoint verification.
 
 ## Client-side tools
 
