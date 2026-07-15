@@ -237,6 +237,7 @@
 - [cz-git](https://github.com/Zhengqbbb/cz-git) cz-git | czg 🛠️ DX first and more engineered, lightweight, customizable, standard output format commitizen adapter and CLI
 - [Smalltalk](https://github.com/tinystruct/smalltalk) A funny anonymous chat software which support CLI and integrated with ChatGPT / GPT-3.
 - [CLI-Co-Pilot](https://github.com/AntonOsika/CLI-Co-Pilot) CLI tool that uses Codex to turn natural language commands into their Bash/ZShell/PowerShell equivalents
+- [Tura](https://github.com/Tura-AI/tura) 本地优先的开源 AI 编程代理，提供 CLI 和 TUI 界面，并支持 OpenAI 兼容 API 与本地模型。
 - [cli-gpt](https://github.com/MagicCube/cli-gpt) Translate human language to command line using ChatGPT
 - [HappyCommit](https://github.com/jackbackes/happycommit) HappyCommit is a delightful tool that harnesses the power of OpenAI's GPT-3.5 Turbo language model to generate meaningful and descriptive Git commit messages for you
 - [ai-commit](https://github.com/guanguans/ai-commit) Automagically generate conventional git commit messages with AI.
