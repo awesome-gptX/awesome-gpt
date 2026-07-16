@@ -291,6 +291,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [cz-git](https://github.com/Zhengqbbb/cz-git) cz-git | czg 🛠️ DX first and more engineered, lightweight, customizable, standard output format commitizen adapter and CLI
 - [Smalltalk](https://github.com/tinystruct/smalltalk) A funny anonymous chat software which support CLI and integrated with ChatGPT / GPT-3. 
 - [CLI-Co-Pilot](https://github.com/AntonOsika/CLI-Co-Pilot) CLI tool that uses Codex to turn natural language commands into their Bash/ZShell/PowerShell equivalents
+- [Tura](https://github.com/Tura-AI/tura) Local-first open-source coding agent with CLI and TUI interfaces, OpenAI-compatible APIs, and local model support.
 - [cli-gpt](https://github.com/MagicCube/cli-gpt) Translate human language to command line using ChatGPT
 - [Toprank](https://github.com/nowork-studio/toprank) Open-source MIT Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and the Google Ads API to ship fixes such as meta tag rewrites, JSON-LD schema generation, keyword bid adjustments, and CMS content pushes.
 - [NotFair](https://github.com/nowork-studio/NotFair) Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live data through Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP to run audits, keyword research, meta tag optimisation, schema markup, and paid-ads management from the CLI.
