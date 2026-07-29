@@ -317,6 +317,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 ## Cybersecurity
 
 - [Beelzebub ChatGPT Honeypot](https://github.com/mariocandela/beelzebub) A secure honeypot framework low code, extremely easy to configure by yaml 🚀
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation.
 - [Penetration Testing Findings Generator](https://github.com/Stratus-Security/FinGen) A ChatGPT based penetration testing findings generator.
 
 ## Prompts
