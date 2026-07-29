@@ -263,6 +263,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [Zapier](https://zapier.com/ai/chatbot) Create an AI chatbot that answers questions, resolves issues, and nurtures leads with the power of automation.
 - [CreatorSkills](https://creatorskills.co) Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 - [Hellomatik](https://hellomatik.com) AI agent platform that turns company knowledge into agents for support, sales and booking across WhatsApp, email and web.
+- [GPT Image 2](https://gptimage2.asia/) - AI image generator and editor for marketing visuals.
 
 ## Applications
 
