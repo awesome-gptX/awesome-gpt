@@ -266,4 +266,5 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [GPT Image 2](https://gptimage2.asia/) - AI image generator and editor for marketing visuals.
 
 - [GPTGeminiGrok.AI](https://trygrokai.asia/) - Browser-based workspace for GPT, Gemini, and Grok chat, image generation, and everyday productivity workflows.
+- [Eimu](https://eimu.art) - Online GPT Image 2 & Nano Banana Pro image generator, no API key or relay setup required
 
