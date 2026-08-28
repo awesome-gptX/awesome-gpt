@@ -87,6 +87,8 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 ## API tools
 
+- [SandBase CLI](https://github.com/sandbaseai/cli) - Open-source command-line tool and MCP bridge for accessing 2,000+ AI models through one interface.
+
 - [toolkit-ai](https://github.com/hey-pal/toolkit-ai) AI-agents that automatically generate and use Langchain Tools and ChatGPT plugins
 - [whetstone.chatgpt](https://github.com/johniwasz/whetstone.chatgpt) A simple light-weight library that wraps the GPT-3 API with support for dependency injection
 - [chatgpt-starter](https://github.com/zhangjh/chatgpt-starter) A chatgpt starter based on springboot to provider chatgpt api for java
@@ -267,4 +269,3 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 - [GPTGeminiGrok.AI](https://trygrokai.asia/) - Browser-based workspace for GPT, Gemini, and Grok chat, image generation, and everyday productivity workflows.
 - [Eimu](https://eimu.art) - Online GPT Image 2 & Nano Banana Pro image generator, no API key or relay setup required
-
