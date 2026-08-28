@@ -86,6 +86,7 @@
 
 
 ## API 工具
+- [SandBase CLI](https://github.com/sandbaseai/cli) - 开源命令行工具和 MCP 桥接器，通过统一接口访问 2,000+ AI 模型。
 - [toolkit-ai](https://github.com/hey-pal/toolkit-ai) 自动生成和使用 Langchain Tools 和 ChatGPT 插件的 AI-agents
 - [whetstone.chatgpt](https://github.com/johniwasz/whetstone.chatgpt) 一个简单的轻量级库，包装GPT-3 API，支持依赖性注入
 - [chatgpt-starter](https://github.com/zhangjh/chatgpt-starter) 基于 spring boot 的 chatGPT 启动器，为 java 提供 chatGPT api
