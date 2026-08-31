@@ -264,6 +264,7 @@
 - [awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt)  Posts & thoughts about prompting ChatGPT for different usages
 - [GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
 - [ListPrompt.com](https://listprompt.com/)  List of awesome GPT prompts from the community.
+- [AILesson Prompts](https://ailesson.io/zh/prompts) - 面向真实任务的实用 AI 提示语模板。
 
 ## 反向代理
 
