@@ -51,6 +51,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 ## Free AI Resources
 - [DEEPNIGHT AIForCause API](https://github.com/deepnight-ai/aiforcause)
+- [ModelBenchmark](https://modelbenchmark.io) - Specs, prices, benchmarks and lifecycle for 2,000+ AI models.
 
 ## ChatGPT Integrated Projects 
 
