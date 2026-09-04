@@ -223,7 +223,7 @@
 - [chatgpt-android](https://github.com/skydoves/chatgpt-android) ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose
 - [ChatGPT for WearOS](https://github.com/DevEmperor/ChatGPT-WearOS) A powerful ChatGPT app for all WearOS devices
 - [Smalltalk](https://github.com/tinystruct/smalltalk) A funny anonymous chat software which integrated with OpenAI ChatGPT and Stability AI.
-- [DevProjex](https://github.com/Avazbek22/DevProjex) 跨平台 GUI 和 CLI，用于选择项目文件并为 GPT 和 LLM 工作流导出结构化且包含 Token 统计的上下文。
+- [DevProjex](https://github.com/Avazbek22/DevProjex) 跨平台代码库上下文工具，提供 GUI、TUI、CLI 和只读 MCP 服务，用于为 GPT 和 LLM 工作流选择、预览、MCP 模式强制凭据脱敏、压缩并导出结构化上下文。
 
 ## 命令行工具
 - [README-AI](https://github.com/eli64s/README-AI) 使用 OpenAI 语言模型 API，为编写美观、结构化和信息丰富的 README.md 文件而设计的命令行工具。
