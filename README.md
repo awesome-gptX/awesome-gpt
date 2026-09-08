@@ -270,6 +270,10 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [Eimu](https://eimu.art) - Online GPT Image 2 & Nano Banana Pro image generator, no API key or relay setup required
 - [Agent QA](https://github.com/vostride/agent-qa) - Source-available QA agent for natural-language web and mobile tests using OpenAI-compatible models, with persistent test memory, a dashboard, CLI, and MCP server.
 
+## CLI tools
+
+- [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries. Each task gets a dedicated branch/worktree, the merge queue owns risk-based review, and subagents such as Pi and Codex do the work.
+
 ## Prompts
 
 - [AILesson Prompts](https://ailesson.io/prompts) - 300+ practical prompt recipes for work, learning, research, planning, and everyday tasks.

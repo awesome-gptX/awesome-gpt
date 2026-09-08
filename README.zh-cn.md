@@ -244,6 +244,7 @@
 - [ai-commit](https://github.com/guanguans/ai-commit) Automagically generate conventional git commit messages with AI.
 - [autodoc](https://github.com/context-labs/autodoc) Autodoc is a experimental toolkit for auto-generating codebase documentation for git repositories using Large Language Models, like GPT-4 or Alpaca.
 - [prompt](https://github.com/raiyanyahya/prompt) 🥝 一个与 OpenAI ChatGPT API 互动的命令行程序。
+- [YYLO](https://github.com/yylo-dev/yylo) 面向编码智能体的命令行编排器，提供带类型的任务、验证、合并与发布就绪边界；每个任务使用专属分支/worktree，合并队列负责基于风险的审查，由 Pi 和 Codex 等子智能体执行工作。
 
 
 
