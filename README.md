@@ -278,4 +278,5 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 ## Prompts
 
 - [AILesson Prompts](https://ailesson.io/prompts) - 300+ practical prompt recipes for work, learning, research, planning, and everyday tasks.
+- [OrcaPromptVault](https://github.com/Continuum-AI-Corp/OrcaPromptVault) - 110 production system prompts and tool schemas from 35 shipping AI products, 35 of them recorded off the wire with the command that reproduces each; every file marked as recorded or as reported by the model.
 
