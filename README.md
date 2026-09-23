@@ -42,6 +42,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 ## Official Resources
 
+- [MagicKit](https://kaketiti.github.io) - Free AI tools collection - 66+ tools, zero registration, zero API key required
 - [ChatGPT Official App](https://chat.openai.com)
 - [OpenAI API Documentation](https://beta.openai.com/docs)
 - [chatGPT launch blog](https://openai.com/blog/chatgpt/)
