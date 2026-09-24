@@ -264,7 +264,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [Wielded](https://wielded.com/) Create AI workflows using Personas. Integrates with OpenAI, Azure, Anthropic & AWS Bedrock models. Free for individuals.
 - [Zapier](https://zapier.com/ai/chatbot) Create an AI chatbot that answers questions, resolves issues, and nurtures leads with the power of automation.
 - [CreatorSkills](https://creatorskills.co) Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
-- [Hellomatik](https://hellomatik.com) AI agent platform that turns company knowledge into agents for support, sales and booking across WhatsApp, email and web.
+- [Hellomatik](https://hellomatik.com) AI agents that prepare a company's decisions from one blueprint of its data, procedures and formulas, for an approver to accept, amend or reject.
 - [GPT Image 2](https://gptimage2.asia/) - AI image generator and editor for marketing visuals.
 
 - [GPTGeminiGrok.AI](https://trygrokai.asia/) - Browser-based workspace for GPT, Gemini, and Grok chat, image generation, and everyday productivity workflows.
