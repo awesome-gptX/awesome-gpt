@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/awesome-chatgpt/awesome-chatgpt.git"
+    "url": "git+https://github.com/awesome-gptX/awesome-gpt.git"
   },
   "keywords": [
     "chatgpt",
@@ -24,9 +24,9 @@
   "author": "Awesome ChatGPT",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/awesome-chatgpt/awesome-chatgpt/issues"
+    "url": "https://github.com/awesome-gptX/awesome-gpt/issues"
   },
-  "homepage": "https://github.com/awesome-chatgpt/awesome-chatgpt#readme",
+  "homepage": "https://github.com/awesome-gptX/awesome-gpt#readme",
   "dependencies": {
     "@octokit/action": "^5.0.2",
     "octokit": "^2.0.14"
