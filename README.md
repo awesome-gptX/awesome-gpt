@@ -274,10 +274,10 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 ## CLI tools
 
+- [Jev Social](https://github.com/socai-io/jev-social) - Read-only social research agent where Jev chooses bounded operations, the local `socai CLI` drives signed-in Chrome on Instagram, TikTok, and LinkedIn, and source-linked evidence becomes a cited report.
 - [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries. Each task gets a dedicated branch/worktree, the merge queue owns risk-based review, and subagents such as Pi and Codex do the work.
 
 ## Prompts
 
 - [AILesson Prompts](https://ailesson.io/prompts) - 300+ practical prompt recipes for work, learning, research, planning, and everyday tasks.
 - [OrcaPromptVault](https://github.com/Continuum-AI-Corp/OrcaPromptVault) - 119 production system prompts and tool schemas from 43 shipping AI products, 44 of them recorded off the wire with the command that reproduces each; every file marked as recorded or as reported by the model.
-
