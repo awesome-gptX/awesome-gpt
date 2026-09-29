@@ -276,6 +276,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 - [Jev Social](https://github.com/socai-io/jev-social) - Read-only social research agent where Jev chooses bounded operations, the local `socai CLI` drives signed-in Chrome on Instagram, TikTok, and LinkedIn, and source-linked evidence becomes a cited report.
 - [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries. Each task gets a dedicated branch/worktree, the merge queue owns risk-based review, and subagents such as Pi and Codex do the work.
+- [agent-manager](https://github.com/YoanWai/agent-manager) - Terminal UI that runs coding-agent CLIs side by side, OpenAI's Codex among them, each in its own persistent tmux session with the login and subscription that CLI already has.
 
 ## Prompts
 
