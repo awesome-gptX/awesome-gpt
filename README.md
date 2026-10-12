@@ -112,7 +112,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [AI Dev Jobs](https://aidevboard.com): REST API and MCP server for 8,400+ AI/ML job listings at 489 companies. OpenAPI 3.0 spec, free tier (100 req/hr), programmatic access for agent-driven recruiting pipelines.
 - [Kevoryn](https://kevoryn.com) - AI API relay — 66 models (GPT-5, Claude, Gemini, DeepSeek) unified under a single OpenAI-compatible API key.
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent session below the harness, then replays it offline with the network off or forks it from any step onto a different model. Ships an MCP server. Apache-2.0.
-
+- [Fusebox](https://fusebox.sifatsrk.workers.dev/) - Spend-ceiling alerts for OpenAI API users: emails you at 50%, 80%, and 100% of a monthly budget you set, so a retry loop or leaked key doesn't turn into a surprise bill.
 ## Client-side tools
 
 - [chatgpt.js](https://chatgpt.js.org) 🤖 A powerful client-side JavaScript library for ChatGPT
