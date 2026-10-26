@@ -149,6 +149,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [ChatGPT Auto-Continue](https://chatgptautocontinue.com) ⏩ Automatically continue generating answers when ChatGPT responses get cut-off
 - [DockyAI](https://docky.ai/) ⏩ Docky AI is a powerful browser extension that allows you to have real-time conversations with multiple AI models through a sidebar. It supports simultaneous communication with multiple models and can assist you in reading web pages, writing, translating, and creating images
 - [ChatGPT Toolbox](https://chromewebstore.google.com/detail/chatgpt-toolbox/jlalnhjkfiogoeonamcnngdndjbneina) - All-in-one ChatGPT power user extension — full-text search history, folders, 300+ prompt library with chaining, bookmarks, DALL-E gallery, MP3 voice download, usage tracker, bulk export/delete/archive, and 40+ more features in 10 languages.
+- [Panelize](https://github.com/Manho/Panelize) Free, open-source Chrome/Edge extension that sends one prompt to ChatGPT, Claude, Gemini, DeepSeek and more and shows their official web apps side by side, using your existing logins instead of API keys
 
 ## Desktop Applications
 
