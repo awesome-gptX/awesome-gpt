@@ -49,6 +49,7 @@
 - [OpenAI Discord Channel](https://discord.com/invite/openai)
 
 ## 免费人工智能资源
+- [巨浪 AI](https://jvlangai.com/models) - 免费查询模型公开 API 报价、分组、计费单位与原始来源，报价采集状态与调用实测分开展示。
 - [DEEPNIGHT aiforcause API](https://github.com/deepnight-ai/aiforcause)
 
 ## ChatGPT 集成项目
