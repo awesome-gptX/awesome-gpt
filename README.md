@@ -50,6 +50,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [OpenAI Discord Channel](https://discord.com/invite/openai)
 
 ## Free AI Resources
+- [Jvlang AI](https://jvlangai.com/models) - Chinese-language model and public API quote directory with source links and collection status; quotes are not inference verification.
 - [DEEPNIGHT AIForCause API](https://github.com/deepnight-ai/aiforcause)
 - [ModelBenchmark](https://modelbenchmark.io) - Specs, prices, benchmarks and lifecycle for 2,000+ AI models.
 - [The Aggregate](https://theaggregate.ai) - One daily LLM ranking fitted across public benchmark leaderboards, with standard errors and source-linked scores.
