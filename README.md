@@ -164,6 +164,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [free-chatgpt-client-pub](https://github.com/akl7777777/free-chatgpt-client-pub) A free chatgpt client, no need for a key, no need to log in
 - [MindMac](https://mindmac.app) Feature-rich & privacy-first native ChatGPT app for macOS to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter all in one place, designed for maximum productivity. Currently available in 15 languages.
 - [BrainSoup](https://www.nurgo-software.com/products/brainsoup) Versatile multi-LLM client for Windows with local document indexing, RAG, multi-modality, multi-agent automation, code interpreter, sandboxed file system and more.
+- [PromptPilot](https://github.com/navasshereef1/PromptPilot) Free, open-source Windows tray app that rewrites your prompt in place inside ChatGPT, Claude and Gemini with one click.
 - [Locally Uncensored](https://github.com/PurpleDoubleD/locally-uncensored) Open-source desktop app for running uncensored AI models locally. Chat, image generation, and video generation — fully private and offline. Built with Tauri, React, Ollama, and ComfyUI.
 
 ## Editors
