@@ -115,6 +115,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent session below the harness, then replays it offline with the network off or forks it from any step onto a different model. Ships an MCP server. Apache-2.0.
 - [Fusebox](https://fusebox.sifatsrk.workers.dev/) - Spend-ceiling alerts for OpenAI API users: emails you at 50%, 80%, and 100% of a monthly budget you set, so a retry loop or leaked key doesn't turn into a surprise bill.
 - [Scalekit](https://scalekit.com) - AI agent integration platform: 600+ connectors and 35,000+ tools that agents call as each user, with per-user OAuth handled by the platform; Python and Node.js SDKs plus a hosted MCP server.
+- [Imagera LLM API](https://imagera.ai/llm-api) - OpenAI-compatible endpoint (`https://api.imagera.ai/llm/v1`) for 320+ language models from 48 labs with one API key, streaming supported, billed per token; public model list with prices at `https://api.imagera.ai/llm/v1/models`.
 ## Client-side tools
 
 - [chatgpt.js](https://chatgpt.js.org) 🤖 A powerful client-side JavaScript library for ChatGPT
@@ -280,6 +281,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 - [Jev Social](https://github.com/socai-io/jev-social) - Read-only social research agent where Jev chooses bounded operations, the local `socai CLI` drives signed-in Chrome on Instagram, TikTok, and LinkedIn, and source-linked evidence becomes a cited report.
 - [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries. Each task gets a dedicated branch/worktree, the merge queue owns risk-based review, and subagents such as Pi and Codex do the work.
+- [Imagera Code](https://imagera.ai/code) - AI coding agent for the terminal (`npm i -g imagera-code`): reads and edits your project, runs commands and tests, and works with 276 coding models including GPT, Claude and Gemini on one plan.
 - [5dive](https://github.com/5dive-ai/5dive) - Runs a team of AI agents on your own Linux server. Each agent is a Linux user running Codex, Claude Code or another official agent CLI as a systemd service, and you message them on Telegram or Discord.
 
 ## Prompts
