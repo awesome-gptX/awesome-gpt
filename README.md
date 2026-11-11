@@ -286,3 +286,4 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 - [AILesson Prompts](https://ailesson.io/prompts) - 300+ practical prompt recipes for work, learning, research, planning, and everyday tasks.
 - [OrcaPromptVault](https://github.com/Continuum-AI-Corp/OrcaPromptVault) - 119 production system prompts and tool schemas from 43 shipping AI products, 44 of them recorded off the wire with the command that reproduces each; every file marked as recorded or as reported by the model.
+- [Prompt Generator](https://trypromptgenerator.com) - Free prompt generator that writes prompts in the syntax of the AI tool you pick: ChatGPT, Claude, Gemini, Midjourney, Nano Banana, Veo, Sora and more. 10 free prompts a day without an account.
