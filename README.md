@@ -247,6 +247,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 ## Web applications
 
+- [HumanPen](https://humanpen.net/) Document-level AI writing & editing platform (Humanize for DOCX/PPTX/TXT, Condense for DOCX word-budget, Citation Format Correction across 12 styles, and Translate across 12 languages; 100 signup credits, credit-based pricing)
 - [Pagefelt - Mental Health Journal and AI Coach powered by ChatGPT](https://www.pagefelt.com?githubrepo)
 - [kindle-gpt](https://github.com/mckaywrigley/kindle-gpt) AI search & chat on your Kindle highlights
 - [eslint-gpt](https://github.com/ycjcl868/eslint-gpt) Generate your eslint rule with OpenAI and Vercel Edge Functions
