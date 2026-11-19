@@ -53,6 +53,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [DEEPNIGHT AIForCause API](https://github.com/deepnight-ai/aiforcause)
 - [ModelBenchmark](https://modelbenchmark.io) - Specs, prices, benchmarks and lifecycle for 2,000+ AI models.
 - [The Aggregate](https://theaggregate.ai) - One daily LLM ranking fitted across public benchmark leaderboards, with standard errors and source-linked scores.
+- [Spicy Lab](https://spicyapi.app) - Independent comparison and benchmark site ranking NSFW AI image, video, and chat models with side-by-side test runs and published methodology (not a generator; 160 models / 3,854 runs as of 2026-11-07).
 
 ## ChatGPT Integrated Projects 
 
