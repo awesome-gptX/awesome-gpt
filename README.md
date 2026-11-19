@@ -275,6 +275,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [Eimu](https://eimu.art) - Online GPT Image 2 & Nano Banana Pro image generator, no API key or relay setup required
 - [Agent QA](https://github.com/vostride/agent-qa) - Source-available QA agent for natural-language web and mobile tests using OpenAI-compatible models, with persistent test memory, a dashboard, CLI, and MCP server.
 - [ENZO](https://github.com/theguysudo/ENZO) - Self-hosted, open-source AI workspace with chat, agents, and skills, running entirely on your own provider API keys (BYOK).
+- [OneTag AI - Add AI to any static site with one script tag, no backend](https://onetagai.com)
 
 ## CLI tools
 
