@@ -266,6 +266,7 @@
 - [GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
 - [ListPrompt.com](https://listprompt.com/)  List of awesome GPT prompts from the community.
 - [AILesson Prompts](https://ailesson.io/zh/prompts) - 面向真实任务的实用 AI 提示语模板。
+- [Prompt Generator](https://trypromptgenerator.com) - 按你所选 AI 工具的语法生成提示词，支持 ChatGPT、Claude、Gemini、Midjourney、Nano Banana、Veo、Sora 等。免费使用，无需注册，每天 10 次。
 
 ## 反向代理
 
