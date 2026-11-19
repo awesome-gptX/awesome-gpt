@@ -165,6 +165,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [MindMac](https://mindmac.app) Feature-rich & privacy-first native ChatGPT app for macOS to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter all in one place, designed for maximum productivity. Currently available in 15 languages.
 - [BrainSoup](https://www.nurgo-software.com/products/brainsoup) Versatile multi-LLM client for Windows with local document indexing, RAG, multi-modality, multi-agent automation, code interpreter, sandboxed file system and more.
 - [Locally Uncensored](https://github.com/PurpleDoubleD/locally-uncensored) Open-source desktop app for running uncensored AI models locally. Chat, image generation, and video generation — fully private and offline. Built with Tauri, React, Ollama, and ComfyUI.
+- [EXTREMELY Autonomous Agents](https://github.com/maxkxd/extremely-autonomous-agents) Free, open-source autonomous AI agency desktop app for Mac, Windows and Linux. Agents work around the clock and only ask you when you choose. Bring your own Claude, ChatGPT or local models.
 
 ## Editors
 
