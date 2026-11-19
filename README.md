@@ -151,6 +151,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [DockyAI](https://docky.ai/) ⏩ Docky AI is a powerful browser extension that allows you to have real-time conversations with multiple AI models through a sidebar. It supports simultaneous communication with multiple models and can assist you in reading web pages, writing, translating, and creating images
 - [ChatGPT Toolbox](https://chromewebstore.google.com/detail/chatgpt-toolbox/jlalnhjkfiogoeonamcnngdndjbneina) - All-in-one ChatGPT power user extension — full-text search history, folders, 300+ prompt library with chaining, bookmarks, DALL-E gallery, MP3 voice download, usage tracker, bulk export/delete/archive, and 40+ more features in 10 languages.
 - [AI Chat Folders](https://chromewebstore.google.com/detail/ai-chat-folders/heojnnoccgjlcllhgiijhncnmjccbihe) - Chrome extension for local folders, pins, stars, search, prompt library, and Markdown/TXT/PDF export on AI chat sites.
+- [ChatOutline Pro](https://github.com/SamLu574/chatoutline-pro) - Collapsible table-of-contents sidebar and 1-click Obsidian Markdown/YAML exporter for long ChatGPT, Claude, Gemini, and DeepSeek threads.
 
 
 ## Desktop Applications
