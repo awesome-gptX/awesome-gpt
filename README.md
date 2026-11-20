@@ -115,6 +115,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent session below the harness, then replays it offline with the network off or forks it from any step onto a different model. Ships an MCP server. Apache-2.0.
 - [Fusebox](https://fusebox.sifatsrk.workers.dev/) - Spend-ceiling alerts for OpenAI API users: emails you at 50%, 80%, and 100% of a monthly budget you set, so a retry loop or leaked key doesn't turn into a surprise bill.
 - [Scalekit](https://scalekit.com) - AI agent integration platform: 600+ connectors and 35,000+ tools that agents call as each user, with per-user OAuth handled by the platform; Python and Node.js SDKs plus a hosted MCP server.
+- [Atlas Cloud](https://www.atlascloud.ai) - Hosted API gateway with an OpenAI-compatible endpoint (`https://api.atlascloud.ai/v1`) for language models such as DeepSeek, Qwen, GLM and Kimi, plus image, video and audio generation models, all behind one API key.
 ## Client-side tools
 
 - [chatgpt.js](https://chatgpt.js.org) 🤖 A powerful client-side JavaScript library for ChatGPT
