@@ -188,6 +188,7 @@
 - [DuckDuckGPT](https://duckduckgpt.com) 🐤 Adds the magic of ChatGPT to DuckDuckGo sidebar
 - [BraveGPT](https://bravegpt.com) 🦁 Adds the magic of ChatGPT to Brave Search sidebar
 - [AmazonGPT](https://github.com/KudoAI/amazongpt/) 🛒 为 Amazon 购物添加人工智能辅助
+- [AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) 本地优先的桌面/Docker 应用，运行你自己的 AI 机器人（GPT、Claude、Gemini、DeepSeek 等，经一个 Modelflare Key 调用），支持微信、飞书渠道、文件读写和电脑操作
 
 ## 扩展 ChatGPT 功能
 - [Kubectl OpenAI plugin](https://github.com/sozercan/kubectl-ai) This project is a kubectl plugin to generate and apply Kubernetes manifests using OpenAI GPT
