@@ -244,6 +244,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [ChatGPT Widescreen Mode](https://chatgptwidescreen.com) 🖥️ Add Widescreen + Fullscreen modes to ChatGPT for enhanced viewing
 - [ChatGPT Infinity](https://chatgptinfinity.com) ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 - [Co-Developer GPT engine](https://github.com/stoerr/CoDeveloperGPTengine) - provides local r/w file access from ChatGPT chat as GPT actions or ChatGPT plugin, incl. execution of configured actions on your own machine.
+- [Genaya Connect](https://developer.genaya.com/mcp) MCP server that connects ChatGPT to Genaya, an operations app for service businesses: ask about appointments, clients, invoices and calls, and prepare changes the member confirms
 
 ## Web applications
 
