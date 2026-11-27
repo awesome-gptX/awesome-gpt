@@ -244,6 +244,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [ChatGPT Widescreen Mode](https://chatgptwidescreen.com) 🖥️ Add Widescreen + Fullscreen modes to ChatGPT for enhanced viewing
 - [ChatGPT Infinity](https://chatgptinfinity.com) ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 - [Co-Developer GPT engine](https://github.com/stoerr/CoDeveloperGPTengine) - provides local r/w file access from ChatGPT chat as GPT actions or ChatGPT plugin, incl. execution of configured actions on your own machine.
+- [Frank AI Researcher](https://www.hifrank.ai/?utm_source=awesome-gpt&utm_medium=directory&utm_campaign=chatgpt-app) - Available as an app in ChatGPT: run AI-moderated voice interviews with your own customers in 50+ languages and get transcripts and themes back in the chat. Also a remote MCP server ([repo](https://github.com/nar-vardanyan/frank-mcp)).
 
 ## Web applications
 
