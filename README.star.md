@@ -67,7 +67,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [knowledge-gpt](https://github.com/geeks-of-data/knowledge-gpt) 293⭐️ Extract knowledge from all information sources using gpt and other language models. Index and make Q&A session with information sources
 - [Auto-GPT](https://github.com/Torantulino/Auto-GPT) 188204⭐️ An experimental open-source attempt to make GPT-4 fully autonomous
 - [GPTCache](https://github.com/zilliztech/GPTCache) 8236⭐️ GPTCache is a library for creating semantic cache to store responses from LLM queries
-- [gpt4free](https://github.com/xtekky/gpt4free) 67116⭐️ decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com etc...)
+- [gpt4free](https://github.com/xtekky/gpt4free) 67115⭐️ decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com etc...)
 - [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) 7639⭐️ Providing a free OpenAI GPT-4 API ! This is a replication project for the typescript version of xtekky/gpt4free
 - [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) 25552⭐️ MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
 - [chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) 1262⭐️ An open-source chatgpt tool ecosystem where you can combine tools with chatgpt and use natural language to do anything.
@@ -275,6 +275,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [Eimu](https://eimu.art) - Online GPT Image 2 & Nano Banana Pro image generator, no API key or relay setup required
 - [Agent QA](https://github.com/vostride/agent-qa) 825⭐️ - Source-available QA agent for natural-language web and mobile tests using OpenAI-compatible models, with persistent test memory, a dashboard, CLI, and MCP server.
 - [ENZO](https://github.com/theguysudo/ENZO) 123⭐️ - Self-hosted, open-source AI workspace with chat, agents, and skills, running entirely on your own provider API keys (BYOK).
+- [Whizi](https://whizi.io) - One chat app for GPT, Claude, Gemini, Grok, DeepSeek and 280+ other models. Switch models mid-conversation, generate images and video, chat with PDFs. Web, iOS and Android.
 
 ## CLI tools
 
