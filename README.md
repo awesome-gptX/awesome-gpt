@@ -244,6 +244,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 - [ChatGPT Widescreen Mode](https://chatgptwidescreen.com) 🖥️ Add Widescreen + Fullscreen modes to ChatGPT for enhanced viewing
 - [ChatGPT Infinity](https://chatgptinfinity.com) ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 - [Co-Developer GPT engine](https://github.com/stoerr/CoDeveloperGPTengine) - provides local r/w file access from ChatGPT chat as GPT actions or ChatGPT plugin, incl. execution of configured actions on your own machine.
+- [QuestionPunk](https://www.questionpunk.com/features/mcp-server) - Remote MCP server you add to ChatGPT as a custom connector. ChatGPT can then draft a survey in your QuestionPunk account, edit its questions and display logic, publish it when you ask, and, with read access, pull the responses, reports and cross-tabs.
 
 ## Web applications
 
